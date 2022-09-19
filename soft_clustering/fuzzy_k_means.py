@@ -2,10 +2,18 @@
 # @Time   : 15:11 2022/9/12
 # @File   : fuzzy_k_means.py
 import copy
+import os
 import random
 import numpy as np
 
+import torch
+from pykeen.triples import TriplesFactory
+
+from embedding.get_embedding import get_embedding_representation
+
 # This function is for test FCM class
+
+
 def normalise_U(U):
     """
     After the fuzzy K-means, set the one with highest probability to 1, others to 0
@@ -114,7 +122,7 @@ class FCM:
         U = np.zeros((len(self.data), self.cluster_number))
         M = 10000.0
 
-        for i in range(len(data)):
+        for i in range(len(self.data)):
             temp = []
             for j in range(self.cluster_number):
                 temp.append(random.randint(1, int(M)))
@@ -144,7 +152,7 @@ class FCM:
 
     # stop criteria old_u - new_u must smaller than the threshold
     def stop_criteria(self, old, new):
-        for i in range(len(data)):
+        for i in range(len(self.data)):
             for j in range(self.cluster_number):
                 if abs(old[i][j] - new[i][j]) > self.threshold:
                     return False
@@ -170,6 +178,7 @@ class FCM:
                     self.U[i][k] = 1.0/sum
 
             if self.stop_criteria(old_U, self.U) == True:
+                # normalise
                 self.U = normalise_U(self.U)
                 return self.U
 
@@ -177,9 +186,24 @@ class FCM:
 if __name__ == '__main__':
     # import test data
     data = import_data_format_iris("iris.txt")
+    print(type(data))
     # random the data order
     data, order = randomize_data(data)
     # print_matrix(data)
     fcm = FCM(data, 3, 9, 0.001)
     final_location = de_randomise_data(fcm.forward(), order)
     print(checker_iris(final_location))
+
+    # test
+    # root = os.path.abspath(os.path.dirname(os.getcwd()))
+    # lm_path = os.path.join(root, "data_analysis", "lmdb", "lmdb_all.txt")
+    # tf = TriplesFactory.from_path(lm_path)
+    #
+    # model = torch.load("/Users/huangcheng/Documents/ESBasedonSimilarity/embedding/model_lmdb/lmdb_transe_model/trained_model.pkl")
+    #
+    # file_path = "/Users/huangcheng/Documents/ESBasedonSimilarity/data_analysis/lmdb/101_desc.nt"
+    #
+    # res = get_embedding_representation(tf, model, file_path)
+    #
+    # fcm_test = FCM(res, 3, 2, 0.001)
+    # print(fcm_test.forward())
