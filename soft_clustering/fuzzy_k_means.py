@@ -8,7 +8,7 @@ import numpy as np
 # This function is for test FCM class
 def normalise_U(U):
     """
-    在聚类结束时使U模糊化。每个样本的隶属度最大的为1，其余为0
+    After the fuzzy K-means, set the one with highest probability to 1, others to 0
     """
     for i in range(0, len(U)):
         maximum = max(U[i])
@@ -42,14 +42,14 @@ def checker_iris(final_location):
                 if final_location[i + (50 * k)][j] == 1:  # i+(50*k)表示 j表示第j类
                     checker[j] += 1  # checker分别统计每一类分类正确的个数
         right += max(checker)  # 累加分类正确的个数
-    print('分类正确的个数是:', right)
+    print('The number of data points be clustered in to the right cluster:', right)
     answer = right / 150 * 100
-    return "准确率：" + str(answer) + "%"
+    return "Accuracy rate：" + str(answer) + "%"
 
 # This function is for test FCM class
 def randomize_data(data):
     """
-    该功能将数据随机化，并保持随机化顺序的记录
+    this function is to shuffle the data points order
     """
     order = list(range(0, len(data)))
     random.shuffle(order)
@@ -61,7 +61,7 @@ def randomize_data(data):
 # This function is for test FCM class
 def import_data_format_iris(file):
     """
-    file这里是输入文件的路径，如iris.txt.
+    file: the file path
     格式化数据，前四列为data，最后一列为类标号（有0，1，2三类）
     如果是你自己的data，就不需要执行此段函数了。
     """
@@ -69,12 +69,12 @@ def import_data_format_iris(file):
     cluster_location = []
     with open(str(file), 'r') as f:
         for line in f:
-            current = line.strip().split(",")  # 对每一行以逗号为分割，返回一个list
+            current = line.strip().split(",")  # split by "," returns a list
             current_dummy = []
             for j in range(0, len(current) - 1):
-                current_dummy.append(float(current[j]))  # current_dummy存放data
+                current_dummy.append(float(current[j]))  # current_dummy store the data
 
-            # 下面注这段话提供了一个范例：若类标号不是0，1，2之类数字时该怎么给数据集
+            # cluster_location store the label
             j += 1
             if current[j] == "Iris-setosa\n":
                 cluster_location.append(0)
@@ -83,7 +83,7 @@ def import_data_format_iris(file):
             else:
                 cluster_location.append(2)
             data.append(current_dummy)
-    print("加载数据完毕")
+    print("Data load successful")
     return data
 
 
@@ -175,10 +175,11 @@ class FCM:
 
 
 if __name__ == '__main__':
+    # import test data
     data = import_data_format_iris("iris.txt")
-    # 随机化数据
+    # random the data order
     data, order = randomize_data(data)
     # print_matrix(data)
-    fcm = FCM(data, 3, 4, 0.001)
+    fcm = FCM(data, 3, 9, 0.001)
     final_location = de_randomise_data(fcm.forward(), order)
     print(checker_iris(final_location))
