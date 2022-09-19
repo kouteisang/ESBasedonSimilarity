@@ -12,6 +12,7 @@ from pykeen.triples import TriplesFactory
 from embedding.get_embedding import get_embedding_representation
 
 # This function is for test FCM class
+from greedy.greedy_search import greedy_search
 
 
 def normalise_U(U):
@@ -194,7 +195,7 @@ if __name__ == '__main__':
     final_location = de_randomise_data(fcm.forward(), order)
     print(checker_iris(final_location))
 
-    # test
+    # # test
     # root = os.path.abspath(os.path.dirname(os.getcwd()))
     # lm_path = os.path.join(root, "data_analysis", "lmdb", "lmdb_all.txt")
     # tf = TriplesFactory.from_path(lm_path)
@@ -204,6 +205,8 @@ if __name__ == '__main__':
     # file_path = "/Users/huangcheng/Documents/ESBasedonSimilarity/data_analysis/lmdb/101_desc.nt"
     #
     # res = get_embedding_representation(tf, model, file_path)
-    #
-    # fcm_test = FCM(res, 3, 2, 0.001)
-    # print(fcm_test.forward())
+    # print(type(res))
+    # fcm_test = FCM(res, 5, 2, 0.001)
+    # t = fcm_test.forward()
+    # ans = greedy_search(t, 10)
+    # print(ans)
