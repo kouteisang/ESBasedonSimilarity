@@ -34,7 +34,7 @@ def get_embedding_representation(tf, model, file_path):
             h = entity_embedding[h].tolist()
             t = entity_embedding[t].tolist()
             r = relation_embedding[r].tolist()
-            emb_rep.append(h+r+t)
+            emb_rep.append(r+t)
 
     return emb_rep
 

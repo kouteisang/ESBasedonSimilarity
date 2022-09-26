@@ -1,6 +1,7 @@
 # @Author : Cheng Huang
 # @Time   : 14:10 2022/9/19
 # @File   : greedy_search.py
+import numpy
 import numpy as np
 from numpy import dot
 from numpy.linalg import norm
@@ -13,7 +14,8 @@ def cosine_similiarity(x, y):
     :return: cosine similarity between x and y
     '''
     return dot(x, y)/(norm(x)*norm(y))
-
+    # this is the L1 norm, remember if we use the L1 norm, we need to choose the max
+    # return np.linalg.norm((x - y), ord=1)
 
 def greedy_search(cluster, k):
     '''
@@ -29,7 +31,6 @@ def greedy_search(cluster, k):
     for i in range(l):
         for j in range(l):
             similarity_all[i][j] = cosine_similiarity(cluster[i], cluster[j])
-
     similar = [0]*l
     # find the one that the most disimilary to all of other data points
     for i in range(l):
