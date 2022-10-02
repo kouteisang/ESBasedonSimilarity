@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/elements/1.1/description> "British minister"@en .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/elements/1.1/description> "British minister" .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://xmlns.com/foaf/0.1/givenName> "Andrew"@en .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English_Christian_religious_leaders> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1795_deaths> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Professional110480253> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Colleague109935990> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Associate109816771> .

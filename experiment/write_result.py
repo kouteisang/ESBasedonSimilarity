@@ -12,7 +12,7 @@ from soft_clustering.fuzzy_k_means import FCM
 
 
 def store(top_k, file_path, id, k, m, name):
-    root = os.path.abspath(os.path.dirname(os.getcwd()))
+    root = os.path.abspath(os.path.dirname(os.getcwd()))+"/ESBasedonSimilarity/"
     folder_name = name + "_k_" + str(k) + "_m_" + str(m)
     folder_path = os.path.join(root, "res_data", folder_name)
     folder = os.path.exists(folder_path)
@@ -41,7 +41,7 @@ def get_res(name, k, m):
     :param m: the fuzzy k-means m
     :return:
     '''
-    root = os.path.abspath(os.path.dirname(os.getcwd()))
+    root = os.path.abspath(os.path.dirname(os.getcwd())) + "/ESBasedonSimilarity/"
     if name == "dbpedia":
         all_file = os.path.join(root, "data_analysis", "dbpedia", "dbpedia_all.txt")
         model_path = os.path.join(root,"embedding","model_dbpedia","dbpedia_transe_model","trained_model.pkl")
@@ -53,6 +53,7 @@ def get_res(name, k, m):
             file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
 
     elif name == "lmdb":
+        print(root)
         all_file = os.path.join(root, "data_analysis", "lmdb", "lmdb_all.txt")
         model_path = os.path.join(root,"embedding","model_lmdb","lmdb_transe_model","trained_model.pkl")
         file_base = os.path.join(root,"data_analysis", "lmdb")
@@ -62,7 +63,7 @@ def get_res(name, k, m):
         for i in range(166, 176):
             file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
 
-
+    print("**",model_path)
     model = torch.load(model_path)
     tf = TriplesFactory.from_path(all_file)
     for file in file_path:
