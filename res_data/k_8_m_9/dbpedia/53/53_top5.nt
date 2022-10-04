@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Anomalistic_psychology> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Indiana_University_faculty> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://xmlns.com/foaf/0.1/name> "Conklin, Edmund Smith"@en .

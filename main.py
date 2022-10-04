@@ -26,7 +26,7 @@ if __name__ == '__main__':
         :parameter2 : k(number of cluster)
         :parameter3 : m(fuzzy parameter)
     '''
-    k = 3
+    k = 10
     m = 9
     get_res("dbpedia", k, m)
     get_res("lmdb", k, m)

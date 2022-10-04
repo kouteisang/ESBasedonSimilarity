@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Svyatoslav_Tanasov__2> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Taganrog> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Athlete109820263> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/RussianFootballers> .

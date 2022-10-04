@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/activeYearsEndYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Adrian_Griffin__5> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Adrian_Griffin__4> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/2000/01/rdf-schema#label> "Adrian Griffin"@en .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q3665646> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ShootingGuards> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Leader109623038> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Defender109614684> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Small_forwards> .
