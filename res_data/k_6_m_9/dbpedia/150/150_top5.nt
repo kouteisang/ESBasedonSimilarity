@@ -2,4 +2,4 @@
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/combatant> "22px|link=Kingdom of Holland" .
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Activity100407535> .
-<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/result> "British victory" .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/causalties> "None" .

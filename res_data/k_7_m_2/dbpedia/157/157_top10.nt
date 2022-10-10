@@ -3,8 +3,8 @@
 <http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
 <http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Snake101726692> .
 <http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Chordate101466257> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Diapsid101661818> .
 <http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
-<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Reptile101661091> .
 <http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Squamata> .
 <http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
-<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/synonym> "Elaphe hodgsoni" .

@@ -7,4 +7,4 @@
 <http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Player110439851> .
 <http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BulgarianFootballers> .
 <http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/FootballPlayer110101634> .
-<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:PFC_CSKA_Sofia_players> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BulgarianAProfessionalFootballGroupPlayers> .

@@ -1,5 +1,6 @@
 <http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/74334> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/12398> .
+<http://data.linkedmdb.org/resource/interlink/143782> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/12398> .
 <http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/13587> .
 <http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29977> .
 <http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29731> .
@@ -7,4 +8,3 @@
 <http://data.linkedmdb.org/resource/film/12398> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000047968f5> .
 <http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/148973> .
 <http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/148979> .
-<http://data.linkedmdb.org/resource/film/12398> <http://purl.org/dc/terms/title> "Men in White" .

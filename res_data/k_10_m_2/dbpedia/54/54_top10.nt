@@ -5,6 +5,6 @@
 <http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/number> "5" .
 <http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
 <http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
-<http://dbpedia.org/resource/Fabrice_Gautrat> <http://xmlns.com/foaf/0.1/givenName> "Fabrice"@en .
 <http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Fabrice_Gautrat__1> .
 <http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Diego_Toreros> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://purl.org/dc/elements/1.1/description> "Footballer"@en .

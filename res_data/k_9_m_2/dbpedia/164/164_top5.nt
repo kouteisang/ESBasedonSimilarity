@@ -2,4 +2,4 @@
 <http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://xmlns.com/foaf/0.1/homepage> <http://www.honoluluadvertiser.com> .
 <http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Broadsheet> .
 <http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/circulation> "141934"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
-<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Black_Press> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .

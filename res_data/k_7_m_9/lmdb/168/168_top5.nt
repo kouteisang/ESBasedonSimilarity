@@ -1,5 +1,5 @@
 <http://data.linkedmdb.org/resource/film/44555> <http://purl.org/dc/terms/date> "2003" .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/3493> .
 <http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38848> .
-<http://data.linkedmdb.org/resource/film/44555> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000008dd9e3> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/filmid> "44555"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38110> .
 <http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/82709> .

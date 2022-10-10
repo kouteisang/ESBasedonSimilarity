@@ -6,5 +6,5 @@
 <http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
 <http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
 <http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
-<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mammal> .
 <http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Mammal> .

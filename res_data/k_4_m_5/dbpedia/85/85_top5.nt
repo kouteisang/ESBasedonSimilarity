@@ -2,4 +2,4 @@
 <http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/synonym> "*IRLC" .
 <http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/synonym> "*IR-lacking clade" .
 <http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://xmlns.com/foaf/0.1/name> "Inverted repeat-lacking clade"@en .
-<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Faboideae> .

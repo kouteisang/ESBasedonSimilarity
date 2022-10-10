@@ -6,5 +6,5 @@
 <http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/27088> .
 <http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34294> .
 <http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33729> .
-<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/runtime> "99" .
+<http://data.linkedmdb.org/resource/film/1338> <http://www.w3.org/2000/01/rdf-schema#label> "Soldier" .
 <http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/11454> .

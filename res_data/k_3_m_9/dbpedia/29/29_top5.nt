@@ -1,5 +1,5 @@
 <http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/populationTotal> "3073"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 <http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/elevation> "257.0"^^<http://www.w3.org/2001/XMLSchema#double> .
 <http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/areaCode> "SM" .
-<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/areaCode> "036848" .
 <http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .

@@ -7,4 +7,4 @@
 <http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Site108651247> .
 <http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
 <http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .

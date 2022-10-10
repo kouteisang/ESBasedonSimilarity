@@ -2,4 +2,4 @@
 <http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/gridReference> "TL260765" .
 <http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
 <http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
-<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/populationTotal> "168"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Huntingdonshire> .

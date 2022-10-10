@@ -5,6 +5,6 @@
 <http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Chordate101466257> .
 <http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Diapsid101661818> .
 <http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Colubrids> .
-<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Vertebrate101471682> .
-<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Squamata> .
 <http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Reptile> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/2000/01/rdf-schema#label> "Gonyosoma hodgsoni"@en .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://xmlns.com/foaf/0.1/name> "Gonyosoma hodgsoni"@en .

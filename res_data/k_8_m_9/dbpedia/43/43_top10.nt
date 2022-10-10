@@ -7,4 +7,4 @@
 <http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Movie106613686> .
 <http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
 <http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/1981Films> .
-<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Show106619065> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Event100029378> .

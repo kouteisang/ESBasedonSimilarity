@@ -7,4 +7,4 @@
 <http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Professional110480253> .
 <http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
 <http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
-<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Colleague109935990> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Educator110045713> .

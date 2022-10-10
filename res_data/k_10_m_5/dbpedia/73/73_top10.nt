@@ -6,5 +6,5 @@
 <http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
 <http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
 <http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Location100027167> .
-<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
 <http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/VillagesInCambridgeshire> .

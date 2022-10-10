@@ -2,4 +2,4 @@
 <http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Drama> .
 <http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
 <http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
-<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ku_Hye-sun> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/South_Korea> .

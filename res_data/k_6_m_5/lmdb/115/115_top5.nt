@@ -2,4 +2,4 @@
 <http://data.linkedmdb.org/resource/interlink/139299> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6213> .
 <http://data.linkedmdb.org/resource/interlink/39963> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6213> .
 <http://data.linkedmdb.org/resource/film/6213> <http://www.w3.org/2000/01/rdf-schema#label> "The Handmaid's Tale" .
-<http://data.linkedmdb.org/resource/film/6213> <http://www.w3.org/2004/02/skos/core#subject> <http://data.linkedmdb.org/resource/film_subject/281> .
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/8599> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/6213> .

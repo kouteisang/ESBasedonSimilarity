@@ -2,4 +2,4 @@
 <http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
 <http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .
 <http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
-<http://dbpedia.org/resource/Tchonoro> <http://www.georss.org/georss/point> "9.35 1.2666666666666666" .
+<http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

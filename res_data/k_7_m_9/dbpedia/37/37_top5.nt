@@ -2,4 +2,4 @@
 <http://dbpedia.org/resource/Ovophis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Reptile> .
 <http://dbpedia.org/resource/Ovophis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Crotalinae> .
 <http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Viperidae> .
-<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Vertebrate> .
+<http://dbpedia.org/resource/Ovophis_chaseni> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Ovophis> .

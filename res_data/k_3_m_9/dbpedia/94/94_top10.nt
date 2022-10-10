@@ -4,7 +4,7 @@
 <http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
 <http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1092563> .
 <http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
-<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> .
 <http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/coden> "ICMED9" .
 <http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/issn> "0342-4642" .
 <http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/issn> "1432-1238" .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/abbreviation> "Intensive Care Med." .

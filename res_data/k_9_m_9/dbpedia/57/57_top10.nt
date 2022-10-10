@@ -6,5 +6,5 @@
 <http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
 <http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
 <http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
-<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/KurdishGuerrillas> .
 <http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/elements/1.1/description> "Kurdish guerilla" .

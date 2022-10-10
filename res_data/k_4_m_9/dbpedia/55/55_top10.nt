@@ -7,4 +7,4 @@
 <http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
 <http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
 <http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q36180> .
-<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Subete_ga_F_ni_Naru> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/birthYear> "1957"^^<http://www.w3.org/2001/XMLSchema#gYear> .

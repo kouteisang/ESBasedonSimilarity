@@ -2,4 +2,4 @@
 <http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/15593> .
 <http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/16556> .
 <http://data.linkedmdb.org/resource/director/9077> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/41573> .
-<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/film_set_designer> <http://data.linkedmdb.org/resource/film_set_designer/2> .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/film_art_director> <http://data.linkedmdb.org/resource/film_art_director/2> .

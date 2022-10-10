@@ -6,5 +6,5 @@
 <http://dbpedia.org/resource/Zarudcze> <http://www.georss.org/georss/point> "50.56666666666667 21.616666666666667" .
 <http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Poland> .
 <http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
 <http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
-<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .

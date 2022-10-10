@@ -1,5 +1,5 @@
 <http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/fr> .
 <http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/526> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/165> .
 <http://data.linkedmdb.org/resource/director/632> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/4053> .

@@ -1,5 +1,5 @@
 <http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
 <http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Event100029378> .
-<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ConflictsIn1746> .
 <http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/War_of_the_Austrian_Succession> .
 <http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/result> "French victory" .

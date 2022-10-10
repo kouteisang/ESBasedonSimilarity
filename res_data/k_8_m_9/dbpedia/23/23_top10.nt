@@ -6,5 +6,5 @@
 <http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
 <http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
 <http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
-<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
-<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/2000/01/rdf-schema#label> "Kuleh Bayan"@en .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/populationTotal> "36"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

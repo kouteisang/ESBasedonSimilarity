@@ -3,8 +3,8 @@
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Activity100407535> .
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Abstraction100002137> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/NavalBattle100958477> .
-<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/NavalBattlesOfTheNapoleonicWars> .
-<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/result> "British victory" .
-<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/strength> "Twoships of the line, twofrigates and four smaller ships" .
-<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Java_blank_map.svg?width=300> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Attack100972621> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Event100029378> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/causalties> "None" .

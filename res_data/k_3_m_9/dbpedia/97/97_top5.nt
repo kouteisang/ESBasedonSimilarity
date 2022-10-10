@@ -1,5 +1,5 @@
 <http://dbpedia.org/resource/Rebel_Love_Song> <http://xmlns.com/foaf/0.1/name> "Rebel Love Song"@en .
 <http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/runtime> "237.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Rebel_Love_Song> .
 <http://dbpedia.org/resource/Rebel_Love_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
 <http://dbpedia.org/resource/Rebel_Love_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
-<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Music_download> .

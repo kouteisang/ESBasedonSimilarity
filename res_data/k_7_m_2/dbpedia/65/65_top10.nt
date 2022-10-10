@@ -6,5 +6,5 @@
 <http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2009_Belgian_Super_Cup> .
 <http://dbpedia.org/resource/2011_Belgian_Super_Cup> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2010_Belgian_Super_Cup> .
 <http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
-<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> .
 <http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/R.S.C._Anderlecht> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Constant_Vanden_Stock_Stadium> .

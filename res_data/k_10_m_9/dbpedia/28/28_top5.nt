@@ -1,5 +1,5 @@
 <http://dbpedia.org/resource/Wehlaberg> <http://xmlns.com/foaf/0.1/name> "Wehlaberg"@en .
 <http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
-<http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
 <http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeologicalFormation109287968> .
 <http://dbpedia.org/resource/Wehlaberg> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Brandenburg> .

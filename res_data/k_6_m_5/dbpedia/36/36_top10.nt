@@ -5,6 +5,6 @@
 <http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*L. scandens (L.)Sw.)" .
 <http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
 <http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q756> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
 <http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_the_Ryukyu_Islands> .
-<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Invasive_plant_species> .
-<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Lygodium> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pteridophyta_of_Australasia> .

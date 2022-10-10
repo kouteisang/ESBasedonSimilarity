@@ -5,6 +5,6 @@
 <http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PopulatedPlacesInAbbottabadDistrict> .
 <http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
 <http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PopulatedPlacesInKhyberPakhtunkhwa> .
-<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
 <http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Khyber_Pakhtunkhwa> .
 <http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/utcOffset> "+5" .

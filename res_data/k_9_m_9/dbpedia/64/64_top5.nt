@@ -2,4 +2,4 @@
 <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Getafe_CF> .
 <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Madrid> .
 <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
-<http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FootballMatch> .

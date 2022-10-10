@@ -16,6 +16,7 @@ def generate_relation_percentage(path):
         index += [i for i in range(166, 176)]
         drp = open(os.path.join(path, 'lmdb_relation_percentage.txt'), 'w')
 
+    count = 0
     for i in index:
         rel_count = {}
         desc = os.path.join(path, '{}_desc.nt'.format(i))
@@ -31,17 +32,20 @@ def generate_relation_percentage(path):
         per_count = [x[1] for x in rel_count]
         labels = [x[0] for x in rel_count]
         percentage = np.array(per_count)/sum(per_count)
+        if percentage[0] > 0.4:
+            count += 1
         # plt.title("{}_desc".format(i))
         # plt.pie(percentage, labels=labels,autopct='%.2f%%')
         # plt.savefig("./dbpedia_rel_image/{}_desc.jpg".format(i))
         percentage_map = list(zip(labels,percentage))
-        drp.write("{}_desc\n".format(i))
-        drp.write(str(rel_count))
-        drp.write("\n")
-        drp.write(str(percentage_map))
-        drp.write("\n")
-        drp.write("\n")
-    drp.close()
+    #     drp.write("{}_desc\n".format(i))
+    #     drp.write(str(rel_count))
+    #     drp.write("\n")
+    #     drp.write(str(percentage_map))
+    #     drp.write("\n")
+    #     drp.write("\n")
+    # drp.close()
+    print(count)
 
 if __name__ == '__main__':
     root = os.getcwd()

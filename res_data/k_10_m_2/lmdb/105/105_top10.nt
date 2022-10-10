@@ -3,8 +3,8 @@
 <http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/2019> .
 <http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/9452> .
 <http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/42558> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/1193> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2917> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/runtime> "85" .
-<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0329028> .
-<http://data.linkedmdb.org/resource/film/2108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/2108> <http://purl.org/dc/terms/title> "Dumb & Dumberer" .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/14177> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/698> .
+<http://data.linkedmdb.org/resource/director/2917> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2108> .
+<http://data.linkedmdb.org/resource/film/2108> <http://purl.org/dc/terms/date> "2003-06-13" .

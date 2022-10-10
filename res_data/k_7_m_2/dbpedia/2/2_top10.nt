@@ -6,5 +6,5 @@
 <http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
 <http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q3665646> .
 <http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ShootingGuards> .
-<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SeattleSuperSonicsPlayers> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Leader109623038> .
 <http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Small_forwards> .

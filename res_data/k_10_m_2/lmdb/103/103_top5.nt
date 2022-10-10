@@ -2,4 +2,4 @@
 <http://data.linkedmdb.org/resource/film/14299> <http://purl.org/dc/terms/title> "Briana Loves Jenna" .
 <http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30040> .
 <http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/70953> .
-<http://data.linkedmdb.org/resource/interlink/43285> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/14299> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/55464> .

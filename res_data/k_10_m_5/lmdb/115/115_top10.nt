@@ -5,6 +5,6 @@
 <http://data.linkedmdb.org/resource/film/6213> <http://www.w3.org/2000/01/rdf-schema#label> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/film/6213> <http://purl.org/dc/terms/title> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/filmid> "6213"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/4082> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30559> .
 <http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1990-02-15" .
 <http://data.linkedmdb.org/resource/film/6213> <http://www.w3.org/2004/02/skos/core#subject> <http://data.linkedmdb.org/resource/film_subject/281> .

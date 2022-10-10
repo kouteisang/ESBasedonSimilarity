@@ -7,4 +7,4 @@
 <http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
 <http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
-<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_East_Khasi_Hills_district> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://xmlns.com/foaf/0.1/givenName> "E.K."@en .

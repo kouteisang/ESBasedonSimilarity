@@ -6,5 +6,5 @@
 <http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/elements/1.1/description> "American writer"@en .
 <http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AmericanScreenwriters> .
 <http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Screenwriter110564400> .
-<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/WomenScreenwriters> .
 <http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
