@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gerbil_mouse> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Mammal> .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN3.1" .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q7377> .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .

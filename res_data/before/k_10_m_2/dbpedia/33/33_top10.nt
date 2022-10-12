@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/2000/01/rdf-schema#label> "Eastern Sumatran rhinoceros"@en .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://xmlns.com/foaf/0.1/name> "Eastern Sumatran rhinoceros"@en .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mammals_of_Borneo> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mammal_extinctions_since_1500> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mammals_of_Malaysia> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mammal> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q7377> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .

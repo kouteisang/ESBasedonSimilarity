@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/utcOffset> "+3:30" .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Central_District_(Dehgolan_County)> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Quri_Chay_Rural_District> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q532> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/populationTotal> "36"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/2000/01/rdf-schema#label> "Kuleh Bayan"@en .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://xmlns.com/foaf/0.1/name> "كوله بيان"@en .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://xmlns.com/foaf/0.1/name> "Kuleh Bayan"@en .

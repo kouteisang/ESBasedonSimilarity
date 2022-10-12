@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Creation103129123> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SocialEvent107288639> .
+<http://dbpedia.org/resource/Kaalpurush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Best_Feature_Film_National_Film_Award_winners> .
+<http://dbpedia.org/resource/Kaalpurush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Indian_films> .

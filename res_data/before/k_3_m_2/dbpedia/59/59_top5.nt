@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Russian_footballers> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://xmlns.com/foaf/0.1/name> "Svyatoslav Tanasov"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/elements/1.1/description> "Sailor"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/elements/1.1/description> "Sailor" .
+<http://dbpedia.org/resource/Finn_Schiander> <http://xmlns.com/foaf/0.1/surname> "Schiander"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SkilledWorker110605985> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://xmlns.com/foaf/0.1/givenName> "Finn"@en .

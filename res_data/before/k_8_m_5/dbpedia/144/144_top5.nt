@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Linguists_from_Myanmar> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Burmese_educators> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Tee_Tee_Luce> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .

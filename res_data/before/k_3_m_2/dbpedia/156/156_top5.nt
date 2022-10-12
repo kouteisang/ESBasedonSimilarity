@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gerbil_mouse> <http://www.w3.org/2000/01/rdf-schema#label> "Gerbil mouse"@en .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://xmlns.com/foaf/0.1/name> "Gerbil mouse"@en .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Dendromurinae> .

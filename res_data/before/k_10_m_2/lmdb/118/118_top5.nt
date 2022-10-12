@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7348> <http://purl.org/dc/terms/title> "Bill: On His Own" .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4370> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4368> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38081> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30114> .

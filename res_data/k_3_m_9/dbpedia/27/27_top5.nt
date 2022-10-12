@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/Uelsby> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Schleswig-Flensburg> .
-<http://dbpedia.org/resource/Uelsby> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Municipalities_in_Schleswig-Holstein> .
-<http://dbpedia.org/resource/Uelsby> <http://www.georss.org/georss/point> "54.6 9.566666666666666" .
-<http://dbpedia.org/resource/Uelsby> <http://xmlns.com/foaf/0.1/homepage> <http://www.amt-suedangeln.de/> .
-<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .

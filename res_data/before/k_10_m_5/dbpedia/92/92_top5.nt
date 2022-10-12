@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Television106277280> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ku_Hye-sun> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Kim_Ji-woo> .

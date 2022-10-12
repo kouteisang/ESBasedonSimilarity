@@ -1,5 +1,0 @@
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2475> .
-<http://data.linkedmdb.org/resource/interlink/21023> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5232> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000009746be> .
-<http://data.linkedmdb.org/resource/film/5232> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Mummy's_Tomb> .

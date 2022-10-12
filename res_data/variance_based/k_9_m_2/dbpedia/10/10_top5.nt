@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/militaryCommand> "Commander in Chief, Air Headquarters India" .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/militaryCommand> "RAF Brize Norton" .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Air_Mshl_Sir_Roderick_Carr.jpg?width=300> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/surname> "Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/allegiance> "British Empire" .

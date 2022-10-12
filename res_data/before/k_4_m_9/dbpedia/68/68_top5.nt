@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/2002/07/owl#differentFrom> <http://dbpedia.org/resource/Battle_of_Cepeda_(1859)> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1859)> <http://www.w3.org/2002/07/owl#differentFrom> <http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .

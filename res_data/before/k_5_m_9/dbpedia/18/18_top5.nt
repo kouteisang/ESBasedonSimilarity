@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:History_of_County_Waterford> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "(Reserve Force)" .

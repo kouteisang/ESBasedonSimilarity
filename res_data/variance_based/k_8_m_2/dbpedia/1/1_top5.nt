@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/3WAY_FM> <http://xmlns.com/foaf/0.1/homepage> <http://3wayfm.org.au> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q43229> .
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/programmeFormat> <http://dbpedia.org/resource/Community_radio> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/The_Legacy_(song)> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q134556> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2188189> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)> .

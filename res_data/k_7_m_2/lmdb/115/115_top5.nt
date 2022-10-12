@@ -1,5 +1,0 @@
-<http://data.linkedmdb.org/resource/film/6213> <http://purl.org/dc/terms/date> "1990-02-15" .
-<http://data.linkedmdb.org/resource/interlink/139299> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6213> .
-<http://data.linkedmdb.org/resource/film/6213> <http://www.w3.org/2000/01/rdf-schema#label> "The Handmaid's Tale" .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/40287> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/11068> .

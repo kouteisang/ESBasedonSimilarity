@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AdministrativeDistrict108491826> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Settlement108672562> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Village108672738> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/VillagesInSandomierzCounty> .

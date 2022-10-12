@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Person100007846> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_people_of_Irish_descent> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Youngstown,_Ohio> .

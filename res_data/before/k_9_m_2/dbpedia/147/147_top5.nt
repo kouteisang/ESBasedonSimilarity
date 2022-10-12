@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MilitaryAction100952963> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/combatant> "18pxMilitary of Sri Lanka" .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2006_in_Sri_Lanka> .

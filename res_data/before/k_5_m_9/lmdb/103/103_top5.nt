@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/14299> <http://www.w3.org/2000/01/rdf-schema#label> "Briana Loves Jenna" .
+<http://data.linkedmdb.org/resource/interlink/145197> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/14299> .
+<http://data.linkedmdb.org/resource/interlink/74894> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/14299> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5952> .
+<http://data.linkedmdb.org/resource/film/14299> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000055827c2> .

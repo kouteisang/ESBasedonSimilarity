@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/utcOffset> "+3:30" .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/utcOffset> "+4:30" .

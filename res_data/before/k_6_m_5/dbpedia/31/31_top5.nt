@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/African_grey_hornbill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Birds_of_Gabon> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Birds_of_Equatorial_Guinea> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Hornbills> .

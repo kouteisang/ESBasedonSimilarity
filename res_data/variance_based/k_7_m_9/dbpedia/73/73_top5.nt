@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/gridReference> "TL260765" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/postalCode> "PE28 2" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/populationTotal> "168"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.georss.org/georss/point> "52.37 -0.15" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/areaCode> "01487" .

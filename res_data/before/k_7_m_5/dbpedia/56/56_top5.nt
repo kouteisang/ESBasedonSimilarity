@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:PFC_CSKA_Sofia_players> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Bulgarian_A_Football_Group_players> .

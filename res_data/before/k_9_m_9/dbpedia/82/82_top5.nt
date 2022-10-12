@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Balanites_maughamii> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Balanites> .
+<http://dbpedia.org/resource/Balanites> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Balanites> .
+<http://dbpedia.org/resource/Balanites> <http://xmlns.com/foaf/0.1/name> "Balanites"@en .
+<http://dbpedia.org/resource/Balanites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Balanites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .

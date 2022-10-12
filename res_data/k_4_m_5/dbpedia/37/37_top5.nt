@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
-<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Reptile> .
-<http://dbpedia.org/resource/Ovophis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Crotalinae> .
-<http://dbpedia.org/resource/Ovophis> <http://xmlns.com/foaf/0.1/name> "Ovophis"@en .
-<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Viperidae> .

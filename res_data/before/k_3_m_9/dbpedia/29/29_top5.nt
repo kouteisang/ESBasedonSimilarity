@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/elevation> "257.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/2000/01/rdf-schema#label> "Wernshausen"@en .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/areaTotal> "2.629E7"^^<http://www.w3.org/2001/XMLSchema#double> .

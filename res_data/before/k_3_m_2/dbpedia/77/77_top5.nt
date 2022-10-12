@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Louis_Hon> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Shahan_Shahnour> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/David_Michie> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .

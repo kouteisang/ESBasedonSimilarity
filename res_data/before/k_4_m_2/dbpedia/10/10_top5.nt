@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ExplorersOfAntarctica> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/deathYear> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:New_Zealand_air_marshals> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Explorers_of_Antarctica> .

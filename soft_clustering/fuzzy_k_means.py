@@ -182,7 +182,7 @@ class FCM:
 
             if self.stop_criteria(old_U, self.U) == True:
                 # normalise
-                self.U = normalise_U(self.U)
+                # self.U = normalise_U(self.U)
                 return self.U
 
 #

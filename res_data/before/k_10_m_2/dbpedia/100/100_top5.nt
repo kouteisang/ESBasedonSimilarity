@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://www.w3.org/2000/01/rdf-schema#label> "Wide Awake Drunk"@en .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Fluke_EP> .

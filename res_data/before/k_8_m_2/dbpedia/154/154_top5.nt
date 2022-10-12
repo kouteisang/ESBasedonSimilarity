@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/areaWater> "113959.476854784"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/areaWater> "115000.0"^^<http://www.w3.org/2001/XMLSchema#double> .

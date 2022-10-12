@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Viljandi_County> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1983_deaths> .

@@ -7,20 +7,24 @@ import torch
 from pykeen.triples import TriplesFactory
 from greedy.greedy_search import greedy_search
 from embedding.get_embedding import get_embedding_representation
+from greedy.search2_temp import greedy_search2
+from greedy.variance_search import cluster_variance
 from soft_clustering.fuzzy_k_means import FCM
 
 
 
 def store(top_k, file_path, id, k, m, name):
     root = os.path.abspath(os.path.dirname(os.getcwd()))+"/ESBasedonSimilarity/"
-    folder_name = name + "_k_" + str(k) + "_m_" + str(m)
-    folder_path = os.path.join(root, "res_data", folder_name)
+    folder_name = "k_" + str(k) + "_m_" + str(m)
+    folder_path = os.path.join(root, "res_data", folder_name, name)
     folder = os.path.exists(folder_path)
-    file_origin = os.path.join(root, "data", name+"_data", str(id), "{}_desc.nt".format(id))
     if not folder:
         os.makedirs(folder_path)
     if not os.path.exists(os.path.join(folder_path, str(id))):
         os.makedirs(os.path.join(folder_path, str(id)))
+
+    file_origin = os.path.join(root, "data", name+"_data", str(id), "{}_desc.nt".format(id))
+
     res_path = os.path.join(folder_path, str(id),"{}_top{}.nt".format(id, len(top_k)))
     res = open(res_path, 'w')
     cnt = -1
@@ -71,10 +75,10 @@ def get_res(name, k, m):
         value = file[key] # id
         embedding_rep = get_embedding_representation(tf, model, key)
         t = FCM(embedding_rep, k, m, 0.001).forward()
-        top_5 = greedy_search(t, 5)
+        top_5 = cluster_variance(t, 5)[:5]
         top_5.sort()
         store(top_5, key, value, k, m, name)
-        top_10 = greedy_search(t, 10)
+        top_10 = cluster_variance(t, 10)[:10]
         top_10.sort()
         store(top_10, key, value, k, m, name)
 

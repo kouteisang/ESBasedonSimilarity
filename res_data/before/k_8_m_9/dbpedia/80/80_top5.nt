@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Sandomierz_County> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/2000/01/rdf-schema#label> "Zarudcze"@en .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .

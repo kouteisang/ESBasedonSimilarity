@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Product104007894> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Work104599396> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q11032> .
+<http://dbpedia.org/resource/Politiken> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Danish-language_newspapers> .
+<http://dbpedia.org/resource/Politiken> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Media_in_Copenhagen> .
