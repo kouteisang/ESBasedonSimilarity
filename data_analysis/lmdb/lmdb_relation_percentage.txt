@@ -1,0 +1,200 @@
+101_desc
+[('actor', 13), ('performance', 13), ('link_source', 2), ('language', 1), ('filmid', 1), ('film_art_director', 1), ('producer', 1), ('label', 1), ('story_contributor', 1), ('page', 1), ('type', 1), ('title', 1), ('film_story_contributor', 1), ('director', 1), ('writer', 1), ('made', 1), ('genre', 1)]
+[('actor', 0.30952380952380953), ('performance', 0.30952380952380953), ('link_source', 0.047619047619047616), ('language', 0.023809523809523808), ('filmid', 0.023809523809523808), ('film_art_director', 0.023809523809523808), ('producer', 0.023809523809523808), ('label', 0.023809523809523808), ('story_contributor', 0.023809523809523808), ('page', 0.023809523809523808), ('type', 0.023809523809523808), ('title', 0.023809523809523808), ('film_story_contributor', 0.023809523809523808), ('director', 0.023809523809523808), ('writer', 0.023809523809523808), ('made', 0.023809523809523808), ('genre', 0.023809523809523808)]
+
+102_desc
+[('actor', 6), ('performance', 6), ('link_source', 5), ('label', 1), ('film_cut', 1), ('editor', 1), ('type', 1), ('story_contributor', 1), ('title', 1), ('film_story_contributor', 1), ('hasPhotoCollection', 1), ('language', 1), ('runtime', 1), ('page', 1), ('filmid', 1)]
+[('actor', 0.20689655172413793), ('performance', 0.20689655172413793), ('link_source', 0.1724137931034483), ('label', 0.034482758620689655), ('film_cut', 0.034482758620689655), ('editor', 0.034482758620689655), ('type', 0.034482758620689655), ('story_contributor', 0.034482758620689655), ('title', 0.034482758620689655), ('film_story_contributor', 0.034482758620689655), ('hasPhotoCollection', 0.034482758620689655), ('language', 0.034482758620689655), ('runtime', 0.034482758620689655), ('page', 0.034482758620689655), ('filmid', 0.034482758620689655)]
+
+103_desc
+[('link_source', 5), ('actor', 4), ('performance', 4), ('producer', 2), ('director', 1), ('title', 1), ('hasPhotoCollection', 1), ('filmid', 1), ('initial_release_date', 1), ('type', 1), ('label', 1), ('date', 1), ('language', 1), ('made', 1), ('page', 1)]
+[('link_source', 0.19230769230769232), ('actor', 0.15384615384615385), ('performance', 0.15384615384615385), ('producer', 0.07692307692307693), ('director', 0.038461538461538464), ('title', 0.038461538461538464), ('hasPhotoCollection', 0.038461538461538464), ('filmid', 0.038461538461538464), ('initial_release_date', 0.038461538461538464), ('type', 0.038461538461538464), ('label', 0.038461538461538464), ('date', 0.038461538461538464), ('language', 0.038461538461538464), ('made', 0.038461538461538464), ('page', 0.038461538461538464)]
+
+104_desc
+[('performance', 8), ('actor', 8), ('link_source', 5), ('sequel', 2), ('prequel', 2), ('runtime', 1), ('film_cut', 1), ('producer', 1), ('date', 1), ('editor', 1), ('language', 1), ('made', 1), ('title', 1), ('filmid', 1), ('initial_release_date', 1), ('hasPhotoCollection', 1), ('page', 1), ('director', 1), ('type', 1), ('label', 1)]
+[('performance', 0.2), ('actor', 0.2), ('link_source', 0.125), ('sequel', 0.05), ('prequel', 0.05), ('runtime', 0.025), ('film_cut', 0.025), ('producer', 0.025), ('date', 0.025), ('editor', 0.025), ('language', 0.025), ('made', 0.025), ('title', 0.025), ('filmid', 0.025), ('initial_release_date', 0.025), ('hasPhotoCollection', 0.025), ('page', 0.025), ('director', 0.025), ('type', 0.025), ('label', 0.025)]
+
+105_desc
+[('producer', 6), ('writer', 5), ('actor', 4), ('performance', 4), ('page', 3), ('director', 2), ('link_source', 2), ('made', 2), ('filmid', 1), ('language', 1), ('film_cut', 1), ('runtime', 1), ('prequel', 1), ('initial_release_date', 1), ('title', 1), ('sequel', 1), ('film_of_distributor', 1), ('type', 1), ('label', 1), ('date', 1)]
+[('producer', 0.15), ('writer', 0.125), ('actor', 0.1), ('performance', 0.1), ('page', 0.075), ('director', 0.05), ('link_source', 0.05), ('made', 0.05), ('filmid', 0.025), ('language', 0.025), ('film_cut', 0.025), ('runtime', 0.025), ('prequel', 0.025), ('initial_release_date', 0.025), ('title', 0.025), ('sequel', 0.025), ('film_of_distributor', 0.025), ('type', 0.025), ('label', 0.025), ('date', 0.025)]
+
+106_desc
+[('performance', 7), ('link_source', 7), ('actor', 7), ('page', 3), ('language', 2), ('director', 2), ('made', 2), ('music_contributor', 2), ('runtime', 1), ('writer', 1), ('date', 1), ('title', 1), ('hasPhotoCollection', 1), ('filmid', 1), ('film_cut', 1), ('subject', 1), ('country', 1), ('based_near', 1), ('film_subject', 1), ('label', 1), ('initial_release_date', 1), ('producer', 1), ('film_of_distributor', 1), ('type', 1)]
+[('performance', 0.14583333333333334), ('link_source', 0.14583333333333334), ('actor', 0.14583333333333334), ('page', 0.0625), ('language', 0.041666666666666664), ('director', 0.041666666666666664), ('made', 0.041666666666666664), ('music_contributor', 0.041666666666666664), ('runtime', 0.020833333333333332), ('writer', 0.020833333333333332), ('date', 0.020833333333333332), ('title', 0.020833333333333332), ('hasPhotoCollection', 0.020833333333333332), ('filmid', 0.020833333333333332), ('film_cut', 0.020833333333333332), ('subject', 0.020833333333333332), ('country', 0.020833333333333332), ('based_near', 0.020833333333333332), ('film_subject', 0.020833333333333332), ('label', 0.020833333333333332), ('initial_release_date', 0.020833333333333332), ('producer', 0.020833333333333332), ('film_of_distributor', 0.020833333333333332), ('type', 0.020833333333333332)]
+
+107_desc
+[('performance', 6), ('actor', 6), ('page', 3), ('producer', 2), ('editor', 2), ('director', 1), ('film_of_distributor', 1), ('date', 1), ('music_contributor', 1), ('language', 1), ('production_company', 1), ('film_cut', 1), ('label', 1), ('link_source', 1), ('initial_release_date', 1), ('filmid', 1), ('type', 1), ('made', 1), ('runtime', 1), ('cinematographer', 1), ('title', 1)]
+[('performance', 0.17142857142857143), ('actor', 0.17142857142857143), ('page', 0.08571428571428572), ('producer', 0.05714285714285714), ('editor', 0.05714285714285714), ('director', 0.02857142857142857), ('film_of_distributor', 0.02857142857142857), ('date', 0.02857142857142857), ('music_contributor', 0.02857142857142857), ('language', 0.02857142857142857), ('production_company', 0.02857142857142857), ('film_cut', 0.02857142857142857), ('label', 0.02857142857142857), ('link_source', 0.02857142857142857), ('initial_release_date', 0.02857142857142857), ('filmid', 0.02857142857142857), ('type', 0.02857142857142857), ('made', 0.02857142857142857), ('runtime', 0.02857142857142857), ('cinematographer', 0.02857142857142857), ('title', 0.02857142857142857)]
+
+108_desc
+[('link_source', 6), ('actor', 4), ('performance', 4), ('writer', 3), ('page', 3), ('language', 2), ('made', 2), ('director', 2), ('hasPhotoCollection', 1), ('based_near', 1), ('label', 1), ('film_cut', 1), ('type', 1), ('date', 1), ('title', 1), ('producer', 1), ('genre', 1), ('filmid', 1), ('country', 1), ('runtime', 1), ('initial_release_date', 1)]
+[('link_source', 0.15384615384615385), ('actor', 0.10256410256410256), ('performance', 0.10256410256410256), ('writer', 0.07692307692307693), ('page', 0.07692307692307693), ('language', 0.05128205128205128), ('made', 0.05128205128205128), ('director', 0.05128205128205128), ('hasPhotoCollection', 0.02564102564102564), ('based_near', 0.02564102564102564), ('label', 0.02564102564102564), ('film_cut', 0.02564102564102564), ('type', 0.02564102564102564), ('date', 0.02564102564102564), ('title', 0.02564102564102564), ('producer', 0.02564102564102564), ('genre', 0.02564102564102564), ('filmid', 0.02564102564102564), ('country', 0.02564102564102564), ('runtime', 0.02564102564102564), ('initial_release_date', 0.02564102564102564)]
+
+109_desc
+[('performance', 3), ('actor', 3), ('producer', 2), ('film_of_distributor', 1), ('date', 1), ('page', 1), ('title', 1), ('film_subject', 1), ('subject', 1), ('filmid', 1), ('type', 1), ('initial_release_date', 1), ('label', 1), ('music_contributor', 1), ('director', 1), ('made', 1), ('writer', 1)]
+[('performance', 0.13636363636363635), ('actor', 0.13636363636363635), ('producer', 0.09090909090909091), ('film_of_distributor', 0.045454545454545456), ('date', 0.045454545454545456), ('page', 0.045454545454545456), ('title', 0.045454545454545456), ('film_subject', 0.045454545454545456), ('subject', 0.045454545454545456), ('filmid', 0.045454545454545456), ('type', 0.045454545454545456), ('initial_release_date', 0.045454545454545456), ('label', 0.045454545454545456), ('music_contributor', 0.045454545454545456), ('director', 0.045454545454545456), ('made', 0.045454545454545456), ('writer', 0.045454545454545456)]
+
+110_desc
+[('performance', 5), ('actor', 5), ('writer', 2), ('filmid', 1), ('made', 1), ('music_contributor', 1), ('editor', 1), ('producer', 1), ('label', 1), ('date', 1), ('type', 1), ('title', 1), ('director', 1), ('initial_release_date', 1), ('page', 1)]
+[('performance', 0.20833333333333334), ('actor', 0.20833333333333334), ('writer', 0.08333333333333333), ('filmid', 0.041666666666666664), ('made', 0.041666666666666664), ('music_contributor', 0.041666666666666664), ('editor', 0.041666666666666664), ('producer', 0.041666666666666664), ('label', 0.041666666666666664), ('date', 0.041666666666666664), ('type', 0.041666666666666664), ('title', 0.041666666666666664), ('director', 0.041666666666666664), ('initial_release_date', 0.041666666666666664), ('page', 0.041666666666666664)]
+
+111_desc
+[('performance', 5), ('actor', 5), ('writer', 2), ('film_format', 1), ('made', 1), ('film_art_director', 1), ('title', 1), ('initial_release_date', 1), ('type', 1), ('editor', 1), ('director', 1), ('page', 1), ('film_of_distributor', 1), ('date', 1), ('filmid', 1), ('music_contributor', 1), ('label', 1), ('film_set_designer', 1)]
+[('performance', 0.18518518518518517), ('actor', 0.18518518518518517), ('writer', 0.07407407407407407), ('film_format', 0.037037037037037035), ('made', 0.037037037037037035), ('film_art_director', 0.037037037037037035), ('title', 0.037037037037037035), ('initial_release_date', 0.037037037037037035), ('type', 0.037037037037037035), ('editor', 0.037037037037037035), ('director', 0.037037037037037035), ('page', 0.037037037037037035), ('film_of_distributor', 0.037037037037037035), ('date', 0.037037037037037035), ('filmid', 0.037037037037037035), ('music_contributor', 0.037037037037037035), ('label', 0.037037037037037035), ('film_set_designer', 0.037037037037037035)]
+
+112_desc
+[('performance', 10), ('actor', 10), ('prequel', 2), ('writer', 2), ('sequel', 2), ('date', 1), ('initial_release_date', 1), ('label', 1), ('music_contributor', 1), ('link_source', 1), ('film_cut', 1), ('language', 1), ('filmid', 1), ('runtime', 1), ('title', 1), ('page', 1), ('type', 1)]
+[('performance', 0.2631578947368421), ('actor', 0.2631578947368421), ('prequel', 0.05263157894736842), ('writer', 0.05263157894736842), ('sequel', 0.05263157894736842), ('date', 0.02631578947368421), ('initial_release_date', 0.02631578947368421), ('label', 0.02631578947368421), ('music_contributor', 0.02631578947368421), ('link_source', 0.02631578947368421), ('film_cut', 0.02631578947368421), ('language', 0.02631578947368421), ('filmid', 0.02631578947368421), ('runtime', 0.02631578947368421), ('title', 0.02631578947368421), ('page', 0.02631578947368421), ('type', 0.02631578947368421)]
+
+113_desc
+[('performance', 5), ('actor', 5), ('link_source', 4), ('page', 3), ('director', 2), ('sequel', 2), ('prequel', 2), ('made', 2), ('initial_release_date', 1), ('language', 1), ('date', 1), ('production_company', 1), ('hasPhotoCollection', 1), ('title', 1), ('writer', 1), ('film_of_distributor', 1), ('filmid', 1), ('type', 1), ('label', 1), ('producer', 1), ('runtime', 1), ('film_cut', 1)]
+[('performance', 0.1282051282051282), ('actor', 0.1282051282051282), ('link_source', 0.10256410256410256), ('page', 0.07692307692307693), ('director', 0.05128205128205128), ('sequel', 0.05128205128205128), ('prequel', 0.05128205128205128), ('made', 0.05128205128205128), ('initial_release_date', 0.02564102564102564), ('language', 0.02564102564102564), ('date', 0.02564102564102564), ('production_company', 0.02564102564102564), ('hasPhotoCollection', 0.02564102564102564), ('title', 0.02564102564102564), ('writer', 0.02564102564102564), ('film_of_distributor', 0.02564102564102564), ('filmid', 0.02564102564102564), ('type', 0.02564102564102564), ('label', 0.02564102564102564), ('producer', 0.02564102564102564), ('runtime', 0.02564102564102564), ('film_cut', 0.02564102564102564)]
+
+114_desc
+[('performance', 4), ('actor', 4), ('page', 3), ('link_source', 2), ('writer', 2), ('producer', 2), ('language', 1), ('country', 1), ('date', 1), ('based_near', 1), ('made', 1), ('title', 1), ('type', 1), ('director', 1), ('film_cut', 1), ('initial_release_date', 1), ('music_contributor', 1), ('filmid', 1), ('cinematographer', 1), ('runtime', 1), ('label', 1)]
+[('performance', 0.125), ('actor', 0.125), ('page', 0.09375), ('link_source', 0.0625), ('writer', 0.0625), ('producer', 0.0625), ('language', 0.03125), ('country', 0.03125), ('date', 0.03125), ('based_near', 0.03125), ('made', 0.03125), ('title', 0.03125), ('type', 0.03125), ('director', 0.03125), ('film_cut', 0.03125), ('initial_release_date', 0.03125), ('music_contributor', 0.03125), ('filmid', 0.03125), ('cinematographer', 0.03125), ('runtime', 0.03125), ('label', 0.03125)]
+
+115_desc
+[('performance', 7), ('actor', 7), ('link_source', 6), ('page', 3), ('writer', 2), ('editor', 2), ('date', 1), ('label', 1), ('title', 1), ('filmid', 1), ('music_contributor', 1), ('relatedBook', 1), ('genre', 1), ('film_of_distributor', 1), ('director', 1), ('hasPhotoCollection', 1), ('producer', 1), ('initial_release_date', 1), ('cinematographer', 1), ('type', 1), ('language', 1), ('made', 1), ('runtime', 1), ('subject', 1), ('film_cut', 1), ('film_subject', 1)]
+[('performance', 0.14893617021276595), ('actor', 0.14893617021276595), ('link_source', 0.1276595744680851), ('page', 0.06382978723404255), ('writer', 0.0425531914893617), ('editor', 0.0425531914893617), ('date', 0.02127659574468085), ('label', 0.02127659574468085), ('title', 0.02127659574468085), ('filmid', 0.02127659574468085), ('music_contributor', 0.02127659574468085), ('relatedBook', 0.02127659574468085), ('genre', 0.02127659574468085), ('film_of_distributor', 0.02127659574468085), ('director', 0.02127659574468085), ('hasPhotoCollection', 0.02127659574468085), ('producer', 0.02127659574468085), ('initial_release_date', 0.02127659574468085), ('cinematographer', 0.02127659574468085), ('type', 0.02127659574468085), ('language', 0.02127659574468085), ('made', 0.02127659574468085), ('runtime', 0.02127659574468085), ('subject', 0.02127659574468085), ('film_cut', 0.02127659574468085), ('film_subject', 0.02127659574468085)]
+
+116_desc
+[('link_source', 4), ('performance', 3), ('page', 3), ('actor', 3), ('language', 1), ('filmid', 1), ('writer', 1), ('date', 1), ('type', 1), ('title', 1), ('initial_release_date', 1), ('label', 1), ('producer', 1), ('made', 1), ('hasPhotoCollection', 1), ('director', 1)]
+[('link_source', 0.16), ('performance', 0.12), ('page', 0.12), ('actor', 0.12), ('language', 0.04), ('filmid', 0.04), ('writer', 0.04), ('date', 0.04), ('type', 0.04), ('title', 0.04), ('initial_release_date', 0.04), ('label', 0.04), ('producer', 0.04), ('made', 0.04), ('hasPhotoCollection', 0.04), ('director', 0.04)]
+
+117_desc
+[('performance', 7), ('actor', 7), ('production_company', 2), ('type', 1), ('director', 1), ('label', 1), ('title', 1), ('date', 1), ('made', 1), ('initial_release_date', 1), ('filmid', 1), ('page', 1)]
+[('performance', 0.28), ('actor', 0.28), ('production_company', 0.08), ('type', 0.04), ('director', 0.04), ('label', 0.04), ('title', 0.04), ('date', 0.04), ('made', 0.04), ('initial_release_date', 0.04), ('filmid', 0.04), ('page', 0.04)]
+
+118_desc
+[('performance', 6), ('actor', 6), ('page', 3), ('prequel', 2), ('sequel', 2), ('genre', 2), ('made', 1), ('language', 1), ('initial_release_date', 1), ('date', 1), ('film_cut', 1), ('title', 1), ('director', 1), ('runtime', 1), ('writer', 1), ('link_source', 1), ('type', 1), ('label', 1), ('filmid', 1)]
+[('performance', 0.17647058823529413), ('actor', 0.17647058823529413), ('page', 0.08823529411764706), ('prequel', 0.058823529411764705), ('sequel', 0.058823529411764705), ('genre', 0.058823529411764705), ('made', 0.029411764705882353), ('language', 0.029411764705882353), ('initial_release_date', 0.029411764705882353), ('date', 0.029411764705882353), ('film_cut', 0.029411764705882353), ('title', 0.029411764705882353), ('director', 0.029411764705882353), ('runtime', 0.029411764705882353), ('writer', 0.029411764705882353), ('link_source', 0.029411764705882353), ('type', 0.029411764705882353), ('label', 0.029411764705882353), ('filmid', 0.029411764705882353)]
+
+119_desc
+[('performance', 5), ('actor', 5), ('page', 3), ('link_source', 3), ('title', 1), ('language', 1), ('based_near', 1), ('director', 1), ('type', 1), ('filmid', 1), ('made', 1), ('cinematographer', 1), ('writer', 1), ('producer', 1), ('country', 1), ('label', 1), ('editor', 1), ('film_of_distributor', 1)]
+[('performance', 0.16666666666666666), ('actor', 0.16666666666666666), ('page', 0.1), ('link_source', 0.1), ('title', 0.03333333333333333), ('language', 0.03333333333333333), ('based_near', 0.03333333333333333), ('director', 0.03333333333333333), ('type', 0.03333333333333333), ('filmid', 0.03333333333333333), ('made', 0.03333333333333333), ('cinematographer', 0.03333333333333333), ('writer', 0.03333333333333333), ('producer', 0.03333333333333333), ('country', 0.03333333333333333), ('label', 0.03333333333333333), ('editor', 0.03333333333333333), ('film_of_distributor', 0.03333333333333333)]
+
+120_desc
+[('writer', 4), ('actor', 3), ('producer', 3), ('page', 3), ('performance', 3), ('link_source', 2), ('music_contributor', 2), ('made', 1), ('language', 1), ('runtime', 1), ('editor', 1), ('director', 1), ('genre', 1), ('filmid', 1), ('title', 1), ('cinematographer', 1), ('initial_release_date', 1), ('type', 1), ('film_cut', 1), ('date', 1), ('label', 1), ('film_of_distributor', 1)]
+[('writer', 0.11428571428571428), ('actor', 0.08571428571428572), ('producer', 0.08571428571428572), ('page', 0.08571428571428572), ('performance', 0.08571428571428572), ('link_source', 0.05714285714285714), ('music_contributor', 0.05714285714285714), ('made', 0.02857142857142857), ('language', 0.02857142857142857), ('runtime', 0.02857142857142857), ('editor', 0.02857142857142857), ('director', 0.02857142857142857), ('genre', 0.02857142857142857), ('filmid', 0.02857142857142857), ('title', 0.02857142857142857), ('cinematographer', 0.02857142857142857), ('initial_release_date', 0.02857142857142857), ('type', 0.02857142857142857), ('film_cut', 0.02857142857142857), ('date', 0.02857142857142857), ('label', 0.02857142857142857), ('film_of_distributor', 0.02857142857142857)]
+
+121_desc
+[('made', 20), ('director', 20), ('type', 2), ('director_directorid', 1), ('page', 1), ('label', 1), ('director_name', 1)]
+[('made', 0.43478260869565216), ('director', 0.43478260869565216), ('type', 0.043478260869565216), ('director_directorid', 0.021739130434782608), ('page', 0.021739130434782608), ('label', 0.021739130434782608), ('director_name', 0.021739130434782608)]
+
+122_desc
+[('director', 21), ('made', 21), ('type', 2), ('director_directorid', 1), ('label', 1), ('director_name', 1), ('page', 1)]
+[('director', 0.4375), ('made', 0.4375), ('type', 0.041666666666666664), ('director_directorid', 0.020833333333333332), ('label', 0.020833333333333332), ('director_name', 0.020833333333333332), ('page', 0.020833333333333332)]
+
+123_desc
+[('performance', 35), ('actor', 34), ('type', 2), ('page', 1), ('label', 1), ('actor_nytimes_id', 1), ('actor_actorid', 1), ('actor_name', 1), ('actor_netflix_id', 1)]
+[('performance', 0.45454545454545453), ('actor', 0.44155844155844154), ('type', 0.025974025974025976), ('page', 0.012987012987012988), ('label', 0.012987012987012988), ('actor_nytimes_id', 0.012987012987012988), ('actor_actorid', 0.012987012987012988), ('actor_name', 0.012987012987012988), ('actor_netflix_id', 0.012987012987012988)]
+
+124_desc
+[('actor', 21), ('performance', 21), ('type', 2), ('actor_netflix_id', 1), ('page', 1), ('label', 1), ('actor_name', 1), ('actor_actorid', 1), ('actor_nytimes_id', 1)]
+[('actor', 0.42), ('performance', 0.42), ('type', 0.04), ('actor_netflix_id', 0.02), ('page', 0.02), ('label', 0.02), ('actor_name', 0.02), ('actor_actorid', 0.02), ('actor_nytimes_id', 0.02)]
+
+125_desc
+[('performance', 22), ('actor', 20), ('type', 2), ('actor_actorid', 1), ('actor_nytimes_id', 1), ('actor_netflix_id', 1), ('page', 1), ('actor_name', 1), ('label', 1)]
+[('performance', 0.44), ('actor', 0.4), ('type', 0.04), ('actor_actorid', 0.02), ('actor_nytimes_id', 0.02), ('actor_netflix_id', 0.02), ('page', 0.02), ('actor_name', 0.02), ('label', 0.02)]
+
+126_desc
+[('actor', 13), ('performance', 13), ('type', 2), ('actor_actorid', 1), ('actor_name', 1), ('actor_netflix_id', 1), ('label', 1), ('actor_nytimes_id', 1), ('page', 1)]
+[('actor', 0.38235294117647056), ('performance', 0.38235294117647056), ('type', 0.058823529411764705), ('actor_actorid', 0.029411764705882353), ('actor_name', 0.029411764705882353), ('actor_netflix_id', 0.029411764705882353), ('label', 0.029411764705882353), ('actor_nytimes_id', 0.029411764705882353), ('page', 0.029411764705882353)]
+
+127_desc
+[('actor', 22), ('performance', 22), ('type', 2), ('label', 1), ('actor_actorid', 1), ('page', 1), ('actor_nytimes_id', 1), ('actor_name', 1), ('actor_netflix_id', 1)]
+[('actor', 0.4230769230769231), ('performance', 0.4230769230769231), ('type', 0.038461538461538464), ('label', 0.019230769230769232), ('actor_actorid', 0.019230769230769232), ('page', 0.019230769230769232), ('actor_nytimes_id', 0.019230769230769232), ('actor_name', 0.019230769230769232), ('actor_netflix_id', 0.019230769230769232)]
+
+128_desc
+[('actor', 14), ('performance', 13), ('type', 2), ('actor_actorid', 1), ('actor_netflix_id', 1), ('label', 1), ('page', 1), ('actor_name', 1), ('actor_nytimes_id', 1)]
+[('actor', 0.4), ('performance', 0.37142857142857144), ('type', 0.05714285714285714), ('actor_actorid', 0.02857142857142857), ('actor_netflix_id', 0.02857142857142857), ('label', 0.02857142857142857), ('page', 0.02857142857142857), ('actor_name', 0.02857142857142857), ('actor_nytimes_id', 0.02857142857142857)]
+
+129_desc
+[('actor', 26), ('performance', 26), ('type', 2), ('actor_netflix_id', 1), ('actor_actorid', 1), ('label', 1), ('page', 1), ('actor_name', 1), ('actor_nytimes_id', 1)]
+[('actor', 0.43333333333333335), ('performance', 0.43333333333333335), ('type', 0.03333333333333333), ('actor_netflix_id', 0.016666666666666666), ('actor_actorid', 0.016666666666666666), ('label', 0.016666666666666666), ('page', 0.016666666666666666), ('actor_name', 0.016666666666666666), ('actor_nytimes_id', 0.016666666666666666)]
+
+130_desc
+[('performance', 13), ('actor', 13), ('type', 2), ('actor_actorid', 1), ('actor_nytimes_id', 1), ('page', 1), ('actor_netflix_id', 1), ('actor_name', 1), ('label', 1)]
+[('performance', 0.38235294117647056), ('actor', 0.38235294117647056), ('type', 0.058823529411764705), ('actor_actorid', 0.029411764705882353), ('actor_nytimes_id', 0.029411764705882353), ('page', 0.029411764705882353), ('actor_netflix_id', 0.029411764705882353), ('actor_name', 0.029411764705882353), ('label', 0.029411764705882353)]
+
+131_desc
+[('performance', 22), ('actor', 22), ('type', 2), ('actor_actorid', 1), ('actor_nytimes_id', 1), ('actor_name', 1), ('label', 1), ('page', 1), ('actor_netflix_id', 1)]
+[('performance', 0.4230769230769231), ('actor', 0.4230769230769231), ('type', 0.038461538461538464), ('actor_actorid', 0.019230769230769232), ('actor_nytimes_id', 0.019230769230769232), ('actor_name', 0.019230769230769232), ('label', 0.019230769230769232), ('page', 0.019230769230769232), ('actor_netflix_id', 0.019230769230769232)]
+
+132_desc
+[('performance', 15), ('actor', 14), ('type', 2), ('actor_name', 1), ('actor_nytimes_id', 1), ('label', 1), ('actor_actorid', 1), ('actor_netflix_id', 1), ('page', 1)]
+[('performance', 0.40540540540540543), ('actor', 0.3783783783783784), ('type', 0.05405405405405406), ('actor_name', 0.02702702702702703), ('actor_nytimes_id', 0.02702702702702703), ('label', 0.02702702702702703), ('actor_actorid', 0.02702702702702703), ('actor_netflix_id', 0.02702702702702703), ('page', 0.02702702702702703)]
+
+133_desc
+[('actor', 22), ('performance', 21), ('type', 2), ('label', 1), ('actor_netflix_id', 1), ('actor_nytimes_id', 1), ('page', 1), ('actor_name', 1), ('actor_actorid', 1)]
+[('actor', 0.43137254901960786), ('performance', 0.4117647058823529), ('type', 0.0392156862745098), ('label', 0.0196078431372549), ('actor_netflix_id', 0.0196078431372549), ('actor_nytimes_id', 0.0196078431372549), ('page', 0.0196078431372549), ('actor_name', 0.0196078431372549), ('actor_actorid', 0.0196078431372549)]
+
+134_desc
+[('actor', 16), ('performance', 16), ('type', 2), ('actor_nytimes_id', 1), ('label', 1), ('actor_actorid', 1), ('actor_name', 1), ('page', 1), ('actor_netflix_id', 1)]
+[('actor', 0.4), ('performance', 0.4), ('type', 0.05), ('actor_nytimes_id', 0.025), ('label', 0.025), ('actor_actorid', 0.025), ('actor_name', 0.025), ('page', 0.025), ('actor_netflix_id', 0.025)]
+
+135_desc
+[('director', 23), ('made', 23), ('type', 2), ('director_name', 1), ('director_directorid', 1), ('label', 1), ('page', 1)]
+[('director', 0.4423076923076923), ('made', 0.4423076923076923), ('type', 0.038461538461538464), ('director_name', 0.019230769230769232), ('director_directorid', 0.019230769230769232), ('label', 0.019230769230769232), ('page', 0.019230769230769232)]
+
+136_desc
+[('performance', 100), ('actor', 100), ('type', 2), ('actor_nytimes_id', 1), ('actor_netflix_id', 1), ('page', 1), ('label', 1), ('actor_actorid', 1), ('actor_name', 1)]
+[('performance', 0.4807692307692308), ('actor', 0.4807692307692308), ('type', 0.009615384615384616), ('actor_nytimes_id', 0.004807692307692308), ('actor_netflix_id', 0.004807692307692308), ('page', 0.004807692307692308), ('label', 0.004807692307692308), ('actor_actorid', 0.004807692307692308), ('actor_name', 0.004807692307692308)]
+
+137_desc
+[('performance', 12), ('actor', 12), ('type', 2), ('actor_actorid', 1), ('actor_name', 1), ('label', 1), ('page', 1), ('actor_nytimes_id', 1), ('actor_netflix_id', 1)]
+[('performance', 0.375), ('actor', 0.375), ('type', 0.0625), ('actor_actorid', 0.03125), ('actor_name', 0.03125), ('label', 0.03125), ('page', 0.03125), ('actor_nytimes_id', 0.03125), ('actor_netflix_id', 0.03125)]
+
+138_desc
+[('actor', 17), ('performance', 17), ('type', 2), ('actor_netflix_id', 1), ('page', 1), ('actor_nytimes_id', 1), ('actor_name', 1), ('label', 1), ('actor_actorid', 1)]
+[('actor', 0.40476190476190477), ('performance', 0.40476190476190477), ('type', 0.047619047619047616), ('actor_netflix_id', 0.023809523809523808), ('page', 0.023809523809523808), ('actor_nytimes_id', 0.023809523809523808), ('actor_name', 0.023809523809523808), ('label', 0.023809523809523808), ('actor_actorid', 0.023809523809523808)]
+
+139_desc
+[('performance', 18), ('actor', 18), ('type', 2), ('actor_actorid', 1), ('label', 1), ('actor_name', 1), ('page', 1), ('actor_nytimes_id', 1), ('actor_netflix_id', 1)]
+[('performance', 0.4090909090909091), ('actor', 0.4090909090909091), ('type', 0.045454545454545456), ('actor_actorid', 0.022727272727272728), ('label', 0.022727272727272728), ('actor_name', 0.022727272727272728), ('page', 0.022727272727272728), ('actor_nytimes_id', 0.022727272727272728), ('actor_netflix_id', 0.022727272727272728)]
+
+140_desc
+[('director', 15), ('made', 15), ('type', 2), ('label', 1), ('director_directorid', 1), ('page', 1), ('director_name', 1)]
+[('director', 0.4166666666666667), ('made', 0.4166666666666667), ('type', 0.05555555555555555), ('label', 0.027777777777777776), ('director_directorid', 0.027777777777777776), ('page', 0.027777777777777776), ('director_name', 0.027777777777777776)]
+
+166_desc
+[('performance', 7), ('actor', 7), ('producer', 6), ('link_source', 5), ('page', 3), ('story_contributor', 1), ('film_cut', 1), ('genre', 1), ('music_contributor', 1), ('label', 1), ('film_story_contributor', 1), ('film_of_distributor', 1), ('director', 1), ('type', 1), ('language', 1), ('runtime', 1), ('initial_release_date', 1), ('hasPhotoCollection', 1), ('writer', 1), ('made', 1), ('date', 1), ('title', 1), ('filmid', 1)]
+[('performance', 0.15217391304347827), ('actor', 0.15217391304347827), ('producer', 0.13043478260869565), ('link_source', 0.10869565217391304), ('page', 0.06521739130434782), ('story_contributor', 0.021739130434782608), ('film_cut', 0.021739130434782608), ('genre', 0.021739130434782608), ('music_contributor', 0.021739130434782608), ('label', 0.021739130434782608), ('film_story_contributor', 0.021739130434782608), ('film_of_distributor', 0.021739130434782608), ('director', 0.021739130434782608), ('type', 0.021739130434782608), ('language', 0.021739130434782608), ('runtime', 0.021739130434782608), ('initial_release_date', 0.021739130434782608), ('hasPhotoCollection', 0.021739130434782608), ('writer', 0.021739130434782608), ('made', 0.021739130434782608), ('date', 0.021739130434782608), ('title', 0.021739130434782608), ('filmid', 0.021739130434782608)]
+
+167_desc
+[('link_source', 5), ('performance', 5), ('actor', 5), ('writer', 3), ('page', 3), ('filmid', 1), ('title', 1), ('hasPhotoCollection', 1), ('film_of_distributor', 1), ('film_art_director', 1), ('director', 1), ('label', 1), ('producer', 1), ('date', 1), ('type', 1), ('runtime', 1), ('made', 1), ('editor', 1), ('language', 1), ('initial_release_date', 1), ('genre', 1), ('music_contributor', 1), ('film_cut', 1)]
+[('link_source', 0.1282051282051282), ('performance', 0.1282051282051282), ('actor', 0.1282051282051282), ('writer', 0.07692307692307693), ('page', 0.07692307692307693), ('filmid', 0.02564102564102564), ('title', 0.02564102564102564), ('hasPhotoCollection', 0.02564102564102564), ('film_of_distributor', 0.02564102564102564), ('film_art_director', 0.02564102564102564), ('director', 0.02564102564102564), ('label', 0.02564102564102564), ('producer', 0.02564102564102564), ('date', 0.02564102564102564), ('type', 0.02564102564102564), ('runtime', 0.02564102564102564), ('made', 0.02564102564102564), ('editor', 0.02564102564102564), ('language', 0.02564102564102564), ('initial_release_date', 0.02564102564102564), ('genre', 0.02564102564102564), ('music_contributor', 0.02564102564102564), ('film_cut', 0.02564102564102564)]
+
+168_desc
+[('actor', 22), ('performance', 22), ('made', 2), ('producer', 2), ('director', 2), ('date', 1), ('writer', 1), ('country', 1), ('subject', 1), ('page', 1), ('filmid', 1), ('label', 1), ('film_subject', 1), ('initial_release_date', 1), ('type', 1), ('title', 1), ('music_contributor', 1), ('based_near', 1)]
+[('actor', 0.3492063492063492), ('performance', 0.3492063492063492), ('made', 0.031746031746031744), ('producer', 0.031746031746031744), ('director', 0.031746031746031744), ('date', 0.015873015873015872), ('writer', 0.015873015873015872), ('country', 0.015873015873015872), ('subject', 0.015873015873015872), ('page', 0.015873015873015872), ('filmid', 0.015873015873015872), ('label', 0.015873015873015872), ('film_subject', 0.015873015873015872), ('initial_release_date', 0.015873015873015872), ('type', 0.015873015873015872), ('title', 0.015873015873015872), ('music_contributor', 0.015873015873015872), ('based_near', 0.015873015873015872)]
+
+169_desc
+[('page', 3), ('made', 2), ('link_source', 2), ('director', 2), ('producer', 2), ('genre', 1), ('editor', 1), ('filmid', 1), ('title', 1), ('initial_release_date', 1), ('date', 1), ('writer', 1), ('cinematographer', 1), ('runtime', 1), ('type', 1), ('language', 1), ('film_cut', 1), ('film_of_distributor', 1), ('label', 1)]
+[('page', 0.12), ('made', 0.08), ('link_source', 0.08), ('director', 0.08), ('producer', 0.08), ('genre', 0.04), ('editor', 0.04), ('filmid', 0.04), ('title', 0.04), ('initial_release_date', 0.04), ('date', 0.04), ('writer', 0.04), ('cinematographer', 0.04), ('runtime', 0.04), ('type', 0.04), ('language', 0.04), ('film_cut', 0.04), ('film_of_distributor', 0.04), ('label', 0.04)]
+
+170_desc
+[('link_source', 5), ('performance', 3), ('actor', 3), ('page', 3), ('writer', 2), ('director', 2), ('made', 2), ('runtime', 1), ('date', 1), ('language', 1), ('film_subject', 1), ('title', 1), ('filmid', 1), ('label', 1), ('country', 1), ('producer', 1), ('film_of_distributor', 1), ('based_near', 1), ('initial_release_date', 1), ('music_contributor', 1), ('editor', 1), ('subject', 1), ('type', 1), ('hasPhotoCollection', 1), ('film_cut', 1)]
+[('link_source', 0.13157894736842105), ('performance', 0.07894736842105263), ('actor', 0.07894736842105263), ('page', 0.07894736842105263), ('writer', 0.05263157894736842), ('director', 0.05263157894736842), ('made', 0.05263157894736842), ('runtime', 0.02631578947368421), ('date', 0.02631578947368421), ('language', 0.02631578947368421), ('film_subject', 0.02631578947368421), ('title', 0.02631578947368421), ('filmid', 0.02631578947368421), ('label', 0.02631578947368421), ('country', 0.02631578947368421), ('producer', 0.02631578947368421), ('film_of_distributor', 0.02631578947368421), ('based_near', 0.02631578947368421), ('initial_release_date', 0.02631578947368421), ('music_contributor', 0.02631578947368421), ('editor', 0.02631578947368421), ('subject', 0.02631578947368421), ('type', 0.02631578947368421), ('hasPhotoCollection', 0.02631578947368421), ('film_cut', 0.02631578947368421)]
+
+171_desc
+[('made', 15), ('director', 15), ('type', 2), ('label', 1), ('director_directorid', 1), ('director_name', 1), ('page', 1)]
+[('made', 0.4166666666666667), ('director', 0.4166666666666667), ('type', 0.05555555555555555), ('label', 0.027777777777777776), ('director_directorid', 0.027777777777777776), ('director_name', 0.027777777777777776), ('page', 0.027777777777777776)]
+
+172_desc
+[('performance', 18), ('actor', 18), ('type', 2), ('actor_netflix_id', 1), ('actor_actorid', 1), ('label', 1), ('actor_nytimes_id', 1), ('actor_name', 1), ('page', 1)]
+[('performance', 0.4090909090909091), ('actor', 0.4090909090909091), ('type', 0.045454545454545456), ('actor_netflix_id', 0.022727272727272728), ('actor_actorid', 0.022727272727272728), ('label', 0.022727272727272728), ('actor_nytimes_id', 0.022727272727272728), ('actor_name', 0.022727272727272728), ('page', 0.022727272727272728)]
+
+173_desc
+[('performance', 12), ('actor', 12), ('type', 2), ('actor_netflix_id', 1), ('actor_name', 1), ('page', 1), ('actor_actorid', 1), ('label', 1), ('actor_nytimes_id', 1)]
+[('performance', 0.375), ('actor', 0.375), ('type', 0.0625), ('actor_netflix_id', 0.03125), ('actor_name', 0.03125), ('page', 0.03125), ('actor_actorid', 0.03125), ('label', 0.03125), ('actor_nytimes_id', 0.03125)]
+
+174_desc
+[('performance', 12), ('actor', 12), ('type', 2), ('actor_name', 1), ('actor_nytimes_id', 1), ('page', 1), ('actor_netflix_id', 1), ('label', 1), ('actor_actorid', 1)]
+[('performance', 0.375), ('actor', 0.375), ('type', 0.0625), ('actor_name', 0.03125), ('actor_nytimes_id', 0.03125), ('page', 0.03125), ('actor_netflix_id', 0.03125), ('label', 0.03125), ('actor_actorid', 0.03125)]
+
+175_desc
+[('director', 15), ('made', 15), ('type', 2), ('label', 1), ('director_name', 1), ('page', 1), ('director_directorid', 1)]
+[('director', 0.4166666666666667), ('made', 0.4166666666666667), ('type', 0.05555555555555555), ('label', 0.027777777777777776), ('director_name', 0.027777777777777776), ('page', 0.027777777777777776), ('director_directorid', 0.027777777777777776)]
+

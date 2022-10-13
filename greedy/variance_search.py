@@ -3,7 +3,7 @@
 # @File   : variance_search.py
 import statistics
 
-def cluster_variance(cluster, k):
+def cluster_variance(cluster):
     '''
     :param cluster: the fuzzy cluster result
     :param k: top K most different from each other

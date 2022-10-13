@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/5782> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/film_story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/255> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/1338> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Soldier_(film)> .
+<http://data.linkedmdb.org/resource/film/1338> <http://purl.org/dc/terms/title> "Soldier" .

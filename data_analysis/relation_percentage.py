@@ -34,17 +34,14 @@ def generate_relation_percentage(path):
         percentage = np.array(per_count)/sum(per_count)
         if percentage[0] > 0.4:
             count += 1
-        # plt.title("{}_desc".format(i))
-        # plt.pie(percentage, labels=labels,autopct='%.2f%%')
-        # plt.savefig("./dbpedia_rel_image/{}_desc.jpg".format(i))
         percentage_map = list(zip(labels,percentage))
-    #     drp.write("{}_desc\n".format(i))
-    #     drp.write(str(rel_count))
-    #     drp.write("\n")
-    #     drp.write(str(percentage_map))
-    #     drp.write("\n")
-    #     drp.write("\n")
-    # drp.close()
+        drp.write("{}_desc\n".format(i))
+        drp.write(str(rel_count))
+        drp.write("\n")
+        drp.write(str(percentage_map))
+        drp.write("\n")
+        drp.write("\n")
+    drp.close()
     print(count)
 
 if __name__ == '__main__':
@@ -53,3 +50,6 @@ if __name__ == '__main__':
     lmdb_path = os.path.join(root, "lmdb")
     generate_relation_percentage(dbpedia_path)
     generate_relation_percentage(lmdb_path)
+
+
+## try entropy

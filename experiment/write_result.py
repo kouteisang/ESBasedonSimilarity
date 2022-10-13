@@ -13,7 +13,7 @@ from soft_clustering.fuzzy_k_means import FCM
 
 
 
-def store(top_k, file_path, id, k, m, name):
+def store(top_k, type, id, k, m, name):
     root = os.path.abspath(os.path.dirname(os.getcwd()))+"/ESBasedonSimilarity/"
     folder_name = "k_" + str(k) + "_m_" + str(m)
     folder_path = os.path.join(root, "res_data", folder_name, name)
@@ -25,7 +25,22 @@ def store(top_k, file_path, id, k, m, name):
 
     file_origin = os.path.join(root, "data", name+"_data", str(id), "{}_desc.nt".format(id))
 
-    res_path = os.path.join(folder_path, str(id),"{}_top{}.nt".format(id, len(top_k)))
+    if type == "top":
+        res_path = os.path.join(folder_path, str(id),"{}_top{}.nt".format(id, len(top_k)))
+    if type == "rank":
+        file_origin_list = []
+        res_path = os.path.join(folder_path, str(id), "{}_rank.nt".format(id))
+        with open(file_origin, 'r') as f:
+            for line in f:
+                line = line[:-1]
+                file_origin_list.append(line)
+        res = open(res_path, 'w')
+        for ele in top_k:
+            res.write(file_origin_list[ele]+'\n')
+        res.close()
+        f.close()
+        return
+
     res = open(res_path, 'w')
     cnt = -1
     with open(file_origin, 'r') as f:
@@ -75,11 +90,12 @@ def get_res(name, k, m):
         value = file[key] # id
         embedding_rep = get_embedding_representation(tf, model, key)
         t = FCM(embedding_rep, k, m, 0.001).forward()
-        top_5 = cluster_variance(t, 5)[:5]
+        res = cluster_variance(t)
+        top_5 = res[:5]
         top_5.sort()
-        store(top_5, key, value, k, m, name)
-        top_10 = cluster_variance(t, 10)[:10]
+        store(top_5, "top", value, k, m, name)
+        top_10 = res[:10]
         top_10.sort()
-        store(top_10, key, value, k, m, name)
-
+        store(top_10, "top", value, k, m, name)
+        store(res, "rank", value, k, m, name)
 
