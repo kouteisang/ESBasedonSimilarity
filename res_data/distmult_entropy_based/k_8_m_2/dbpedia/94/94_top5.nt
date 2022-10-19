@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/issn> "0342-4642" .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/issn> "1432-1238" .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/abbreviation> "Intensive Care Med." .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Springer_Science+Business_Media> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://xmlns.com/foaf/0.1/homepage> <http://icmjournal.esicm.org/index.html> .

@@ -53,18 +53,24 @@ def store(top_k, type, id, k, m, name):
     res.close()
     f.close()
 
-def get_res(name, k, m):
+def get_res(name, k, m, type):
     '''
 
     :param name: "dbpedia" or "lmdb"
     :param k: number of cluster, hyperparameter
     :param m: the fuzzy k-means m
+    :param type: embedding method transe or distmult
     :return:
     '''
     root = os.path.abspath(os.path.dirname(os.getcwd())) + "/ESBasedonSimilarity/"
     if name == "dbpedia":
         all_file = os.path.join(root, "data_analysis", "dbpedia", "dbpedia_all.txt")
-        model_path = os.path.join(root,"embedding","model_dbpedia","dbpedia_transe_model","trained_model.pkl")
+
+        if type == 'transe':
+            model_path = os.path.join(root,"embedding","model_dbpedia","dbpedia_transe_model","trained_model.pkl")
+        elif type == 'distmult':
+            model_path = os.path.join(root,"embedding","model_distmult_dbpedia","dbpedia_distmult_model","trained_model.pkl")
+
         file_base = os.path.join(root,"data_analysis", "dbpedia")
         file_path = []
         for i in range(1,101):
@@ -75,7 +81,12 @@ def get_res(name, k, m):
     elif name == "lmdb":
         print(root)
         all_file = os.path.join(root, "data_analysis", "lmdb", "lmdb_all.txt")
-        model_path = os.path.join(root,"embedding","model_lmdb","lmdb_transe_model","trained_model.pkl")
+
+        if type == 'transe':
+            model_path = os.path.join(root,"embedding","model_lmdb","lmdb_transe_model","trained_model.pkl")
+        elif type == 'distmult':
+            model_path = os.path.join(root,"embedding","model_distmult_lmdb","lmdb_distmult_model","trained_model.pkl")
+
         file_base = os.path.join(root,"data_analysis", "lmdb")
         file_path = []
         for i in range(101,141):

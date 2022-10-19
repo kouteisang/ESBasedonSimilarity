@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/A_Man,_a_Real_One> .
+<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
+<http://data.linkedmdb.org/resource/film/4053> <http://purl.org/dc/terms/title> "A Man, a Real One" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/filmid> "4053"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/director/632> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/4053> .

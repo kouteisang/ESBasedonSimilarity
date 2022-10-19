@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hagar_Wilde> <http://xmlns.com/foaf/0.1/surname> "Wilde"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/elements/1.1/description> "American writer" .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/elements/1.1/description> "American writer"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://xmlns.com/foaf/0.1/givenName> "Hagar"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://xmlns.com/foaf/0.1/name> "Wilde, Hagar"@en .

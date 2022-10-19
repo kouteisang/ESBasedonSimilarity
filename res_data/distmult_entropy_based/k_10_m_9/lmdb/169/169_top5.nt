@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/14503> .
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/4642> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/49> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/37> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/198> .

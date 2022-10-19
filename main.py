@@ -27,7 +27,7 @@ if __name__ == '__main__':
         :parameter3 : m(fuzzy parameter)
     '''
     k = 10
-    m = 9
-    get_res("dbpedia", k, m)
-    get_res("lmdb", k, m)
+    m = 5
+    get_res("dbpedia", k, m,'distmult')
+    get_res("lmdb", k, m,'distmult')
 

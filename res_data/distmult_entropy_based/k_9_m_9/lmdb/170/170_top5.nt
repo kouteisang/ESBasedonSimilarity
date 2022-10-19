@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2486> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13995> .
+<http://data.linkedmdb.org/resource/film/5089> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2077456/> .
+<http://data.linkedmdb.org/resource/director/13995> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5089> .

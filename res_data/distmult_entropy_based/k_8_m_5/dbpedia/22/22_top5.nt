@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Chitita> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Arica_y_Parinacota_Region> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PopulatedPlacesInAricaProvince> .

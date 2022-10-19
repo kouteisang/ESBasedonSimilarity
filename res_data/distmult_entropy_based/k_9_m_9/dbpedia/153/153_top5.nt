@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henlow> <http://www.georss.org/georss/point> "52.03245 -0.28714" .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/areaCode> "01462" .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/2000/01/rdf-schema#label> "Henlow"@en .
+<http://dbpedia.org/resource/Henlow> <http://xmlns.com/foaf/0.1/name> "Henlow"@en .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/populationTotal> "3084"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

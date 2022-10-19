@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/30598> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
+<http://data.linkedmdb.org/resource/actor/30598> <http://data.linkedmdb.org/resource/movie/actor_name> "Tom Courtenay" .
+<http://data.linkedmdb.org/resource/actor/30598> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/92512> .
+<http://data.linkedmdb.org/resource/actor/30598> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/173836> .
+<http://data.linkedmdb.org/resource/actor/30598> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/183968> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Finn_Schiander> <http://xmlns.com/foaf/0.1/surname> "Schiander"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Worker109632518> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Contestant109613191> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/2000/01/rdf-schema#label> "Finn Schiander"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://xmlns.com/foaf/0.1/givenName> "Finn"@en .

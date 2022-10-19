@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/36141> <http://data.linkedmdb.org/resource/movie/actor_nytimes_id> "" .
+<http://data.linkedmdb.org/resource/film/19139> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36141> .
+<http://data.linkedmdb.org/resource/film/19963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36141> .
+<http://data.linkedmdb.org/resource/film/46460> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36141> .
+<http://data.linkedmdb.org/resource/actor/36141> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .

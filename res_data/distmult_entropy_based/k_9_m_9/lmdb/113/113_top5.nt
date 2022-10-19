@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/5240> .
+<http://data.linkedmdb.org/resource/film/5232> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Mummy's_Tomb> .
+<http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/filmid> "5232"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/runtime> "61" .
