@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/74334> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/12398> .
+<http://data.linkedmdb.org/resource/interlink/143782> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/12398> .
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/filmid> "12398"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/film_art_director> <http://data.linkedmdb.org/resource/film_art_director/5> .
+<http://data.linkedmdb.org/resource/director/82> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/12398> .

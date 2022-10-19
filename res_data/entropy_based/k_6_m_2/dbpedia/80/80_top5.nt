@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Zarudcze> <http://www.georss.org/georss/point> "50.56666666666667 21.616666666666667" .
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Poland> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/VillagesInSandomierzCounty> .

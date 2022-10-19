@@ -5,9 +5,10 @@ import os
 
 import torch
 from pykeen.triples import TriplesFactory
+
+from greedy.entropy_search import cluster_entropy
 from greedy.greedy_search import greedy_search
 from embedding.get_embedding import get_embedding_representation
-from greedy.search2_temp import greedy_search2
 from greedy.variance_search import cluster_variance
 from soft_clustering.fuzzy_k_means import FCM
 
@@ -90,7 +91,8 @@ def get_res(name, k, m):
         value = file[key] # id
         embedding_rep = get_embedding_representation(tf, model, key)
         t = FCM(embedding_rep, k, m, 0.001).forward()
-        res = cluster_variance(t)
+        # res = cluster_variance(t) # variance based method
+        res = cluster_entropy(t) # entropy based method
         top_5 = res[:5]
         top_5.sort()
         store(top_5, "top", value, k, m, name)
