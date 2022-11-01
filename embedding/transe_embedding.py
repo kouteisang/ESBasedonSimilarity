@@ -35,7 +35,7 @@ def get_embedding(path, training, testing, validation):
             model="TransE",
             epochs=300
         )
-        dbmodel.save_to_directory('model_dbpedia/dbpedia_transe_model')
+        dbmodel.save_to_directory('model_complete_dbpedia/dbpedia_transe_model')
 
     lmmodel = None
     if "lmdb" in path:
@@ -56,7 +56,7 @@ def get_embedding(path, training, testing, validation):
             model="TransE",
             epochs=300
         )
-        lmmodel.save_to_directory('model_lmdb/lmdb_transe_model')
+        lmmodel.save_to_directory('model_complete_lmdb/lmdb_transe_model')
 
 # This method is to evaluate the model
 # using MRR and hits@10
@@ -64,9 +64,9 @@ def evluate_model(path, training, testing, validation):
     evaluator = RankBasedEvaluator()
     model = None
     if "dbpedia" in path:
-        model = torch.load(os.path.join(os.getcwd(),"model_dbpedia/dbpedia_transe_model/trained_model.pkl"))
+        model = torch.load(os.path.join(os.getcwd(),"model_complete_dbpedia/dbpedia_transe_model/trained_model.pkl"))
     else:
-        model = torch.load(os.path.join(os.getcwd(),"model_lmdb/lmdb_transe_model/trained_model.pkl"))
+        model = torch.load(os.path.join(os.getcwd(),"model_complete_lmdb/lmdb_transe_model/trained_model.pkl"))
     result = evaluator.evaluate(
         model=model,
         mapped_triples=testing.mapped_triples,
@@ -94,7 +94,7 @@ def evluate_model(path, training, testing, validation):
 def choose(path):
     tf = TriplesFactory.from_path(path)
     # split the data into training set, testing set, validation set
-    training, testing, validation = tf.split([.85, .075, .075])
+    training, testing, validation = tf.split([.8, .1, .1])
     # train the model to get the embedding
     get_embedding(path, training, testing, validation)
     # evluate the model
@@ -102,10 +102,10 @@ def choose(path):
 
 if __name__ == '__main__':
     root = os.path.abspath(os.path.dirname(os.getcwd()))
-    db_path = os.path.join(root, "data_analysis", "dbpedia", "dbpedia_all.txt")
-    lm_path = os.path.join(root, "data_analysis", "lmdb", "lmdb_all.txt")
+    # db_path = os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.tsv")
+    lm_path = os.path.join(root, "complete_data", "lmdb", "complete_lmdb.tsv")
 
-    choose(db_path)
+    choose(lm_path)
 
 
 

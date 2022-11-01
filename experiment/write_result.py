@@ -70,7 +70,6 @@ def get_res(name, k, m, type):
             model_path = os.path.join(root,"embedding","model_dbpedia","dbpedia_transe_model","trained_model.pkl")
         elif type == 'distmult':
             model_path = os.path.join(root,"embedding","model_distmult_dbpedia","dbpedia_distmult_model","trained_model.pkl")
-
         file_base = os.path.join(root,"data_analysis", "dbpedia")
         file_path = []
         for i in range(1,101):
@@ -86,7 +85,6 @@ def get_res(name, k, m, type):
             model_path = os.path.join(root,"embedding","model_lmdb","lmdb_transe_model","trained_model.pkl")
         elif type == 'distmult':
             model_path = os.path.join(root,"embedding","model_distmult_lmdb","lmdb_distmult_model","trained_model.pkl")
-
         file_base = os.path.join(root,"data_analysis", "lmdb")
         file_path = []
         for i in range(101,141):

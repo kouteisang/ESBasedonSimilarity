@@ -134,18 +134,25 @@ if __name__ == '__main__':
     root = os.path.abspath(os.path.dirname(os.getcwd()))
     complete_path = os.path.join(root, "complete_data", "lmdb", "complete_lmdb.nt")
     # cnt = 0
-    # with open(complete_path, encoding="utf-8") as f:
-    #     triples = parser(f)
-    #     for _, _, _, _, head, pred, tail in triples:
-    #         cnt = cnt + 1
-    #         print(head, pred, tail)
-    #     print(cnt)
+    with open(complete_path, encoding="utf-8") as f:
+        for line in f:
+            single_triple_graph = Graph()
+            single_triple_graph.parse(data=line, format='nt')
+            for stmt in single_triple_graph:
+                print(stmt)
+        # triples = parser(f)
+        # for _, _, _, _, head, pred, tail in triples:
+        #     cnt = cnt + 1
+        #     print(head, pred, tail)
+        # print(cnt)
 
-    g = Graph()
-    g.parse(complete_path)
-    write_tsv = open(os.path.join(root, "complete_data", "lmdb", "complete_lmdb.tsv"), 'w')
-    for stmt in g:
-        head = str(stmt[0])
-        rel = str(stmt[1])
-        tail = re.sub("\s+", "", str(stmt[2]))
-        write_tsv.write(head+"\t"+rel+"\t"+tail+"\n")
+    # g = Graph()
+    # g.parse(complete_path)
+    # write_tsv = open(os.path.join(root, "complete_data", "lmdb", "complete_lmdb.tsv"), 'w')
+    # for stmt in g:
+    #     print(stmt)
+    #     head = str(stmt[0])
+    #     rel = str(stmt[1])
+    #     tail = re.sub("\s+", "", str(stmt[2]))
+    #     # write_tsv.write(head+"\t"+rel+"\t"+tail+"\n")
+

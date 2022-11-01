@@ -3,6 +3,7 @@
 # @File   : main.py
 import os
 
+from experiment.complete_result import get_complete_result
 from experiment.write_result import get_res
 import argparse
 
@@ -28,6 +29,11 @@ if __name__ == '__main__':
     '''
     k = 10
     m = 5
-    get_res("dbpedia", k, m,'distmult')
-    get_res("lmdb", k, m,'distmult')
+    # get_res("dbpedia", k, m,'distmult')
+    # get_res("lmdb", k, m,'distmult')
+
+    get_complete_result("lmdb", k, m, "transe")
+
+
+
 
