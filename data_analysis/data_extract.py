@@ -7,6 +7,7 @@ import os
 import re
 from os import path
 
+from rdflib import Graph
 
 
 def parser(f):
@@ -90,42 +91,61 @@ if __name__ == '__main__':
     # dbpedia_data [1-100, 141-165]
     # lmdb_data [101-140, 166-175]
 
+    # root = os.path.abspath(os.path.dirname(os.getcwd()))
+    # dbpedia_path = os.path.join(root, "data", "dbpedia_data")
+    # lmdb_path = os.path.join(root, "data", "lmdb_data")
+    #
+    # # dbpedia_list index
+    # dbpedia_list = [i for i in range(1, 101)]
+    # dbpedia_list += [i for i in range(141, 166)]
+    #
+    # # lmdb_list index
+    # lmdb_list = [i for i in range(101, 141)]
+    # lmdb_list += [i for i in range(166, 176)]
+    #
+    # dbpedia_all_path = os.path.join(os.getcwd(), "dbpedia","dbpedia_all.txt")
+    # lmdb_all_path = os.path.join(os.getcwd(), "lmdb", "lmdb_all.txt")
+    #
+    # db_write = open(dbpedia_all_path, "w")
+    # lm_write = open(lmdb_all_path, "w")
+    #
+    # for i in dbpedia_list:
+    #     triples = prepare_data(dbpedia_path, i)
+    #     file_path = os.path.join(os.getcwd(), "dbpedia", "{}_desc.nt".format(i))
+    #     file = open(file_path, "w")
+    #     for _, _, _, _, head, pred, tail in triples:
+    #         db_write.write(head+"\t"+pred+"\t"+tail+"\n")
+    #         file.write(head + "\t" + pred + "\t" + tail + "\n")
+    #     file.close()
+    #
+    # db_write.close()
+    #
+    # for i in lmdb_list:
+    #     triples = prepare_data(lmdb_path, i)
+    #     file_path = os.path.join(os.getcwd(), "lmdb", "{}_desc.nt".format(i))
+    #     file = open(file_path, "w")
+    #     for _, _, _, _, head, pred, tail in triples:
+    #         lm_write.write(head+"\t"+pred+"\t"+tail+"\n")
+    #         file.write(head + "\t" + pred + "\t" + tail + "\n")
+    #     file.close()
+    #
+    # lm_write.close()
+
     root = os.path.abspath(os.path.dirname(os.getcwd()))
-    dbpedia_path = os.path.join(root, "data", "dbpedia_data")
-    lmdb_path = os.path.join(root, "data", "lmdb_data")
+    complete_path = os.path.join(root, "complete_data", "lmdb", "complete_lmdb.nt")
+    # cnt = 0
+    # with open(complete_path, encoding="utf-8") as f:
+    #     triples = parser(f)
+    #     for _, _, _, _, head, pred, tail in triples:
+    #         cnt = cnt + 1
+    #         print(head, pred, tail)
+    #     print(cnt)
 
-    # dbpedia_list index
-    dbpedia_list = [i for i in range(1, 101)]
-    dbpedia_list += [i for i in range(141, 166)]
-
-    # lmdb_list index
-    lmdb_list = [i for i in range(101, 141)]
-    lmdb_list += [i for i in range(166, 176)]
-
-    dbpedia_all_path = os.path.join(os.getcwd(), "dbpedia","dbpedia_all.txt")
-    lmdb_all_path = os.path.join(os.getcwd(), "lmdb", "lmdb_all.txt")
-
-    db_write = open(dbpedia_all_path, "w")
-    lm_write = open(lmdb_all_path, "w")
-
-    for i in dbpedia_list:
-        triples = prepare_data(dbpedia_path, i)
-        file_path = os.path.join(os.getcwd(), "dbpedia", "{}_desc.nt".format(i))
-        file = open(file_path, "w")
-        for _, _, _, _, head, pred, tail in triples:
-            db_write.write(head+"\t"+pred+"\t"+tail+"\n")
-            file.write(head + "\t" + pred + "\t" + tail + "\n")
-        file.close()
-
-    db_write.close()
-
-    for i in lmdb_list:
-        triples = prepare_data(lmdb_path, i)
-        file_path = os.path.join(os.getcwd(), "lmdb", "{}_desc.nt".format(i))
-        file = open(file_path, "w")
-        for _, _, _, _, head, pred, tail in triples:
-            lm_write.write(head+"\t"+pred+"\t"+tail+"\n")
-            file.write(head + "\t" + pred + "\t" + tail + "\n")
-        file.close()
-
-    lm_write.close()
+    g = Graph()
+    g.parse(complete_path)
+    write_tsv = open(os.path.join(root, "complete_data", "lmdb", "complete_lmdb.tsv"), 'w')
+    for stmt in g:
+        head = str(stmt[0])
+        rel = str(stmt[1])
+        tail = re.sub("\s+", "", str(stmt[2]))
+        write_tsv.write(head+"\t"+rel+"\t"+tail+"\n")
