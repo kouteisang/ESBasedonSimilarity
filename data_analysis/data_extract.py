@@ -132,27 +132,55 @@ if __name__ == '__main__':
     # lm_write.close()
 
     root = os.path.abspath(os.path.dirname(os.getcwd()))
-    complete_path = os.path.join(root, "complete_data", "lmdb", "complete_lmdb.nt")
+    complete_path = os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.nt")
+    # writefile = open("/Users/huangcheng/Documents/ESBasedonSimilarity/complete_data/dbpedia/test.tsv", 'w')
     # cnt = 0
-    with open(complete_path, encoding="utf-8") as f:
-        for line in f:
-            single_triple_graph = Graph()
-            single_triple_graph.parse(data=line, format='nt')
-            for stmt in single_triple_graph:
-                print(stmt)
-        # triples = parser(f)
-        # for _, _, _, _, head, pred, tail in triples:
-        #     cnt = cnt + 1
-        #     print(head, pred, tail)
-        # print(cnt)
+    # remover = set()
+    # with open(complete_path, encoding="utf-8") as f:
+    #     triples = parser(f)
+    #     for _, _, _, _, head, pred, tail in triples:
+    #         t = head+"\t"+pred+"\t"+tail
+    #         if t in remover:
+    #             continue
+    #         cnt = cnt + 1
+    #         remover.add(t)
+    #         writefile.write(t+"\n")
+    #         print(head, pred, tail)
+    #     print(cnt)
+    cnt = 0
+    g = Graph()
+    g.parse(complete_path)
+    write_tsv = open(os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.tsv"), 'w')
+    remover = set()
+    for stmt in g:
+        cnt = cnt + 1
+        head = str(stmt[0])
+        rel = str(stmt[1])
+        tail = re.sub("\s+", "", str(stmt[2]))
 
-    # g = Graph()
-    # g.parse(complete_path)
-    # write_tsv = open(os.path.join(root, "complete_data", "lmdb", "complete_lmdb.tsv"), 'w')
-    # for stmt in g:
-    #     print(stmt)
-    #     head = str(stmt[0])
-    #     rel = str(stmt[1])
-    #     tail = re.sub("\s+", "", str(stmt[2]))
-    #     # write_tsv.write(head+"\t"+rel+"\t"+tail+"\n")
+        if "\"" in head:
+            head = head.replace("\"","")
+        if "\'" in head:
+            head = head.replace("\'","")
+
+        if "\"" in rel:
+            rel = rel.replace("\"","")
+        if  "\'" in rel:
+            rel = rel.replace("\'","")
+
+        if "\"" in tail:
+            tail = tail.replace("\"","")
+        if  "\'" in tail:
+            tail = tail.replace("\'","")
+        if tail == "":
+            tail = "UNK"
+
+        t = head + "\t" + rel + "\t" + tail
+        if t in remover:
+            continue
+        else:
+            remover.add(t)
+            write_tsv.write(t+"\n")
+
+    write_tsv.close()
 

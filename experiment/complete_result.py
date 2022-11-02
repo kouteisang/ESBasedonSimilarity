@@ -72,22 +72,31 @@ def get_complete_result(name, k, m, type):
         for i in range(166, 176):
             file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
 
-        model = torch.load(model_path)
-        tf = TriplesFactory.from_path(all_file)
-
-        for file in file_path:
-            key = list(file)[0]  # file path
-            value = file[key]  # id
-            embedding_rep = get_embedding_representation(tf, model, key)
-            t = FCM(embedding_rep, k, m, 0.001).forward()
-            res = cluster_entropy(t)  # entropy based method
-            top_5 = res[:5]
-            top_5.sort()
-            store(top_5, "top", value, k, m, name)
-            top_10 = res[:10]
-            top_10.sort()
-            store(top_10, "top", value, k, m, name)
-            store(res, "rank", value, k, m, name)
-
     if name == "dbpedia":
         all_file = os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.tsv")
+        if type == "transe":
+            model_path = os.path.join(root,"embedding","model_complete_dbpedia","dbpedia_transe_model","trained_model.pkl")
+
+        file_base = os.path.join(root,"data_analysis", "dbpedia_origin_complete")
+        file_path = []
+        for i in range(1,101):
+            file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
+        for i in range(141, 166):
+            file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
+
+    model = torch.load(model_path)
+    tf = TriplesFactory.from_path(all_file)
+
+    for file in file_path:
+        key = list(file)[0]  # file path
+        value = file[key]  # id
+        embedding_rep = get_embedding_representation(tf, model, key)
+        t = FCM(embedding_rep, k, m, 0.001).forward()
+        res = cluster_entropy(t)  # entropy based method
+        top_5 = res[:5]
+        top_5.sort()
+        store(top_5, "top", value, k, m, name)
+        top_10 = res[:10]
+        top_10.sort()
+        store(top_10, "top", value, k, m, name)
+        store(res, "rank", value, k, m, name)

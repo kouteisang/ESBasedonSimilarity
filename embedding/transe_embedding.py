@@ -33,7 +33,7 @@ def get_embedding(path, training, testing, validation):
             optimizer_kwargs=dict(lr=0.001),
             stopper="early",
             model="TransE",
-            epochs=300
+            epochs=1
         )
         dbmodel.save_to_directory('model_complete_dbpedia/dbpedia_transe_model')
 
@@ -102,10 +102,10 @@ def choose(path):
 
 if __name__ == '__main__':
     root = os.path.abspath(os.path.dirname(os.getcwd()))
-    # db_path = os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.tsv")
+    db_path = os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.tsv")
     lm_path = os.path.join(root, "complete_data", "lmdb", "complete_lmdb.tsv")
 
-    choose(lm_path)
+    choose(db_path)
 
 
 
