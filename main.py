@@ -29,11 +29,8 @@ if __name__ == '__main__':
     '''
     k = 6
     m = 9
-    # get_res("dbpedia", k, m,'distmult')
-    # get_res("lmdb", k, m,'distmult')
-
-    get_complete_result("dbpedia", k, m, "transe")
-    get_complete_result("lmdb", k, m, "transe")
+    get_res("dbpedia", k, m,'distmult')
+    get_res("lmdb", k, m,'distmult')
 
 
 

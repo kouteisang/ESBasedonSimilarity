@@ -61,11 +61,11 @@ def get_complete_result(name, k, m, type):
     """
     root = os.path.abspath(os.path.dirname(os.getcwd())) + "/ESBasedonSimilarity/"
     if name == "lmdb":
-        all_file = os.path.join(root, "complete_data", "lmdb", "complete_lmdb.tsv")
+        all_file = os.path.join(root, "complete_data", "lmdb", "complete_extract_lmdb.tsv")
         if type == "transe":
             model_path = os.path.join(root,"embedding","model_complete_lmdb","lmdb_transe_model","trained_model.pkl")
 
-        file_base = os.path.join(root,"data_analysis", "lmdb_origin_complete")
+        file_base = os.path.join(root,"data_analysis", "lmdb")
         file_path = []
         for i in range(101,141):
             file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
@@ -73,11 +73,11 @@ def get_complete_result(name, k, m, type):
             file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
 
     if name == "dbpedia":
-        all_file = os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.tsv")
+        all_file = os.path.join(root, "complete_data", "dbpedia", "complete_extract_dbpedia.tsv")
         if type == "transe":
             model_path = os.path.join(root,"embedding","model_complete_dbpedia","dbpedia_transe_model","trained_model.pkl")
 
-        file_base = os.path.join(root,"data_analysis", "dbpedia_origin_complete")
+        file_base = os.path.join(root,"data_analysis", "dbpedia")
         file_path = []
         for i in range(1,101):
             file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})

@@ -133,54 +133,54 @@ if __name__ == '__main__':
 
     root = os.path.abspath(os.path.dirname(os.getcwd()))
     complete_path = os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.nt")
-    # writefile = open("/Users/huangcheng/Documents/ESBasedonSimilarity/complete_data/dbpedia/test.tsv", 'w')
-    # cnt = 0
-    # remover = set()
-    # with open(complete_path, encoding="utf-8") as f:
-    #     triples = parser(f)
-    #     for _, _, _, _, head, pred, tail in triples:
-    #         t = head+"\t"+pred+"\t"+tail
-    #         if t in remover:
-    #             continue
-    #         cnt = cnt + 1
-    #         remover.add(t)
-    #         writefile.write(t+"\n")
-    #         print(head, pred, tail)
-    #     print(cnt)
+    writefile = open("/Users/huangcheng/Documents/ESBasedonSimilarity/complete_data/dbpedia/complete_extract_dbpedia.tsv", 'w')
     cnt = 0
-    g = Graph()
-    g.parse(complete_path)
-    write_tsv = open(os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.tsv"), 'w')
     remover = set()
-    for stmt in g:
-        cnt = cnt + 1
-        head = str(stmt[0])
-        rel = str(stmt[1])
-        tail = re.sub("\s+", "", str(stmt[2]))
-
-        if "\"" in head:
-            head = head.replace("\"","")
-        if "\'" in head:
-            head = head.replace("\'","")
-
-        if "\"" in rel:
-            rel = rel.replace("\"","")
-        if  "\'" in rel:
-            rel = rel.replace("\'","")
-
-        if "\"" in tail:
-            tail = tail.replace("\"","")
-        if  "\'" in tail:
-            tail = tail.replace("\'","")
-        if tail == "":
-            tail = "UNK"
-
-        t = head + "\t" + rel + "\t" + tail
-        if t in remover:
-            continue
-        else:
+    with open(complete_path, encoding="utf-8") as f:
+        triples = parser(f)
+        for _, _, _, _, head, pred, tail in triples:
+            t = head+"\t"+pred+"\t"+tail
+            if t in remover:
+                cnt = cnt + 1
+                continue
             remover.add(t)
-            write_tsv.write(t+"\n")
-
-    write_tsv.close()
+            writefile.write(t+"\n")
+            print(head, pred, tail)
+        print(cnt)
+    # cnt = 0
+    # g = Graph()
+    # g.parse(complete_path)
+    # write_tsv = open(os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.tsv"), 'w')
+    # remover = set()
+    # for stmt in g:
+    #     cnt = cnt + 1
+    #     head = str(stmt[0])
+    #     rel = str(stmt[1])
+    #     tail = re.sub("\s+", "", str(stmt[2]))
+    #
+    #     if "\"" in head:
+    #         head = head.replace("\"","")
+    #     if "\'" in head:
+    #         head = head.replace("\'","")
+    #
+    #     if "\"" in rel:
+    #         rel = rel.replace("\"","")
+    #     if  "\'" in rel:
+    #         rel = rel.replace("\'","")
+    #
+    #     if "\"" in tail:
+    #         tail = tail.replace("\"","")
+    #     if  "\'" in tail:
+    #         tail = tail.replace("\'","")
+    #     if tail == "":
+    #         tail = "UNK"
+    #
+    #     t = head + "\t" + rel + "\t" + tail
+    #     if t in remover:
+    #         continue
+    #     else:
+    #         remover.add(t)
+    #         write_tsv.write(t+"\n")
+    #
+    # write_tsv.close()
 

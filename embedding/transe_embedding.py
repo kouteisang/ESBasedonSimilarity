@@ -13,7 +13,7 @@ from pykeen.models.predict import get_tail_prediction_df
 
 
 
-def get_embedding(path, training, testing, validation):
+def get_embedding(path, training, testing, validation, lr, dim, fn, margin):
 
     # grid search to find the best hyper-parameter
     dbmodel = None
@@ -25,15 +25,15 @@ def get_embedding(path, training, testing, validation):
             training_loop='sLCWA',
             negative_sampler='basic',
             loss=MarginRankingLoss,
-            loss_kwargs = dict(margin=1),
+            loss_kwargs = dict(margin=margin),
             model_kwargs = dict(
-                scoring_fct_norm = 2,
-                embedding_dim=100),
+                scoring_fct_norm = fn,
+                embedding_dim=dim),
             optimizer=Adam,
-            optimizer_kwargs=dict(lr=0.001),
+            optimizer_kwargs=dict(lr=lr),
             stopper="early",
             model="TransE",
-            epochs=1
+            epochs=1000
         )
         dbmodel.save_to_directory('model_complete_dbpedia/dbpedia_transe_model')
 
@@ -46,16 +46,17 @@ def get_embedding(path, training, testing, validation):
             training_loop='sLCWA',
             negative_sampler='basic',
             loss=MarginRankingLoss,
-            loss_kwargs = dict(margin=1),
+            loss_kwargs = dict(margin=margin),
             model_kwargs = dict(
-                scoring_fct_norm = 2,
-                embedding_dim=100),
+                scoring_fct_norm = fn,
+                embedding_dim=dim),
             optimizer=Adam,
-            optimizer_kwargs=dict(lr=0.001),
+            optimizer_kwargs=dict(lr=lr),
             stopper="early",
             model="TransE",
-            epochs=300
+            epochs=1000,
         )
+        # lmmodel.plot()
         lmmodel.save_to_directory('model_complete_lmdb/lmdb_transe_model')
 
 # This method is to evaluate the model
@@ -76,8 +77,9 @@ def evluate_model(path, training, testing, validation):
             validation.mapped_triples
         ]
     )
-    print("MRR = ", result.get_metric("meanreciprocalrank"))
-    print("hits@10 = ", result.get_metric("hits@10"))
+    # print("MRR = ", result.get_metric("meanreciprocalrank"))
+    # print("hits@10 = ", result.get_metric("hits@10"))
+    return result.get_metric("meanreciprocalrank"), result.get_metric("hits@10")
 
     ## Test the ability of completion
     # df = get_tail_prediction_df(
@@ -95,15 +97,35 @@ def choose(path):
     tf = TriplesFactory.from_path(path)
     # split the data into training set, testing set, validation set
     training, testing, validation = tf.split([.8, .1, .1])
-    # train the model to get the embedding
-    get_embedding(path, training, testing, validation)
+
+    learning_rate = [0.001, 0.01]
+    dims = [20, 50, 100]
+    fct_norms= [1, 2]
+    margins = [1, 2, 10]
+    ans = []
+
+    # for lr in learning_rate:
+    #     for dim in dims:
+    #         for fn in fct_norms:
+    #             for margin in margins:
+                    # train the model to get the embedding
+    get_embedding(path, training, testing, validation, 0.001, 50, 1, 2)
     # evluate the model
-    evluate_model(path, training, testing, validation)
+    mrr, hit10 = evluate_model(path, training, testing, validation)
+    t_res = "learning_rate = {}, dimension = {}, fn = {}, margin = {}, mrr = {}, hit10 = {}".format(str(0.001),
+                                                                                                  str(50),
+                                                                                                  str(1),
+                                                                                                  str(2),
+                                                                                                  str(mrr), str(hit10))
+    print(t_res)
+    ans.append(t_res)
+
+    print(ans)
 
 if __name__ == '__main__':
     root = os.path.abspath(os.path.dirname(os.getcwd()))
-    db_path = os.path.join(root, "complete_data", "dbpedia", "complete_dbpedia.tsv")
-    lm_path = os.path.join(root, "complete_data", "lmdb", "complete_lmdb.tsv")
+    db_path = os.path.join(root, "complete_data", "dbpedia", "complete_extract_dbpedia.tsv")
+    lm_path = os.path.join(root, "complete_data", "lmdb", "complete_extract_lmdb.tsv")
 
     choose(db_path)
 
