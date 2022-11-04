@@ -27,10 +27,10 @@ if __name__ == '__main__':
         :parameter2 : k(number of cluster)
         :parameter3 : m(fuzzy parameter)
     '''
-    k = 6
+    k = 9
     m = 9
-    get_res("dbpedia", k, m,'distmult')
-    get_res("lmdb", k, m,'distmult')
+    get_complete_result("dbpedia", k, m,'transe')
+    get_complete_result("lmdb", k, m,'transe')
 
 
 

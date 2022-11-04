@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/nrhpReferenceNumber> "79001889" .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.georss.org/georss/point> "41.29388888888889 -82.245" .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HistoricPlace> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LandmarksOrHistoricalBuildings> .
