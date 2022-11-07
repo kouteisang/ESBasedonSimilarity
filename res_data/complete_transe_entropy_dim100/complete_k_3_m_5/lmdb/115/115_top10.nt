@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/6213> <http://www.w3.org/2000/01/rdf-schema#label> "The Handmaid's Tale" .
+<http://data.linkedmdb.org/resource/film/6213> <http://purl.org/dc/terms/title> "The Handmaid's Tale" .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/filmid> "6213"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/6213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/runtime> "109" .
+<http://data.linkedmdb.org/resource/film/6213> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000ac8dbc> .
+<http://data.linkedmdb.org/resource/film/6213> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0099731> .
+<http://data.linkedmdb.org/resource/film/6213> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0099731> .
+<http://data.linkedmdb.org/resource/film/6213> <http://www.w3.org/2004/02/skos/core#subject> <http://data.linkedmdb.org/resource/film_subject/281> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/281> .

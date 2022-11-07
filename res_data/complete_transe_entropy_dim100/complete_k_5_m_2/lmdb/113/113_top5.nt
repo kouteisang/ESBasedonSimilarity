@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/5232> <http://purl.org/dc/terms/date> "1942-10-23" .
+<http://data.linkedmdb.org/resource/director/2475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/director/2954> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/filmid> "5232"^^<http://www.w3.org/2001/XMLSchema#int> .

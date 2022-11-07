@@ -6,6 +6,7 @@ import os
 import torch
 from pykeen.triples import TriplesFactory
 from embedding.get_embedding import get_embedding_representation
+from greedy.variance_search import cluster_variance
 from soft_clustering.fuzzy_k_means import FCM
 from greedy.entropy_search import cluster_entropy
 
@@ -63,7 +64,7 @@ def get_complete_result(name, k, m, type):
     if name == "lmdb":
         all_file = os.path.join(root, "complete_data", "lmdb", "complete_extract_lmdb.tsv")
         if type == "transe":
-            model_path = os.path.join(root,"embedding","model_complete_lmdb","lmdb_transe_model","trained_model.pkl")
+            model_path = os.path.join(root,"embedding","model_complete_lmdb_100","lmdb_transe_model","trained_model.pkl")
 
         file_base = os.path.join(root,"data_analysis", "lmdb")
         file_path = []
@@ -75,7 +76,7 @@ def get_complete_result(name, k, m, type):
     if name == "dbpedia":
         all_file = os.path.join(root, "complete_data", "dbpedia", "complete_extract_dbpedia.tsv")
         if type == "transe":
-            model_path = os.path.join(root,"embedding","model_complete_dbpedia","dbpedia_transe_model","trained_model.pkl")
+            model_path = os.path.join(root,"embedding","model_complete_dbpedia_100","dbpedia_transe_model","trained_model.pkl")
 
         file_base = os.path.join(root,"data_analysis", "dbpedia")
         file_path = []

@@ -35,7 +35,7 @@ def get_embedding(path, training, testing, validation, lr, dim, fn, margin):
             model="TransE",
             epochs=1000
         )
-        dbmodel.save_to_directory('model_complete_dbpedia/dbpedia_transe_model')
+        dbmodel.save_to_directory('model_complete_dbpedia_100/dbpedia_transe_model')
 
     lmmodel = None
     if "lmdb" in path:
@@ -57,7 +57,7 @@ def get_embedding(path, training, testing, validation, lr, dim, fn, margin):
             epochs=1000,
         )
         # lmmodel.plot()
-        lmmodel.save_to_directory('model_complete_lmdb/lmdb_transe_model')
+        lmmodel.save_to_directory('model_complete_lmdb_100/lmdb_transe_model')
 
 # This method is to evaluate the model
 # using MRR and hits@10
@@ -65,9 +65,9 @@ def evluate_model(path, training, testing, validation):
     evaluator = RankBasedEvaluator()
     model = None
     if "dbpedia" in path:
-        model = torch.load(os.path.join(os.getcwd(),"model_complete_dbpedia/dbpedia_transe_model/trained_model.pkl"))
+        model = torch.load(os.path.join(os.getcwd(),"model_complete_dbpedia_100/dbpedia_transe_model/trained_model.pkl"))
     else:
-        model = torch.load(os.path.join(os.getcwd(),"model_complete_lmdb/lmdb_transe_model/trained_model.pkl"))
+        model = torch.load(os.path.join(os.getcwd(),"model_complete_lmdb_100/lmdb_transe_model/trained_model.pkl"))
     result = evaluator.evaluate(
         model=model,
         mapped_triples=testing.mapped_triples,
@@ -109,13 +109,13 @@ def choose(path):
     #         for fn in fct_norms:
     #             for margin in margins:
                     # train the model to get the embedding
-    get_embedding(path, training, testing, validation, 0.001, 50, 1, 2)
+    get_embedding(path, training, testing, validation, 0.001, 100, 2, 1)
     # evluate the model
     mrr, hit10 = evluate_model(path, training, testing, validation)
     t_res = "learning_rate = {}, dimension = {}, fn = {}, margin = {}, mrr = {}, hit10 = {}".format(str(0.001),
-                                                                                                  str(50),
-                                                                                                  str(1),
+                                                                                                  str(100),
                                                                                                   str(2),
+                                                                                                  str(1),
                                                                                                   str(mrr), str(hit10))
     print(t_res)
     ans.append(t_res)
@@ -127,7 +127,7 @@ if __name__ == '__main__':
     db_path = os.path.join(root, "complete_data", "dbpedia", "complete_extract_dbpedia.tsv")
     lm_path = os.path.join(root, "complete_data", "lmdb", "complete_extract_lmdb.tsv")
 
-    choose(db_path)
+    choose(lm_path)
 
 
 

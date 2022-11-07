@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Hilarographa> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Arthropod> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/synonym> "*Hilarographa pyranthis (Meyrick, 1907)" .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/synonym> "*Thaumatographa excellens (Pagenstecher, 1900)" .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Tortricidae> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/department> <http://dbpedia.org/resource/Var_(department)> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.georss.org/georss/point> "43.4252 6.7684" .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/postalCode> "83700 and 83530" .
+<http://dbpedia.org/resource/Stade_Louis_Hon> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/inseeCode> "83118" .

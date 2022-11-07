@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/9452> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/42558> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32287> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/3355> .
+<http://data.linkedmdb.org/resource/film/2108> <http://purl.org/dc/terms/title> "Dumb & Dumberer" .
