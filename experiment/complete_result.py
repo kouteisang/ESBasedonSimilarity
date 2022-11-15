@@ -64,11 +64,11 @@ def get_complete_result(name, k, m, type):
     if name == "lmdb":
         all_file = os.path.join(root, "complete_data", "lmdb", "complete_extract_lmdb.tsv")
         if type == "transe":
-            model_path = os.path.join(root,"embedding","model_complete_lmdb_100","lmdb_transe_model","trained_model.pkl")
+            model_path = os.path.join(root,"embedding","model_complete_lmdb","lmdb_transe_model","trained_model.pkl")
 
         file_base = os.path.join(root,"data_analysis", "lmdb")
         file_path = []
-        for i in range(101,141):
+        for i in range(103,141):
             file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
         for i in range(166, 176):
             file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
@@ -76,11 +76,11 @@ def get_complete_result(name, k, m, type):
     if name == "dbpedia":
         all_file = os.path.join(root, "complete_data", "dbpedia", "complete_extract_dbpedia.tsv")
         if type == "transe":
-            model_path = os.path.join(root,"embedding","model_complete_dbpedia_100","dbpedia_transe_model","trained_model.pkl")
+            model_path = os.path.join(root,"embedding","model_complete_dbpedia","dbpedia_transe_model","trained_model.pkl")
 
         file_base = os.path.join(root,"data_analysis", "dbpedia")
         file_path = []
-        for i in range(1,101):
+        for i in range(11,101):
             file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
         for i in range(141, 166):
             file_path.append({os.path.join(file_base,"{}_desc.nt".format(i)):i})
