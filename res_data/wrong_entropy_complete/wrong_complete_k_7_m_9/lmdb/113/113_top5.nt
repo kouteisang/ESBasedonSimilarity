@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0035096> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/filmid> "5232"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/5232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5155> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/7260> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/militaryCommand> "Commander in Chief, Air Headquarters India" .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/militaryCommand> "RAF Brize Norton" .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/serviceStartYear> "1914"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/givenName> "Roderick"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Roderick Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Sir Charles Roderick Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Carr, Roderick"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/World_War_I> .
+<http://dbpedia.org/resource/Battle_of_Berlin_(RAF_campaign)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Roderick_Carr> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/surname> "Carr"@en .

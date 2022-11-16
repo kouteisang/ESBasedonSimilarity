@@ -20,6 +20,7 @@ import argparse
 #
 # get_res(args.name, args.k, args.m)
 from experiment.wrong_experiment import get_wrong_res
+from experiment.wrong_experiment_complete import get_wrong_complete_result
 
 if __name__ == '__main__':
     '''
@@ -28,9 +29,9 @@ if __name__ == '__main__':
         :parameter3 : m(fuzzy parameter)
     '''
     k = 10
-    m = 5
-    get_wrong_res("dbpedia", k, m, "transe")
-    get_wrong_res("lmdb", k, m, "transe")
+    m = 2
+    get_wrong_complete_result("dbpedia", k, m, "transe")
+    get_wrong_complete_result("lmdb", k, m, "transe")
 
 
 
