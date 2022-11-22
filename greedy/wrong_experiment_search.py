@@ -7,6 +7,12 @@ from scipy.stats import entropy
 
 
 def wrong_cluster_entropy(cluster, file):
+    '''
+    remove the most frequency relation
+    :param cluster:
+    :param file:
+    :return:
+    '''
     rel_count = {}
     with open(file, 'r') as f:
         for line in f:

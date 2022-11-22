@@ -9,6 +9,7 @@ from pykeen.triples import TriplesFactory
 from greedy.entropy_search import cluster_entropy
 from greedy.greedy_search import greedy_search
 from embedding.get_embedding import get_embedding_representation
+from greedy.remove_2_frequent import remove_top2_frequent
 from greedy.variance_search import cluster_variance
 from greedy.wrong_experiment_search import wrong_cluster_entropy
 from soft_clustering.fuzzy_k_means import FCM
@@ -17,7 +18,7 @@ from soft_clustering.fuzzy_k_means import FCM
 
 def store(top_k, type, id, k, m, name):
     root = os.path.abspath(os.path.dirname(os.getcwd()))+"/ESBasedonSimilarity/"
-    folder_name = "wrong_k_" + str(k) + "_m_" + str(m)
+    folder_name = "removetop2raltion_k_" + str(k) + "_m_" + str(m)
     folder_path = os.path.join(root, "res_data", folder_name, name)
     folder = os.path.exists(folder_path)
     if not folder:
@@ -102,7 +103,8 @@ def get_wrong_res(name, k, m, type):
         embedding_rep = get_embedding_representation(tf, model, key)
         t = FCM(embedding_rep, k, m, 0.001).forward()
         # res = cluster_variance(t) # variance based method
-        res = wrong_cluster_entropy(t, key)
+        # res = wrong_cluster_entropy(t, key) # remove the most frequent relation
+        res = remove_top2_frequent(t, key) # remove the top2 frequent relation
         top_5 = res[:5]
         top_5.sort()
         store(top_5, "top", value, k, m, name)

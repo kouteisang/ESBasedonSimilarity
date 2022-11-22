@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/surname> "Hughes"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/givenName> "William Anthony"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/elements/1.1/description> "Prelate of the Roman Catholic Church"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/elements/1.1/description> "Prelateof theRoman Catholic Church" .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/name> "Hughes, William Anthony"@en .

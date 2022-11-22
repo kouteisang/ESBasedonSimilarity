@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_Time_Zone> .
+<http://dbpedia.org/resource/Nellie_Pou> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/foundingDate> "1901-03-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/areaCode> "973" .

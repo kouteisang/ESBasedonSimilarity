@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/deathYear> "1895"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/activeYearsStartDate> "1861-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/activeYearsEndDate> "1863-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/birthYear> "1820"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/deathDate> "1895-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/526> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/797> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/23034> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/796> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/runtime> "120" .

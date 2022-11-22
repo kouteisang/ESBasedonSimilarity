@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/fr> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/2381> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004fd9b4> .
+<http://data.linkedmdb.org/resource/film/2381> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
+<http://data.linkedmdb.org/resource/film/2381> <http://www.w3.org/2000/01/rdf-schema#label> "What's New Pussycat?" .

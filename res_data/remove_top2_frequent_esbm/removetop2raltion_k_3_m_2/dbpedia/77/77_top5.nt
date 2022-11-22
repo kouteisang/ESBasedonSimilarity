@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://xmlns.com/foaf/0.1/name> "Saint-Raphaël"@en .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Twin_towns_and_sister_cities> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/2000/01/rdf-schema#label> "Saint-Raphaël, Var"@en .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/populationTotal> "34425"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
