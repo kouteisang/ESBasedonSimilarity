@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/otherName> "Rot Stock"@en .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NaturalPlace> .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeologicalFormation109287968> .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q8502> .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "8.497666"^^<http://www.w3.org/2001/XMLSchema#float> .

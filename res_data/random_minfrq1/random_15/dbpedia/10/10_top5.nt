@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/serviceStartYear> "1914"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/birthYear> "1891"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/World_War_II> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Royal_Air_Force_personnel_of_World_War_II> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://www.w3.org/2000/01/rdf-schema#label> "Roderick Carr"@en .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Kippis"@en .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Head110162991> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Executive110069645> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Educator110045713> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Peer109626238> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PeopleFromNottingham> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Minister110320863> .

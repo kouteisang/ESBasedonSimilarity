@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Bagrationi_dynasty_of_Tao-Klarjeti> .
+<http://dbpedia.org/resource/Bagrat_I_of_Iberia> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Ashot_I_of_Iberia> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/title> "Prince of Iberia"@en .

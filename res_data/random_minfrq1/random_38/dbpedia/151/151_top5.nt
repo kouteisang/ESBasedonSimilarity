@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/utcOffset> "+3" .
+<http://dbpedia.org/resource/Ayrovo> <http://xmlns.com/foaf/0.1/name> "Ayrovo"@en .
+<http://dbpedia.org/resource/Ayrovo> <http://xmlns.com/foaf/0.1/name> "Айрово"@en .
+<http://dbpedia.org/resource/Ayrovo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Villages_in_Kardzhali_Province> .

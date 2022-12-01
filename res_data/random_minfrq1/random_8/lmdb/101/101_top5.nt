@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/44076> .
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/61226> .
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30368> .
+<http://data.linkedmdb.org/resource/film/12398> <http://www.w3.org/2000/01/rdf-schema#label> "Men in White" .
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/film_story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/601> .

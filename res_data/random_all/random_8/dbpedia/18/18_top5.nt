@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/strength> "~20" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/County_Waterford> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "(Déise Brigade)" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "Royal Irish Constabulary" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "border|22pxIrish Republican Army" .

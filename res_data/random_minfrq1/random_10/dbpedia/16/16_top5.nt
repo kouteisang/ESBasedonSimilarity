@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Bregalnica"@en .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Ottoman_Empire> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Second_Balkan_War> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Mihail_Savov> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/strength> "ca. 130,000 men,  guns (100 Infantry Battalions, 6 Cavalry Regiments, 63 Artillery Batteries)" .

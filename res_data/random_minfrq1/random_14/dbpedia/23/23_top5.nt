@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/utcOffset> "+4:30" .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kurdestan_Province> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Quri_Chay_Rural_District> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/populationTotal> "36"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/2000/01/rdf-schema#label> "Kuleh Bayan"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AdministrativeDistrict108491826> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/2000/01/rdf-schema#label> "Jalalia, Khyber Pakhtunkhwa"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Mountain109359803> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Pickens_County,_South_Carolina> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/prominence> "214.884"^^<http://www.w3.org/2001/XMLSchema#double> .

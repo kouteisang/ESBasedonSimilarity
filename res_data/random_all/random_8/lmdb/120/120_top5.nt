@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/141053> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/8446> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/3604> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/1174> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/2112> .
+<http://data.linkedmdb.org/resource/film/8446> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0120751> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/deathDate> "1971-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1891_births> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Feilding> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Recipients_of_the_Distinguished_Flying_Cross_(United_Kingdom)> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:New_Zealand_recipients_of_the_Légion_d'honneur> .

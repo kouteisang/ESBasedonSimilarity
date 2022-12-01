@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/draftYear> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/college> <http://dbpedia.org/resource/Seton_Hall_Pirates_men's_basketball> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kansas> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Wichita,_Kansas> .

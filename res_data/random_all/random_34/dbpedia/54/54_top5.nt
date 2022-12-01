@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Diego_Toreros> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Orange_County_Blues_FC> .

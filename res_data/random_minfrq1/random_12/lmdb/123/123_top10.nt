@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/actor/29369> <http://data.linkedmdb.org/resource/movie/actor_name> "Arnold Schwarzenegger" .
+<http://data.linkedmdb.org/resource/actor/29369> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
+<http://data.linkedmdb.org/resource/film/39464> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/2078> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/59172> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/43683> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/4> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/9876> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/585> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/65937> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .

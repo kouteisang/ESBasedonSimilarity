@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/birthYear> "1921"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PeopleFromYoungstown,Ohio> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AmericanRomanCatholicBishops> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .

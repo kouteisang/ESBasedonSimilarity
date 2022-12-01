@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Order_of_the_British_Empire> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/elements/1.1/description> "Royal Air Force air marshals"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Recipients_of_the_Distinguished_Flying_Cross_(United_Kingdom)> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:New_Zealand_air_marshals> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Commandeurs_of_the_Légion_d'honneur> .

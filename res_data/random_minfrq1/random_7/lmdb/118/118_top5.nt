@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/7348> <http://purl.org/dc/terms/title> "Bill: On His Own" .
+<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/7348> .
+<http://data.linkedmdb.org/resource/film/7348> <http://www.w3.org/2000/01/rdf-schema#label> "Bill: On His Own" .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30114> .

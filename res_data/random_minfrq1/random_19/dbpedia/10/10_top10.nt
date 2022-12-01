@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/serviceStartYear> "1914"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Feilding> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Sir Charles Roderick Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Carr, Roderick"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Companions_of_the_Order_of_the_Bath> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Recipients_of_the_Distinguished_Flying_Cross_(United_Kingdom)> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Manawatu-Wanganui> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1971_deaths> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:New_Zealand_recipients_of_the_Légion_d'honneur> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Explorers_of_Antarctica> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Politiken> <http://xmlns.com/foaf/0.1/homepage> <http://politiken.dk/> .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/sisterNewspaper> <http://dbpedia.org/resource/Jyllands-Posten> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Politiken> <http://xmlns.com/foaf/0.1/name> "Politiken"@en .

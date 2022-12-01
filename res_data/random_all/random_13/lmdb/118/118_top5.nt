@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1389> .
+<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/7348> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30837> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38081> .

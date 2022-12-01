@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://xmlns.com/foaf/0.1/name> "Tsvetanov, Momchil"@en .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PFCSpartakPlevenPlayers> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://xmlns.com/foaf/0.1/givenName> "Momchil"@en .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Momchil_Tsvetanov__7> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Momchil_Tsvetanov__2> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Momchil_Tsvetanov__6> .
+<http://dbpedia.org/resource/2015–16_PFC_CSKA_Sofia_season__Momchil_Tsvetanov__1> <http://dbpedia.org/ontology/currentMember> <http://dbpedia.org/resource/Momchil_Tsvetanov> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/birthDate> "1921-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SpiritualLeader109505153> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

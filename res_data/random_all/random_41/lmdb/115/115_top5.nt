@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/55701> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6213> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1990-02-15" .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/runtime> "109" .
+<http://data.linkedmdb.org/resource/film/6213> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000ac8dbc> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/281> .

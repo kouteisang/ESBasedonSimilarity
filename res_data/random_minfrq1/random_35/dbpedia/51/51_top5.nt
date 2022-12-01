@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Vassal_rulers_of_the_Abbasid_Caliphate> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:9th-century_Christian_saints> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:9th-century_Christian_martyrs> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/activeYearsStartYear> "0813"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Nigali_valley> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://xmlns.com/foaf/0.1/name> "Gautrat, Fabrice"@en .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/height> "1.8796"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Fabrice_Gautrat__1> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Fabrice_Gautrat__2> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Fabrice_Gautrat__6> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Diego_Toreros> .

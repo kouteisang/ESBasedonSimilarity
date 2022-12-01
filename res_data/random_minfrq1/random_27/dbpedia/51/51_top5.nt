@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bagrat_I_of_Iberia> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Ashot_I_of_Iberia> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Adarnase_II_of_Tao-Klarjeti> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/deathYear> "0830"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/deathDate> "0830"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Ashotkurapalatgeorgia.jpg?width=300> .

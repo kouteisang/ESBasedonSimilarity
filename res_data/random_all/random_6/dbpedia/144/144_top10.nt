@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Glass_Palace_Chronicle> <http://dbpedia.org/ontology/translator> <http://dbpedia.org/resource/Pe_Maung_Tin> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Master_of_Arts> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1888_births> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Burmese_people_of_Mon_descent> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Burmese_writers> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/elements/1.1/description> "Burma scholar"@en .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Tee_Tee_Luce> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Slow_jam> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hip_hop_soul> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/1994Singles> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Think_of_You_(Usher_song)> .

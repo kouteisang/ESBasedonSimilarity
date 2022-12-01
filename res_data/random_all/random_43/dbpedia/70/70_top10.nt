@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Operation_Hump> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_New_Zealand> .
+<http://dbpedia.org/resource/Operation_Hump> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Campaigns_of_the_Vietnam_War> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG?width=300> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/result> "United States/Australian victory, Viet Cong retreats." .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/causalties> "many more wounded" .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CampaignsOfTheVietnamWar> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SocialEvent107288639> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Act100030358> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingTheUnitedStates> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/combatant> "22pxViet Cong" .

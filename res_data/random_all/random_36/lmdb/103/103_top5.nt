@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/14299> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Briana_Loves_Jenna> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30040> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32619> .
+<http://data.linkedmdb.org/resource/interlink/145197> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/14299> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/9896> .

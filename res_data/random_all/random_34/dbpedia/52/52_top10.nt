@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q13156709> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GolfPlayer> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Contestant109613191> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/name> "Mackey, Cindy"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/birthYear> "1961"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/givenName> "Cindy"@en .

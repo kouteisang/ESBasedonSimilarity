@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/maximumElevation> "667.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Sauxillanges> <http://xmlns.com/foaf/0.1/name> "Sauxillanges"@en .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/2000/01/rdf-schema#label> "Sauxillanges"@en .
+<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.georss.org/georss/point> "45.551 3.372" .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CommunesOfPuy-de-D%C3%B4me> .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
+<http://dbpedia.org/resource/Sauxillanges> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Communes_of_Puy-de-Dôme> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Antonio_José_Cavanilles> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Invasive_plant_species> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Plants_described_in_1801> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pteridophyta_of_Asia> .

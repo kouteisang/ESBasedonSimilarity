@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingPeople> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PeopleFromYoungstown,Ohio> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Saint_Mary_Seminary_and_Graduate_School_of_Theology_alumni> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/name> "William Anthony Hughes"@en .

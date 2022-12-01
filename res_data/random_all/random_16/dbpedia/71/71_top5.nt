@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AdministrativeDistrict108491826> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Iran_Standard_Time> .

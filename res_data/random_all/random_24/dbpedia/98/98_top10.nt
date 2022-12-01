@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://xmlns.com/foaf/0.1/name> "Terrorist Threats"@en .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Bow_Down> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Westside_Connection_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/WC(rapper)Albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/2003Albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/WestsideConnectionAlbums> .

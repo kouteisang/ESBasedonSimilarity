@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/60321> .
+<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/60310> .
+<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/60322> .
+<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/368> .
+<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/filmid> "70866"^^<http://www.w3.org/2001/XMLSchema#int> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Municipality_of_Škocjan> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Southeast_Slovenia_Statistical_Region> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .

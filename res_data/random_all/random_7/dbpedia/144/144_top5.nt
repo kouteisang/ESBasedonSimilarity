@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/2000/01/rdf-schema#label> "Pe Maung Tin"@en .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Bachelor_of_Arts> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Calcutta> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Pali> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

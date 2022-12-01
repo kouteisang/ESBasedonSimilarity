@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/3493> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38110> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/48792> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33140> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35028> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5941> .
+<http://data.linkedmdb.org/resource/film/44555> <http://www.w3.org/2000/01/rdf-schema#label> "LOC Kargil" .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/684> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2003" .
+<http://data.linkedmdb.org/resource/film/44555> <http://purl.org/dc/terms/title> "LOC Kargil" .

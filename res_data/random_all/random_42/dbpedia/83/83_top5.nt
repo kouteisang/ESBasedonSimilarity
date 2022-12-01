@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/synonym> "*Bryotropha brevipalpella (Rebel, 1893)" .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1390> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Insect> .

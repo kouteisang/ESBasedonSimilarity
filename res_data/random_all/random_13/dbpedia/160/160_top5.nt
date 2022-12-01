@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q152> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Actinopterygii> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://www.w3.org/2000/01/rdf-schema#label> "Schistura jarutanini"@en .

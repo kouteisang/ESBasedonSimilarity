@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*L. scandens var. microphyllum (Cav.)Luerss.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Invasive_plant_species> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pteridophyta_of_Africa> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Fiji> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Brunei> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Malesia> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_the_Northwestern_Pacific> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Japan> .

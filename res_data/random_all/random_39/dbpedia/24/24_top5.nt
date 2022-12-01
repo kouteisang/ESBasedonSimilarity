@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PopulatedPlacesInBacLieuProvince> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Site108651247> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/UTC+07:00> .

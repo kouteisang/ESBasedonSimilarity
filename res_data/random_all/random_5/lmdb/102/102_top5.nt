@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/44800> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/585> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/43619> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/255> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .

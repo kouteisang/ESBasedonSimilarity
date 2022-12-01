@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/thumbnail> <http://en.wikipedia.org/wiki/Special:FilePath/Plan_of_the_Battle_of_Bregalnitza.png?width=300> .
+<http://dbpedia.org/resource/Fourth_Army_(Bulgaria)> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Battle_of_Bregalnica> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Mihail_Savov> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/strength> "ca. 194,000 men, 235 guns (104 Infantry Battalions, 34 Cavalry Companies, 62 Artillery Batteries) *" .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Conflict100958896> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheSecondBalkanWar> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Event100029378> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesInvolvingSerbia> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Act100030358> .

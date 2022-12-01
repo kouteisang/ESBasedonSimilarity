@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/filmid> "5089"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/7704> .
+<http://data.linkedmdb.org/resource/film/5089> <http://www.w3.org/2000/01/rdf-schema#label> "The Overlanders" .
+<http://data.linkedmdb.org/resource/director/13995> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5089> .
+<http://data.linkedmdb.org/resource/film/5089> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000942ce9> .

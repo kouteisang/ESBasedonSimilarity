@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/10336> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30598> .
+<http://data.linkedmdb.org/resource/film/38576> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30598> .
+<http://data.linkedmdb.org/resource/film/14368> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30598> .
+<http://data.linkedmdb.org/resource/film/18780> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30598> .
+<http://data.linkedmdb.org/resource/actor/30598> <http://data.linkedmdb.org/resource/movie/actor_nytimes_id> "" .

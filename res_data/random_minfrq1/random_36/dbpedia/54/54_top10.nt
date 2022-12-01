@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/number> "5" .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q937857> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://xmlns.com/foaf/0.1/name> "Gautrat, Fabrice"@en .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://xmlns.com/foaf/0.1/givenName> "Fabrice"@en .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Fabrice_Gautrat__3> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Southern_California_Seahorses> .

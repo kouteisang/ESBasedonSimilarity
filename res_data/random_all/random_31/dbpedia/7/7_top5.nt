@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/OlympicSilverMedalistsForNorway> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/OlympicSailorsOfNorway> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://xmlns.com/foaf/0.1/givenName> "Finn"@en .

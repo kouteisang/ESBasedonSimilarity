@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7348> <http://purl.org/dc/terms/title> "Bill: On His Own" .
+<http://data.linkedmdb.org/resource/film/7348> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0085247> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/runtime> "100" .
+<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/7348> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/30> .

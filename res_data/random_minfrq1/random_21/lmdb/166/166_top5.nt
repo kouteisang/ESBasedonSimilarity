@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/19249> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/1338> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31772> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31101> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/runtime> "99" .
+<http://data.linkedmdb.org/resource/film/1338> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000333908> .

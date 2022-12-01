@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://xmlns.com/foaf/0.1/name> "Borough of North Haledon"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://xmlns.com/foaf/0.1/name> "North Haledon, New Jersey"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/leaderTitle> "Mayor"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "40.96362"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Gérard_Debaets> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .

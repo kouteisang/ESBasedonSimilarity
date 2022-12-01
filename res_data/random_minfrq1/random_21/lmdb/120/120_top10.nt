@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/interlink/141053> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/8446> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/1174> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/15> .
+<http://data.linkedmdb.org/resource/film/8446> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000db9872> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5196> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/4592> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/4184> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/19600> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/173853> .
+<http://data.linkedmdb.org/resource/film/8446> <http://www.w3.org/2000/01/rdf-schema#label> "Mighty Joe Young" .

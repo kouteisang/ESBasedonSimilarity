@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/North_haledon_nj.png> .
+<http://dbpedia.org/resource/Nellie_Pou> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/postalCode> "07508, 07538" .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.georss.org/georss/point> "40.963618 -74.185281" .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://xmlns.com/foaf/0.1/homepage> <http://www.northhaledon.com> .

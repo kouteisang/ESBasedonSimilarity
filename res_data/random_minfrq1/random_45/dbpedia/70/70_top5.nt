@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Operation_Hump> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Campaigns_of_the_Vietnam_War> .
+<http://dbpedia.org/resource/Operation_Hump> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Conflicts_in_1965> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/causalties> "2 Australian MIA (located and repatriated to Australia 5 June 2007)" .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Biên_Hòa> .
+<http://dbpedia.org/resource/Operation_Hump> <http://xmlns.com/foaf/0.1/name> "Operation Hump"@en .

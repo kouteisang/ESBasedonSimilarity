@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/film_story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/255> .
+<http://data.linkedmdb.org/resource/film/1338> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0120157/> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/16216> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/3482> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/filmid> "1338"^^<http://www.w3.org/2001/XMLSchema#int> .

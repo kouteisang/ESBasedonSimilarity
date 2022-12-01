@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/director/270> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/49> .
+<http://data.linkedmdb.org/resource/interlink/70238> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/49> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/runtime> "64" .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/37> .

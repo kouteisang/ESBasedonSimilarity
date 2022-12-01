@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Darreh_Dang> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Populated_places_in_Aligudarz_County> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://xmlns.com/foaf/0.1/name> "دره دنگ"@en .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/populationTotal> "451"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Lorestan_Province> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Zaz-e_Gharbi_Rural_District> .

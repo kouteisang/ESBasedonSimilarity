@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Road104096066> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Turnpike104501018> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/TollRoadsInVirginia> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArchitecturalStructure> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/2000/01/rdf-schema#label> "Richmond–Petersburg Turnpike"@en .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Former_toll_roads_in_Virginia> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Interstate_95> .

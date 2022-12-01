@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/2000/01/rdf-schema#label> "Time (Dave Clark album)"@en .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2188189> .

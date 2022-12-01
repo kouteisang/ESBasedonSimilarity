@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/147317> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/16986> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/14938> .
+<http://data.linkedmdb.org/resource/film/16986> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0048954/> .
+<http://data.linkedmdb.org/resource/film/16986> <http://www.w3.org/2000/01/rdf-schema#label> "Anything Goes" .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/9> .

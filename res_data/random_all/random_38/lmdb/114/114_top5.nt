@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/87740> .
+<http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000abf0a2> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/cinematographer> <http://data.linkedmdb.org/resource/cinematographer/1122> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/runtime> "136" .

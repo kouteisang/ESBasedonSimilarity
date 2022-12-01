@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG?width=300> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/result> "United States/Australian victory, Viet Cong retreats." .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Biên_Hòa> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/combatant> "22pxUnited States" .

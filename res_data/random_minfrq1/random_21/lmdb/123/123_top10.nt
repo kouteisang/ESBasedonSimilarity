@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/actor/29369> <http://www.w3.org/2000/01/rdf-schema#label> "Arnold Schwarzenegger (Actor)" .
+<http://data.linkedmdb.org/resource/actor/29369> <http://data.linkedmdb.org/resource/movie/actor_nytimes_id> "" .
+<http://data.linkedmdb.org/resource/film/979> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/2078> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/59172> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/33> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/9876> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/4477> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/5167> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .
+<http://data.linkedmdb.org/resource/film/40118> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29369> .

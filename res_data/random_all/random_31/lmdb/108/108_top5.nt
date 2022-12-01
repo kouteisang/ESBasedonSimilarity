@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/20517> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/4053> .
+<http://data.linkedmdb.org/resource/interlink/137539> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/4053> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/runtime> "120" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2003-05-28" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/632> .

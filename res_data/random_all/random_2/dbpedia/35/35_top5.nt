@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Giacomo_Bresadola> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Agaricomycetes> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Fungus112992868> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .

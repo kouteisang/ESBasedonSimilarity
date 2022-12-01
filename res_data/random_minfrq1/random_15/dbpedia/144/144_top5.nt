@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Bamar_people> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Pe_Maung_Tin.jpg?width=300> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Yangon_Region> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Burmese_writers> .
+<http://dbpedia.org/resource/Tee_Tee_Luce> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Pe_Maung_Tin> .

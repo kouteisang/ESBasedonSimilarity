@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/HillsOfBrandenburg> .
+<http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q8502> .
+<http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NaturalPlace> .

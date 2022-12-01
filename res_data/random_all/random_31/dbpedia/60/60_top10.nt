@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Scholar110557854> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Priest110470779> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Bishop109857200> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SpiritualLeader109505153> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1921_births> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/elements/1.1/description> "Prelate of the Roman Catholic Church"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/elements/1.1/description> "Prelateof theRoman Catholic Church" .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/deathDate> "2013-02-07"^^<http://www.w3.org/2001/XMLSchema#date> .

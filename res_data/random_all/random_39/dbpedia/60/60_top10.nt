@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/deathYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/birthDate> "1921-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Alumnus109786338> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Clergyman109927451> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SpiritualLeader109505153> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_Roman_Catholic_bishops> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:University_of_Notre_Dame_alumni> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/elements/1.1/description> "Prelate of the Roman Catholic Church"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/elements/1.1/description> "Prelateof theRoman Catholic Church" .

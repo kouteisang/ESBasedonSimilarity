@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/4053> <http://purl.org/dc/terms/title> "A Man, a Real One" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/526> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/777> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/778> .

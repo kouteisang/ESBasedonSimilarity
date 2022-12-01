@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Angela_Atwood> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://xmlns.com/foaf/0.1/name> "North Haledon, New Jersey"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/2000/01/rdf-schema#label> "North Haledon, New Jersey"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Borough_form_of_New_Jersey_government> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1901_establishments_in_New_Jersey> .
+<http://dbpedia.org/resource/Mary_Help_of_Christians_Academy_(New_Jersey)> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/areaWater> "113959.476854784"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/areaWater> "115000.0"^^<http://www.w3.org/2001/XMLSchema#double> .

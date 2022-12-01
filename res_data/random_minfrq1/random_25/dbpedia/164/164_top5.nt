@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Honolulu> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Broadsheet> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Publications_disestablished_in_2010> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Black_Press> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1856_establishments_in_Hawaii> .

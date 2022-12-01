@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Clergyman109927451> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2013_deaths> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:University_of_Notre_Dame_alumni> .

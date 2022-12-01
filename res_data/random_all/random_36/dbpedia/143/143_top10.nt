@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/background> "solo_singer" .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Derby> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Concertina_players> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English_female_singers> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/elements/1.1/description> "British musician"@en .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Performer110415638> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/EnglishFemaleSingers> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Belinda_O'Hooley> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Lucy_Ward_(musician)> .

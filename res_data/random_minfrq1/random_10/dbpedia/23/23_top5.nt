@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.georss.org/georss/point> "35.42472222222222 47.221666666666664" .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/utcOffset> "+4:30" .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kurdestan_Province> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/2000/01/rdf-schema#label> "Kuleh Bayan"@en .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://xmlns.com/foaf/0.1/name> "كوله بيان"@en .

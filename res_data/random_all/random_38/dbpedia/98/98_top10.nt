@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://xmlns.com/foaf/0.1/name> "Terrorist Threats"@en .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/runtime> "3081.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Damizza> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Albums_produced_by_Fredwreck> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English-language_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:WC_(rapper)_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Gangsta_rap_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Artifact100021939> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/2003Albums> .

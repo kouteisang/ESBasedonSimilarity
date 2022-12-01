@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/2000/01/rdf-schema#label> "Hagar Wilde"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/elements/1.1/description> "American writer"@en .
+<http://dbpedia.org/resource/I_Was_a_Male_War_Bride> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Place_of_birth_missing> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1971_deaths> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Women_television_writers> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://xmlns.com/foaf/0.1/name> "Hagar Wilde"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/WomenTelevisionWriters> .

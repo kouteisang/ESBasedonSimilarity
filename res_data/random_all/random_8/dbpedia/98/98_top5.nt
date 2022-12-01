@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gangsta_Nation> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Terrorist_Threats> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Hoo-Bangin'_Records> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/EMI> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Gangsta_rap> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hertz> .

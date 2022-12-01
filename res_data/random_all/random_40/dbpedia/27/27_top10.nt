@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Uelsby> <http://www.georss.org/georss/point> "54.6 9.566666666666666" .
+<http://dbpedia.org/resource/Uelsby> <http://xmlns.com/foaf/0.1/homepage> <http://www.amt-suedangeln.de/> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaCode> "04623" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/populationAsOf> "2006-12-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Municipality108626283> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/District108552138> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/UrbanArea108675967> .

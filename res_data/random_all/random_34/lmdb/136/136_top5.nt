@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/43265> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/2233> .
+<http://data.linkedmdb.org/resource/actor/43265> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/22374> .
+<http://data.linkedmdb.org/resource/actor/43265> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/38303> .
+<http://data.linkedmdb.org/resource/actor/43265> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/96848> .
+<http://data.linkedmdb.org/resource/film/49734> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/43265> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/5326> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/5226> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33557> .
+<http://data.linkedmdb.org/resource/film/5232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36482> .

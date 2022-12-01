@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/goldMedalist> <http://dbpedia.org/resource/Simon_Whitfield> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Olympics> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .

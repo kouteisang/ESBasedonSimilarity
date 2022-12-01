@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hagar_Wilde> <http://xmlns.com/foaf/0.1/surname> "Wilde"@en .
+<http://dbpedia.org/resource/I_Was_a_Male_War_Bride> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/The_Unseen_(1945_film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Scriptwriter110564905> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .

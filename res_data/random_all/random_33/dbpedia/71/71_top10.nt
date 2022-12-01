@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PopulatedPlacesInAligudarzCounty> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q532> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://xmlns.com/foaf/0.1/name> "Darreh Dang"@en .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Iran_Standard_Time> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Zaz-e_Gharbi_Rural_District> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Aligudarz_County> .

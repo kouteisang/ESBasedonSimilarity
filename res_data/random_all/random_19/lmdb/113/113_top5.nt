@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/2490> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/film/5232> <http://purl.org/dc/terms/date> "1942-10-23" .
+<http://data.linkedmdb.org/resource/film/5232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5155> .

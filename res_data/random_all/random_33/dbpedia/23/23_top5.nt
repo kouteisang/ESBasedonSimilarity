@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Iran> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://xmlns.com/foaf/0.1/name> "Kuleh Bayan"@en .

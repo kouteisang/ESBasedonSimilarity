@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/activeYearsStartYear> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Mephisto_Prize> .
+<http://dbpedia.org/resource/The_Sky_Crawlers> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Hiroshi_Mori_(writer)> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Nagoya_University_faculty> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Japanese_mystery_writers> .

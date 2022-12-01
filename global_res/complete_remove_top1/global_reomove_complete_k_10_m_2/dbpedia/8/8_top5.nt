@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hagar_Wilde> <http://xmlns.com/foaf/0.1/surname> "Wilde"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/imdbId> "0928444" .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/deathYear> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://xmlns.com/foaf/0.1/name> "Wilde, Hagar"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/birthYear> "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> .

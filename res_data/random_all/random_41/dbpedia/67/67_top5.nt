@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://xmlns.com/foaf/0.1/name> "Battle of Calicut"@en .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/combatant> "Calicut" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/strength> "Hundreds of smaller ships" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/strength> "40 gun-mountedsambuks" .

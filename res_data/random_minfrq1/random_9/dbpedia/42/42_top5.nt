@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Electronica> .
+<http://dbpedia.org/resource/Cobrastyle> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Cobrastyle> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/LOL_(Blog_27_album)> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Fresh_(Teddybears_album)> .

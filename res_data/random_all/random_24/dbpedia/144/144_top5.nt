@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/birthName> "Ba Tin"@en .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Yangon> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Yangon_Region> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BurmeseStudiesScholars> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://xmlns.com/foaf/0.1/name> "Pe Maung Tin"@en .

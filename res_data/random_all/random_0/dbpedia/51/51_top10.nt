@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/2000/01/rdf-schema#label> "Ashot I of Iberia"@en .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Victim110752093> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Martyr110296618> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Sovereign110628644> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MonarchsOfGeorgia(country)> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Ashotkurapalatgeorgia.jpg?width=300> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/title> "Kouropalatēs"@en .

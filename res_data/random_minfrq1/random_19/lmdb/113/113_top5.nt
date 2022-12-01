@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/21023> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/interlink/2490> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0035096> .
+<http://data.linkedmdb.org/resource/film/5232> <http://purl.org/dc/terms/title> "The Mummy's Tomb" .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/filmid> "5232"^^<http://www.w3.org/2001/XMLSchema#int> .

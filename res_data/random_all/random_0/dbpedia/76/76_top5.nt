@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/NaturalElevation109366317> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NaturalPlace> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/nationalTopographicSystemMapNumber> "USGSTable Rock" .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Landforms_of_Pickens_County,_South_Carolina> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://xmlns.com/foaf/0.1/name> "Pinnacle Mountain"@en .

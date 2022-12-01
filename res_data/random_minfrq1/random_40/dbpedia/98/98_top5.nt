@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Bow_Down> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Fredwreck> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Damizza> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Capitol_Records_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/releaseDate> "2003-12-09"^^<http://www.w3.org/2001/XMLSchema#date> .

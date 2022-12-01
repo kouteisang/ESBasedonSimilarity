@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/2000/01/rdf-schema#label> "Hagar Wilde"@en .
+<http://dbpedia.org/resource/Bringing_Up_Baby> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Carefree_(film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/birthYear> "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Screenwriter110564400> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Writer110794014> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AmericanTelevisionWriters> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q28389> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .

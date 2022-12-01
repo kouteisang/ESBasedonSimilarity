@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1913_in_Bulgaria> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Second_Balkan_War> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/result> "Serbian victory" .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Janko_Vukotić> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Mihail_Savov> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/strength> "ca. 194,000 men, 235 guns (104 Infantry Battalions, 34 Cavalry Companies, 62 Artillery Batteries) *" .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ConflictsIn1913> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Schizaeales> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/ARS_Lygodium_microphyllum_foliage.jpg?width=300> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Leptosporangiate_fern> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*L. scandens (L.)Sw.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*Ophioglossum filiforme (Roxb.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q756> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fern> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/conservationStatusSystem> "TNC" .

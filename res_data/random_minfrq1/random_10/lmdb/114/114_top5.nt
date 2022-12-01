@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/61136> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6191> .
+<http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000abf0a2> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/4154> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/5444> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/cinematographer> <http://data.linkedmdb.org/resource/cinematographer/1122> .

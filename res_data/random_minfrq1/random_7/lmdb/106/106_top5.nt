@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/11663> .
+<http://data.linkedmdb.org/resource/interlink/1220> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/2381> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31973> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1965" .
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/12908> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/2381> .

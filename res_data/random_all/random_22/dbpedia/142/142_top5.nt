@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Juhan_Muks> <http://xmlns.com/foaf/0.1/surname> "Muks"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/elements/1.1/description> "Estonian artist" .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1899_births> .

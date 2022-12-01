@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henry_Bérenger> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Sim_(actor)> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Melchior_Treub> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/minimumElevation> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .

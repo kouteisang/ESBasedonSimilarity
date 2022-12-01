@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/District108552138> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Site108651247> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/2000/01/rdf-schema#label> "Chitita"@en .

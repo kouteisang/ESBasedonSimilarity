@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Uelsby> <http://www.georss.org/georss/point> "54.6 9.566666666666666" .
+<http://dbpedia.org/resource/Uelsby> <http://xmlns.com/foaf/0.1/homepage> <http://www.amt-suedangeln.de/> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaCode> "SL" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/postalCode> "24860" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/federalState> <http://dbpedia.org/resource/Schleswig-Holstein> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Location100027167> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .

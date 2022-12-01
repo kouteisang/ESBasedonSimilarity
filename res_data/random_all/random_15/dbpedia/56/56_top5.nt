@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Association_football_midfielders> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Momchil_Tsvetanov__7> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Momchil_Tsvetanov__3> .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2014> <http://dbpedia.org/ontology/currentMember> <http://dbpedia.org/resource/Momchil_Tsvetanov> .

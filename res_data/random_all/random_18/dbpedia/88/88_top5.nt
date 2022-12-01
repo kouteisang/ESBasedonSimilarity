@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Stemonoporus> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Plant100017222> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .

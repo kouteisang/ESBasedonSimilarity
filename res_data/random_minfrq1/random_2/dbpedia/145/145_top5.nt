@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roque_Ceruti> <http://xmlns.com/foaf/0.1/surname> "Ceruti"@en .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://xmlns.com/foaf/0.1/name> "Ceruti, Roque"@en .

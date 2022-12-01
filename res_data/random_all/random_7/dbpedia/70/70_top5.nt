@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Biên_Hòa> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Battle100953559> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/combatant> "22pxUnited States" .

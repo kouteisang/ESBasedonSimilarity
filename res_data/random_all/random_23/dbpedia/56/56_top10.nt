@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Athlete109820263> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:PFC_CSKA_Sofia_players> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1990_births> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/height> "1.73"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://purl.org/dc/elements/1.1/description> "Bulgarian footballer"@en .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://xmlns.com/foaf/0.1/givenName> "Momchil"@en .

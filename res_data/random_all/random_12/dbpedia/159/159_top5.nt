@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Nemapogoninae> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1390> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://dbpedia.org/ontology/synonym> "*Tinea nigralbella (Zeller, 1839)" .

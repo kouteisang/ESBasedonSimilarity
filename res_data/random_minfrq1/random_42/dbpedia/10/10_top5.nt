@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Secretary_of_State_for_Transport> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Air_Mshl_Sir_Roderick_Carr.jpg> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Bampton,_Oxfordshire> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/deathYear> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Companions_of_the_Order_of_the_Bath> .

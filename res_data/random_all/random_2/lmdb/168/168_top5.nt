@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31866> .
+<http://data.linkedmdb.org/resource/film/44555> <http://purl.org/dc/terms/title> "LOC Kargil" .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/84668> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/88253> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/65578> .

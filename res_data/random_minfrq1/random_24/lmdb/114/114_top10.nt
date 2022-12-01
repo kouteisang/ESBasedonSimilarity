@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/interlink/139288> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6191> .
+<http://data.linkedmdb.org/resource/director/8972> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6191> .
+<http://data.linkedmdb.org/resource/film/6191> <http://purl.org/dc/terms/title> "Satomi Hakkenden" .
+<http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0086244> .
+<http://data.linkedmdb.org/resource/film/6191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/14066> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/5444> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/filmid> "6191"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34973> .
+<http://data.linkedmdb.org/resource/film/6191> <http://www.w3.org/2000/01/rdf-schema#label> "Satomi Hakkenden" .

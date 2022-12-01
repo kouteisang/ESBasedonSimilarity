@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bagrat_I_of_Iberia> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Ashot_I_of_Iberia> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/9th-centuryMonarchsInAsia> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Nigali_valley> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Muławki> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kętrzyn_County> .
+<http://dbpedia.org/resource/Muławki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Muławki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Muławki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/VillagesInK%C4%99trzynCounty> .
+<http://dbpedia.org/resource/Muławki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .

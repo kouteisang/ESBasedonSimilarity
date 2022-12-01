@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Angela_Atwood> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://xmlns.com/foaf/0.1/name> "North Haledon, New Jersey"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-74.18528"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Gérard_Debaets> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Borough108540532> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Tract108673395> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/percentageOfAreaWater> "1.27"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/populationTotalRanking> "271"^^<http://www.w3.org/2001/XMLSchema#positiveInteger> .

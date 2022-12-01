@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Monza> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GrandPrix> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/distanceLaps> "68"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://xmlns.com/foaf/0.1/name> "XXXII Gran Premio d'Italia"@en .

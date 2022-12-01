@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/2000/01/rdf-schema#label> "King of the Mountain (film)"@en .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/editing> <http://dbpedia.org/resource/William_Steinkamp> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PsychologicalFeature100023100> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SocialEvent107288639> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Creation103129123> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Event100029378> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Seymour_Cassel> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Joseph_Bottoms> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Jack_Frost_Sanders> .

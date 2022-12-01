@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Louis_Hon> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Arthur_Coadou> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "43.4252"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Lists_of_twin_towns_and_sister_cities> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/postalCode> "83700 and 83530" .

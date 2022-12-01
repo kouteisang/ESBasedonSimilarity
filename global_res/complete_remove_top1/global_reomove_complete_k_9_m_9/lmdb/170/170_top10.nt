@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/465> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/7704> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/7703> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40417> .
+<http://data.linkedmdb.org/resource/film/5089> <http://www.w3.org/2000/01/rdf-schema#label> "The Overlanders" .
+<http://data.linkedmdb.org/resource/film/5089> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0038821> .
+<http://data.linkedmdb.org/resource/film/5089> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000942ce9> .
+<http://data.linkedmdb.org/resource/film/5089> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0038821> .
+<http://data.linkedmdb.org/resource/film/5089> <http://www.w3.org/2004/02/skos/core#subject> <http://data.linkedmdb.org/resource/film_subject/465> .
+<http://data.linkedmdb.org/resource/film/5089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

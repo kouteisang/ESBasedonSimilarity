@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/background> "solo_singer" .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Derby> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Singer-songwriter> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://xmlns.com/foaf/0.1/givenName> "Lucy"@en .
+<http://dbpedia.org/resource/Belinda_O'Hooley> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Lucy_Ward_(musician)> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/21023> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/5240> .
+<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0035096> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/30> .
+<http://data.linkedmdb.org/resource/film/5232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Gangsta_rap> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hertz> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Damizza> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Albums_certified_gold_by_the_Recording_Industry_Association_of_America> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:WC_(rapper)_albums> .

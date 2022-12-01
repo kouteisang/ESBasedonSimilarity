@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Kirkuk_Province> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Kurdish_military_personnel_killed_in_action> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActor> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://dbpedia.org/ontology/deathYear> "1985"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/2000/01/rdf-schema#label> "Najmadin Shukr Rauf"@en .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kingdom_of_Iraq> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Contestant109613191> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Person100007846> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PeopleFromAthens,Georgia> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sportspeople_from_Athens,_Georgia> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Living_people> .

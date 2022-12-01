@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/activeYearsEndYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Adrian_Griffin__9> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Preserver110466918> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Basketball_players_from_Kansas> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sportspeople_from_Wichita,_Kansas> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_expatriate_basketball_people_in_Italy> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_men's_basketball_players> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Houston_Rockets_players> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://xmlns.com/foaf/0.1/name> "Griffin, Adrian"@en .

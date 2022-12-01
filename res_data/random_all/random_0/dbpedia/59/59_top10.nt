@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://xmlns.com/foaf/0.1/givenName> "Svyatoslav"@en .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Athlete109820263> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Player110439851> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Contestant109613191> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://xmlns.com/foaf/0.1/name> "Svyatoslav Tanasov"@en .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://xmlns.com/foaf/0.1/name> "Tanasov, Svyatoslav"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Roderick Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/surname> "Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1891_births> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Royal_Air_Force_personnel_of_World_War_I> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Royal_Flying_Corps_officers> .

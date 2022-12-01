@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Giancarlo_Baghetti> <http://dbpedia.org/ontology/lastRace> <http://dbpedia.org/resource/1967_Italian_Grand_Prix> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Autodromo_Nazionale_Monza> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/thirdDriver> <http://dbpedia.org/resource/Jim_Clark> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:European_Grand_Prix> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/course> "5750.0"^^<http://www.w3.org/2001/XMLSchema#double> .

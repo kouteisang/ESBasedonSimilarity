@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1986_albums> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ConceptAlbum106592078> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2188189> .

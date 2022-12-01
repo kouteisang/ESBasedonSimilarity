@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://xmlns.com/foaf/0.1/name> "Saint-Raphaël"@en .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/area> "8.959E7"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Louis_Hon> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Basil_Spalding_de_Garmendia> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/postalCode> "83700 and 83530" .
+<http://dbpedia.org/resource/Princess_Béatrice_of_Bourbon-Two_Sicilies> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Prince_Carlo,_Duke_of_Castro> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .

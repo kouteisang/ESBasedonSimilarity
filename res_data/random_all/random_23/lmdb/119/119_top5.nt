@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000d192d4> .
+<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/37594> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32015> .
+<http://data.linkedmdb.org/resource/interlink/72987> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/7963> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Anomalistic_psychology> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Syracuse_University_faculty> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1884_births> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://dbpedia.org/ontology/birthYear> "1884"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://xmlns.com/foaf/0.1/surname> "Conklin"@en .

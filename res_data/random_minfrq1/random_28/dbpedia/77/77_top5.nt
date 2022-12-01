@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/elevation> "10.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Jean-Christophe,_Prince_Napoléon> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Princess_Béatrice_of_Bourbon-Two_Sicilies> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Provence-Alpes-Côte_d'Azur> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Dissenting_academy_tutors> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Executive110069645> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/DissentingAcademyTutors> .

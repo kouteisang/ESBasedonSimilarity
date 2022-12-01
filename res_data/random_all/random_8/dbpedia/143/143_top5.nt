@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English_female_singers> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Artist109812338> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Contestant109613191> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PeopleFromDerby> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .

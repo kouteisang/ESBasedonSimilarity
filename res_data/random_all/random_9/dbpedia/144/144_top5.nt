@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:University_of_Calcutta_alumni> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/elements/1.1/description> "Burma scholar"@en .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Scholar110557854> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://xmlns.com/foaf/0.1/name> "Pe Maung Tin"@en .

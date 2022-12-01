@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Wisconsin_state_court_judges> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Wisconsin_lawyers> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mayors_of_places_in_Wisconsin> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Beaver_Dam,_Wisconsin> .

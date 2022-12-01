@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Tract108673395> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/District108552138> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Bạc_Liêu_Province> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/2000/01/rdf-schema#label> "Phong Thạnh Tây"@en .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/serviceEndYear> "1947"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/givenName> "Roderick"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Sir Charles Roderick Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/deathYear> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Order_of_the_Bath> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Air_Mshl_Sir_Roderick_Carr.jpg?width=300> .
+<http://dbpedia.org/resource/Battle_of_Berlin_(RAF_campaign)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Roderick_Carr> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Manawatu-Wanganui> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Commandeurs_of_the_Légion_d'honneur> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Royal_Naval_Air_Service_aviators> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Lygodium> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*Lygodium scandens (auct.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Western_Australia> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_the_Northern_Territory> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/conservationStatus> "G5" .

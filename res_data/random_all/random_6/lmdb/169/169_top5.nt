@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/30> .
+<http://data.linkedmdb.org/resource/film/49> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0017743> .
+<http://data.linkedmdb.org/resource/interlink/70238> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/49> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/18034> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .

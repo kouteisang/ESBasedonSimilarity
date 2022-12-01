@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/filmid> "2108"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/runtime> "85" .
+<http://data.linkedmdb.org/resource/film/2108> <http://purl.org/dc/terms/title> "Dumb & Dumberer" .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/14177> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/698> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/13754> .
+<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0329028> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/6220> .
+<http://data.linkedmdb.org/resource/director/1193> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2108> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Bulgaria> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1913_in_Serbia> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Živojin_Mišić> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Petar_Bojović> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/strength> "ca. 130,000 men,  guns (100 Infantry Battalions, 6 Cavalry Regiments, 63 Artillery Batteries)" .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Storme_Warren> <http://xmlns.com/foaf/0.1/name> "Storme Warren"@en .
+<http://dbpedia.org/resource/Storme_Warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Person100007846> .
+<http://dbpedia.org/resource/Storme_Warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Storme_Warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Storme_Warren> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Storme_Warren__1> .

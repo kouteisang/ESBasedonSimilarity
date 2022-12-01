@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "40.96362"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/2000/01/rdf-schema#label> "North Haledon, New Jersey"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1901> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1901_establishments_in_New_Jersey> .
+<http://dbpedia.org/resource/Nellie_Pou> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .

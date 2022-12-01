@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2381> <http://purl.org/dc/terms/date> "1965" .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30463> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
+<http://data.linkedmdb.org/resource/director/15178> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2381> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/4357> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Communes_of_Var_(department)> .
+<http://dbpedia.org/resource/Arthur_Coadou> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CommunesOfVar(department)> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/minimumElevation> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Earvin_N'Gapeth> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .

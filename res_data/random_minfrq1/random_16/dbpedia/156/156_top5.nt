@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gerbil_mouse> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://dbpedia.org/ontology/conservationStatus> "LC" .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN3.1" .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Nesomyidae> .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Dendromurinae> .

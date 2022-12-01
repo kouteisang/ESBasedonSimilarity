@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Bregalnica"@en .
+<http://dbpedia.org/resource/Jovan_Babunski> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Battle_of_Bregalnica> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Alexander_I_of_Yugoslavia> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/strength> "ca. 194,000 men, 235 guns (104 Infantry Battalions, 34 Cavalry Companies, 62 Artillery Batteries) *" .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Bulgarian_A_Football_Group_players> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/height> "1.73"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/2000/01/rdf-schema#label> "Momchil Tsvetanov"@en .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Midfielder> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Bulgaria_national_under-19_football_team> .

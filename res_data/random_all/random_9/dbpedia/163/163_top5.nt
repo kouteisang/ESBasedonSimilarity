@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/2000/01/rdf-schema#label> "Silence Is Easy (song)"@en .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2188189> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_James_Walsh_(musician)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_James_Stelfox> .

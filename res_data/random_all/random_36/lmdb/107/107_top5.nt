@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4347> .
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/371> .
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/1181> .
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/867> .
+<http://data.linkedmdb.org/resource/film/2572> <http://purl.org/dc/terms/title> "Biggie & Tupac" .

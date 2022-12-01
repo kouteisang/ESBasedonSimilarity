@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Vassal_rulers_of_the_Abbasid_Caliphate> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:9th-century_Christian_martyrs> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://xmlns.com/foaf/0.1/name> "Ashot I"@en .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/HeadOfState110164747> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Sovereign110628644> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MonarchsOfGeorgia(country)> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/9th-centuryChristianSaints> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/title> "Prince of Iberia"@en .

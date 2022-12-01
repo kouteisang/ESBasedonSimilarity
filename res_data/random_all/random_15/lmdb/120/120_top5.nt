@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29405> .
+<http://data.linkedmdb.org/resource/interlink/73136> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/8446> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/runtime> "114" .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/15> .
+<http://data.linkedmdb.org/resource/film/8446> <http://www.w3.org/2000/01/rdf-schema#label> "Mighty Joe Young" .

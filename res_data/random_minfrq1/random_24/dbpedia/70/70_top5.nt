@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lawrence_Joel> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Operation_Hump> .
+<http://dbpedia.org/resource/Operation_Hump> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Campaigns_of_the_Vietnam_War> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/strength> "Total Force around 400" .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/combatant> "22pxViet Cong" .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/combatant> "22pxUnited States" .

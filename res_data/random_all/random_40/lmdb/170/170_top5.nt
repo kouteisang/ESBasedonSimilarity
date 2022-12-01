@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/465> .
+<http://data.linkedmdb.org/resource/film/5089> <http://purl.org/dc/terms/title> "The Overlanders" .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13995> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/10678> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/1456> .

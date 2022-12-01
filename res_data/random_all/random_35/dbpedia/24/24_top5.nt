@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://xmlns.com/foaf/0.1/name> "Phong Thạnh Tây"@en .

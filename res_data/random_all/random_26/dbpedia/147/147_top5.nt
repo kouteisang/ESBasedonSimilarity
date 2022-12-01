@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Abstraction100002137> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ConflictsIn2006> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Sri_Lanka> .

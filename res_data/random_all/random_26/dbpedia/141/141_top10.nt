@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/surname> "Sloan"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Wisconsin_Attorneys_General> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/givenName> "Andrew Scott"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/elements/1.1/description> "American politician"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Authority109824609> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MayorsOfPlacesInWisconsin> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .

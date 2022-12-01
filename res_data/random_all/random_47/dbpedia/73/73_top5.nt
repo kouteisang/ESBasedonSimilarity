@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-0.15"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Location100027167> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/VillagesInCambridgeshire> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Huntingdonshire> .

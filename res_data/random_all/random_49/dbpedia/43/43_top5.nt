@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/editing> <http://dbpedia.org/resource/William_Steinkamp> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Show106619065> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AmericanFilms> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Dennis_Hopper> .

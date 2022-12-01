@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/33137> <http://data.linkedmdb.org/resource/movie/actor_actorid> "33137"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/actor/33137> <http://www.w3.org/2000/01/rdf-schema#label> "Maurice LaMarche (Actor)" .
+<http://data.linkedmdb.org/resource/film/44641> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33137> .
+<http://data.linkedmdb.org/resource/film/41605> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33137> .
+<http://data.linkedmdb.org/resource/film/1652> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33137> .

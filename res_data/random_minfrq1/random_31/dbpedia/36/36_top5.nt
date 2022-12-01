@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q756> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://xmlns.com/foaf/0.1/name> "Lygodium microphyllum"@en .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Pteridophyte> .

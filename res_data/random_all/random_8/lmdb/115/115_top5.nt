@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/4082> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31745> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/52659> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13572> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/6866> .

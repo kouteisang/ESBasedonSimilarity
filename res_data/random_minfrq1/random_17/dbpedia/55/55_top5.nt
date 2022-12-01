@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/activeYearsStartYear> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Mephisto_Prize> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/birthYear> "1957"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://xmlns.com/foaf/0.1/name> "Mori, Hiroshi"@en .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://xmlns.com/foaf/0.1/homepage> <http://www001.upp.so-net.ne.jp/mori/index.html> .

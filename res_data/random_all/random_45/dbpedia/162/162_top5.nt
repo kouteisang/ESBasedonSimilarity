@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PsychologicalFeature100023100> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/IndianFilms> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SocialEvent107288639> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Abstraction100002137> .

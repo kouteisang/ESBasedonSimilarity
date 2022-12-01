@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Convoy_HX_156> <http://www.w3.org/2000/01/rdf-schema#label> "Convoy HX 156"@en .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/birthYear> "1891"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Roderick Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Carr, Roderick"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Mentioned_in_dispatches> .
+<http://dbpedia.org/resource/Battle_of_Berlin_(RAF_campaign)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Roderick_Carr> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/elements/1.1/description> "Royal Air Force air marshals" .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Recipients_of_the_Distinguished_Flying_Cross_(United_Kingdom)> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:New_Zealand_knights> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Explorers_of_Antarctica> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Royal_Flying_Corps_officers> .

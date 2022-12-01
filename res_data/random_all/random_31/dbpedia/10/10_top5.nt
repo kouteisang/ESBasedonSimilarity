@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/allegiance> "British Empire" .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1891_births> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Companions_of_the_Order_of_the_Bath> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Royal_Air_Force_personnel_of_World_War_I> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/birthDate> "1891-08-31"^^<http://www.w3.org/2001/XMLSchema#date> .

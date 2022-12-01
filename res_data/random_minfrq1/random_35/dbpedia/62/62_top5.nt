@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/firstDriver> <http://dbpedia.org/resource/John_Surtees> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/distanceLaps> "68"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://www.w3.org/2000/01/rdf-schema#label> "1967 Italian Grand Prix"@en .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/secondTeam> <http://dbpedia.org/resource/Brabham> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/course> "5750.186112"^^<http://www.w3.org/2001/XMLSchema#double> .

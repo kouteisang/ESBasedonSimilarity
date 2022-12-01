@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/editor> <http://dbpedia.org/resource/Bo_Lidegaard> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Work104599396> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q11032> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0758789> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/11682> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/37594> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32015> .
+<http://data.linkedmdb.org/resource/interlink/63652> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/7963> .

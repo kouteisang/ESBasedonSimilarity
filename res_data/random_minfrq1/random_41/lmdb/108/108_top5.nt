@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/165> .
+<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0329706> .
+<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0329706> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/runtime> "120" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/632> .

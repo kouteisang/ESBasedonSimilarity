@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Location100027167> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/postalCode> "PE28 2" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/2000/01/rdf-schema#label> "Kings Ripton"@en .

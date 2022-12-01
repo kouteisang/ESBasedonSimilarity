@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ReptilesOfBrazil> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Chordate101466257> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Animal100015388> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png?width=300> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Amphisbaenidae> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Vertebrate> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/2000/01/rdf-schema#label> "Amphisbaena ridleyi"@en .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN3.1" .

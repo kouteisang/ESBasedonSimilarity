@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/139299> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6213> .
+<http://data.linkedmdb.org/resource/interlink/2897> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6213> .
+<http://data.linkedmdb.org/resource/film/6213> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Handmaid's_Tale_(film)> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1990-02-15" .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13572> .

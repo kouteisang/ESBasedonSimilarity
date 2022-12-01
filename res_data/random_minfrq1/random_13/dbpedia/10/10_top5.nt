@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Secretary_of_State_for_Transport> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Roderick Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/allegiance> "British Empire" .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Knights_Commander_of_the_Order_of_the_British_Empire> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Royal_Naval_Air_Service_aviators> .

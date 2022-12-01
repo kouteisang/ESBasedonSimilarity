@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/EMI> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hertz> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:WC_(rapper)_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mack_10_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/releaseDate> "2003-12-09"^^<http://www.w3.org/2001/XMLSchema#date> .

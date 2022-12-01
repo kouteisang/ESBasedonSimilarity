@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6468> <http://purl.org/dc/terms/date> "2007" .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/43526> .
+<http://data.linkedmdb.org/resource/film/6468> <http://purl.org/dc/terms/title> "Magnum, P.I." .
+<http://data.linkedmdb.org/resource/interlink/21528> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6468> .
+<http://data.linkedmdb.org/resource/interlink/2995> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6468> .

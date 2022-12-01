@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/67878> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/190521> .
+<http://data.linkedmdb.org/resource/actor/67878> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/190516> .
+<http://data.linkedmdb.org/resource/film/92131> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/67878> .
+<http://data.linkedmdb.org/resource/actor/67878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/67878> <http://data.linkedmdb.org/resource/movie/actor_nytimes_id> "" .

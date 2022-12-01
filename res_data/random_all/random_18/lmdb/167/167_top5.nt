@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/16986> <http://purl.org/dc/terms/title> "Anything Goes" .
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/5972> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/16986> .
+<http://data.linkedmdb.org/resource/film/16986> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000056c9d19> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/91023> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1936-01-24" .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_soccer_players> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Southern_California_Seahorses> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/UJA_Maccabi_Paris_Métropole> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://purl.org/dc/elements/1.1/description> "Footballer" .

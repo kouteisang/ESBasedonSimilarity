@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/surname> "Hughes"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2013_deaths> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1921_births> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/name> "William Anthony Hughes"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/name> "Hughes, William Anthony"@en .

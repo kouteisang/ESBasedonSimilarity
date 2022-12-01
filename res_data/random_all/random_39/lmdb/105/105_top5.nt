@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/2108> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/16678> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/2276> .
+<http://data.linkedmdb.org/resource/film/2108> <http://purl.org/dc/terms/date> "2003-06-13" .

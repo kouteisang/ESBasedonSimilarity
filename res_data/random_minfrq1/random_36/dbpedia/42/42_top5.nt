@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/releaseDate> "2006-04-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/runtime> "221.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Teddybears_songs> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Epic_Records_singles> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://xmlns.com/foaf/0.1/name> "Hey Boy"@en .

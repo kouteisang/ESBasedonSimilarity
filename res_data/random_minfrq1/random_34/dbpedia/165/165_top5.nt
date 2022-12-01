@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/You_Better_Run> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_Eddie_Brigati> .
+<http://dbpedia.org/resource/You_Better_Run> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1966_songs> .
+<http://dbpedia.org/resource/You_Better_Run> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pat_Benatar_songs> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/runtime> "184.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/You_Better_Run> <http://xmlns.com/foaf/0.1/name> "You Better Run"@en .

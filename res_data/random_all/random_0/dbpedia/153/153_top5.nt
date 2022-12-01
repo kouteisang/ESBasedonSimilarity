@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henlow> <http://www.georss.org/georss/point> "52.03245 -0.28714" .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.03245"^^<http://www.w3.org/2001/XMLSchema#float> .

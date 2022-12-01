@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/issn> "1432-1238" .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://xmlns.com/foaf/0.1/name> "Intensive Care Medicine"@en .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/impactFactorAsOf> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English-language_journals> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Springer_Science+Business_Media_academic_journals> .

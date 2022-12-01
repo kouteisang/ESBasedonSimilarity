@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/2000/01/rdf-schema#label> "Hagar Wilde"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/elements/1.1/description> "American writer"@en .
+<http://dbpedia.org/resource/Red,_Hot_and_Blue_(film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/The_Unseen_(1945_film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/birthYear> "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> .

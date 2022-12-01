@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/activeYearsEndYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Adrian_Griffin__6> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Small_forwards> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Basketball_players_from_Kansas> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1974_births> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Seattle_SuperSonics_players> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:African-American_basketball_players> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/elements/1.1/description> "American basketball player-coach" .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/activeYearsStartYear> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/height> "1.9558"^^<http://www.w3.org/2001/XMLSchema#double> .

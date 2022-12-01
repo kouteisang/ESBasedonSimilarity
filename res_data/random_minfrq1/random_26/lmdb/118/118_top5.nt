@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/runtime> "100" .
+<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/7348> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
+<http://data.linkedmdb.org/resource/film/7348> <http://www.w3.org/2000/01/rdf-schema#label> "Bill: On His Own" .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/filmid> "7348"^^<http://www.w3.org/2001/XMLSchema#int> .

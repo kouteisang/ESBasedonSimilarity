@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Mentioned_in_dispatches> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/World_War_I> .
+<http://dbpedia.org/resource/Battle_of_Berlin_(RAF_campaign)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Roderick_Carr> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/elements/1.1/description> "Royal Air Force air marshals"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1891_births> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:New_Zealand_military_personnel> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Recipients_of_the_Distinguished_Flying_Cross_(United_Kingdom)> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Manawatu-Wanganui> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Recipients_of_the_Air_Force_Cross_(United_Kingdom)> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/birthDate> "1891-08-31"^^<http://www.w3.org/2001/XMLSchema#date> .

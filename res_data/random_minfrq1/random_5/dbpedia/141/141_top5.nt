@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/name> "Sloan, Andrew Scott"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Republican_Party_members_of_the_United_States_House_of_Representatives> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Members_of_the_United_States_House_of_Representatives_from_Wisconsin> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1820_births> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/deathDate> "1895-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Abstraction100002137> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/NavalBattle100958477> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/causalties> "None" .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/2000/01/rdf-schema#label> "Raid on Griessie"@en .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/strength> "Two out of commissionships of the lineand shore defences" .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CinepolyRecordsAlbums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Instrumentality103575240> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Faye_Wong> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mandopop_albums> .

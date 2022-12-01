@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/The_Sky_Crawlers> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Hiroshi_Mori_(writer)> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Writer110794014> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Novelist110363573> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Japanese_people> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://xmlns.com/foaf/0.1/name> "Hiroshi Mori"@en .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Japanese_mystery_writers> .

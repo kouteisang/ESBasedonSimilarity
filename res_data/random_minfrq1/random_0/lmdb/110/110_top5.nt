@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/10319> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1354> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30867> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36329> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36306> .

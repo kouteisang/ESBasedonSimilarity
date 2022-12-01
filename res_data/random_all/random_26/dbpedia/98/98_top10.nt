@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/2000/01/rdf-schema#label> "Terrorist Threats"@en .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://xmlns.com/foaf/0.1/name> "Terrorist Threats"@en .
+<http://dbpedia.org/resource/Bow_Down> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Terrorist_Threats> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2003_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Westside_Connection_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Gangsta_rap_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Instrumentality103575240> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/2003Albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Medium106254669> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0329706> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35688> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1569> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2003-05-28" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/779> .

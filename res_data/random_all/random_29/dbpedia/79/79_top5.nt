@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/2000/01/rdf-schema#label> "Stara Bučka"@en .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.georss.org/georss/point> "45.9213 15.306447222222221" .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .

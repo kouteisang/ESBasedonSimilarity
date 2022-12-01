@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Poor_Misguided_Fool> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_James_Stelfox> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2003_songs> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Alternative_rock> .

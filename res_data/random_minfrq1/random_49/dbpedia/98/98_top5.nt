@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bow_Down> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Terrorist_Threats> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hertz> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Albums_certified_gold_by_the_Recording_Industry_Association_of_America> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2003_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Albums_produced_by_Fredwreck> .

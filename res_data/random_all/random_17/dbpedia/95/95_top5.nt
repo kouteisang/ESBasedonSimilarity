@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/releaseDate> "1980-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2188189> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_Billy_Joel> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Billy_Joel_songs> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1980_singles> .

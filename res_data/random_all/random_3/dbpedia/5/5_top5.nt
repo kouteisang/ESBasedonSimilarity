@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Corpus_Christi_Hooks_players> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Major_League_Baseball_pitchers> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1988_births> .

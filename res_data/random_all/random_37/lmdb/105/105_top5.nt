@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/filmid> "2108"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2917> .
+<http://data.linkedmdb.org/resource/interlink/71114> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/2108> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/2276> .
+<http://data.linkedmdb.org/resource/director/2917> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2108> .

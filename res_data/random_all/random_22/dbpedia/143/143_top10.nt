@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/2000/01/rdf-schema#label> "Lucy Ward (musician)"@en .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English_folk_singers> .
+<http://dbpedia.org/resource/Belinda_O'Hooley> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Lucy_Ward_(musician)> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Performer110415638> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/FolkSinger110099093> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Guitarist110151760> .

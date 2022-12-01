@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Kirkuk_Governorate> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1985_deaths> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Kirkuk_Province> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Guerrilla110150556> .
+<http://dbpedia.org/resource/Peshmerga> <http://dbpedia.org/ontology/notableCommander> <http://dbpedia.org/resource/Najmadin_Shukr_Rauf> .

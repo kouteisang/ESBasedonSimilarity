@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://www.w3.org/2000/01/rdf-schema#label> "A Man, a Real One" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/165> .
+<http://data.linkedmdb.org/resource/director/19714> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/4053> .
+<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0329706> .
+<http://data.linkedmdb.org/resource/interlink/39050> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/4053> .
+<http://data.linkedmdb.org/resource/interlink/137540> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/4053> .
+<http://data.linkedmdb.org/resource/interlink/137539> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/4053> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1569> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2003-05-28" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/632> .

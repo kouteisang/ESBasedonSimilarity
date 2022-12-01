@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/impactFactor> "5.544"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/coden> "ICMED9" .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Academic_journals_associated_with_learned_and_professional_societies> .

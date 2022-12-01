@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Andrew_Kippis> <http://xmlns.com/foaf/0.1/givenName> "Andrew"@en .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:18th-century_Presbyterian_ministers> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Burials_at_Bunhill_Fields> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://dbpedia.org/ontology/deathYear> "1795"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://dbpedia.org/ontology/birthYear> "1725"^^<http://www.w3.org/2001/XMLSchema#gYear> .

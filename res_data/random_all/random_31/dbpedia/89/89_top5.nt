@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q756> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Neottieae> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Flowering_plant> .

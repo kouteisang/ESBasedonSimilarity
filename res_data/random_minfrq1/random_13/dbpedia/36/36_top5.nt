@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*Lygodium scandens (auct.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*L. scandens var. microphyllum (Cav.)Luerss.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*L. scandens var. intermedium (Ces.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/conservationStatusSystem> "TNC" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://xmlns.com/foaf/0.1/name> "Lygodium microphyllum"@en .

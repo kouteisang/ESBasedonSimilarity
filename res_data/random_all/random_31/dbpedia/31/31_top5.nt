@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/African_grey_hornbill> <http://xmlns.com/foaf/0.1/name> "African grey hornbill"@en .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Birds_of_Gabon> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1766> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Birds_of_Equatorial_Guinea> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Birds_of_Africa> .

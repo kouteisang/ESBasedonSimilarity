@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BaseballPlayer> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Keuchel_signing_autographs_in_Jan_2015.jpg?width=300> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1988_births> .

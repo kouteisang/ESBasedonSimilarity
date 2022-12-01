@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://xmlns.com/foaf/0.1/name> "Najmadin Shukr Rauf"@en .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Iraqi_Kurdish_people> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1985_deaths> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PeopleFromKirkukProvince> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Warrior110768585> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Peshmerga> <http://dbpedia.org/ontology/notableCommander> <http://dbpedia.org/resource/Najmadin_Shukr_Rauf> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kirkuk_Governorate> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://dbpedia.org/ontology/birthYear> "1957"^^<http://www.w3.org/2001/XMLSchema#gYear> .

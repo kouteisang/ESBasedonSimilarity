@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2014_Slovak_Cup_Final> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2013_Slovak_Cup_Final> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:ŠK_Slovan_Bratislava_matches> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FootballMatch> .

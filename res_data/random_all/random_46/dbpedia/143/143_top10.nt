@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://xmlns.com/foaf/0.1/depiction> <http://en.wikipedia.org/wiki/Special:FilePath/LucyWard.jpg> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1989_births> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Derby> .
+<http://dbpedia.org/resource/Adelphi_Has_to_Fly> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Lucy_Ward_(musician)> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/elements/1.1/description> "British musician" .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Creator109614315> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Singer110599806> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Guitarist110151760> .

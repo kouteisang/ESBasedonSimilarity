@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/utcOffset> "+4:30" .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/populationTotal> "36"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Iran_Standard_Time> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://xmlns.com/foaf/0.1/name> "Kuleh Bayan"@en .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Populated_places_in_Dehgolan_County> .

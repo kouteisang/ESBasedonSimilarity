@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Slow_jam> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/runtime> "255.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Usher_(singer)> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:LaFace_Records_singles> .
+<http://dbpedia.org/resource/Think_of_You_(Usher_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Can_U_Get_wit_It> .

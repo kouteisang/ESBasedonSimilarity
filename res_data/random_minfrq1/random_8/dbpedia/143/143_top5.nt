@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/2000/01/rdf-schema#label> "Lucy Ward (musician)"@en .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1989_births> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English_folk_guitarists> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://xmlns.com/foaf/0.1/name> "Ward, Lucy"@en .
+<http://dbpedia.org/resource/Belinda_O'Hooley> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Lucy_Ward_(musician)> .

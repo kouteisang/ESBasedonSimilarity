@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "50.716667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "10.35"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.georss.org/georss/point> "50.71666666666667 10.35" .

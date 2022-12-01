@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/30423> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
+<http://data.linkedmdb.org/resource/film/39279> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .
+<http://data.linkedmdb.org/resource/film/4748> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .
+<http://data.linkedmdb.org/resource/film/45913> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .
+<http://data.linkedmdb.org/resource/film/44347> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .

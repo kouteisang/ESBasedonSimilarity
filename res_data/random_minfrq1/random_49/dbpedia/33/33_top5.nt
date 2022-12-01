@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/conservationStatus> "EW" .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q7377> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/species> <http://dbpedia.org/resource/Sumatran_rhinoceros> .

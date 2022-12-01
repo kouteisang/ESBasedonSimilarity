@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/completionDate> "2008-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q15416> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Instrumentality103575240> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Lee_Min-ki> .

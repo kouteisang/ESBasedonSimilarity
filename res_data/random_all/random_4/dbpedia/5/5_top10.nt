@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://xmlns.com/foaf/0.1/name> "Keuchel, Dallas"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://xmlns.com/foaf/0.1/name> "Dallas Keuchel"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://xmlns.com/foaf/0.1/givenName> "Dallas"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://dbpedia.org/ontology/debutTeam> <http://dbpedia.org/resource/Houston_Astros> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Oklahoma_City_RedHawks_players> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Corpus_Christi_Hooks_players> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Houston_Astros_players> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Lancaster_JetHawks_players> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Tri-City_ValleyCats_players> .

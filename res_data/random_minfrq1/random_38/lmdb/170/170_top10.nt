@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/17201> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/runtime> "91" .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33879> .
+<http://data.linkedmdb.org/resource/film/5089> <http://purl.org/dc/terms/title> "The Overlanders" .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2486> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13995> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/10678> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1946" .
+<http://data.linkedmdb.org/resource/film/5089> <http://www.w3.org/2004/02/skos/core#subject> <http://data.linkedmdb.org/resource/film_subject/465> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/7327> .

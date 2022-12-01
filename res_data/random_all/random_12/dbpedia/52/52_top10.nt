@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GolfersFromGeorgia(U.S.State)> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LPGATourGolfers> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/elements/1.1/description> "Professional golfer"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1961_births> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sportspeople_from_Athens,_Georgia> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_female_golfers> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/birthYear> "1961"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/alias> "Pleger, Cindy"@en .

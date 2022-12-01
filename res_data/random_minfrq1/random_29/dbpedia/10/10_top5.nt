@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/givenName> "Roderick"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Sir Charles Roderick Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Mentioned_in_dispatches> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1891_births> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://www.w3.org/2000/01/rdf-schema#label> "Roderick Carr"@en .

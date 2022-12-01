@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Bregalnica"@en .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Conflicts_in_1913> .
+<http://dbpedia.org/resource/Jovan_Babunski> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Battle_of_Bregalnica> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://xmlns.com/foaf/0.1/name> "Battle of Bregalnica"@en .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Živojin_Mišić> .

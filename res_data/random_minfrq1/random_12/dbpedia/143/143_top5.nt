@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Concertina_players> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English_folk_guitarists> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/elements/1.1/description> "British musician" .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/elements/1.1/description> "British musician"@en .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/birthYear> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> .

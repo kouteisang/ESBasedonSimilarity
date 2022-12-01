@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Fleckistock> <http://www.georss.org/georss/point> "46.70736111111111 8.497666666666667" .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeologicalFormation109287968> .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .
+<http://dbpedia.org/resource/Rorspitzli> <http://dbpedia.org/ontology/parentMountainPeak> <http://dbpedia.org/resource/Fleckistock> .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/parentMountainPeak> <http://dbpedia.org/resource/Dammastock> .

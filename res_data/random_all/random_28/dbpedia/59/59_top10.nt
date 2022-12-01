@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Taganrog> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingPeople> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Player110439851> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/FootballPlayer110101634> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/2000/01/rdf-schema#label> "Svyatoslav Tanasov"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/runtime> "2819.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/releaseDate> "1994-11-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/2000/01/rdf-schema#label> "Sky (Faye Wong album)"@en .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Faye_Wong_albums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Cinepoly_Records_albums> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Television106277280> .
+<http://dbpedia.org/resource/Drama_City> <http://xmlns.com/foaf/0.1/homepage> <http://www.kbs.co.kr/drama/dramacity/> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Lee_Pil-mo> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Lee_Min-ki> .

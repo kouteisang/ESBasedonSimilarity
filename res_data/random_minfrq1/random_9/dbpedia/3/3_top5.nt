@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/elements/1.1/description> "British minister" .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1795_deaths> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1725_births> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://dbpedia.org/ontology/deathYear> "1795"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://dbpedia.org/ontology/deathDate> "1795-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .

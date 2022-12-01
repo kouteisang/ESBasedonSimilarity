@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/name> "Andrew Scott Sloan"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/activeYearsEndDate> "1863-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Dodge_County,_Wisconsin> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:New_York_lawyers> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Wisconsin_state_court_judges> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Wisconsin_lawyers> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mayors_of_places_in_Wisconsin> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1820_births> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/birthYear> "1820"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/givenName> "Andrew Scott"@en .

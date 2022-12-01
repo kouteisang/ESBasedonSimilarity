@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q10871364> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://xmlns.com/foaf/0.1/givenName> "Dallas"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://dbpedia.org/ontology/debutTeam> <http://dbpedia.org/resource/Houston_Astros> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Houston_Astros> .

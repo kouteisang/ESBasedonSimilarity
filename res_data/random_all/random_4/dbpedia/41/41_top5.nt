@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Album> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Medieval_metal> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Medieval_folk_rock> .

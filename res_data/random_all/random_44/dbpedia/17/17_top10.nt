@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Abstraction100002137> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PsychologicalFeature100023100> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Rottofreddo"@en .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/date> "1746-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1746_in_Austria> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Conflicts_in_1746> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://xmlns.com/foaf/0.1/name> "Battle of Rottofreddo"@en .

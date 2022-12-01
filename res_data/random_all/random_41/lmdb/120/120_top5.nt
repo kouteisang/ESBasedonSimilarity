@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/runtime> "114" .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/3287> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/2113> .
+<http://data.linkedmdb.org/resource/film/8446> <http://purl.org/dc/terms/date> "1998-12-25" .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2572> <http://purl.org/dc/terms/date> "2002-01-11" .
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/1181> .
+<http://data.linkedmdb.org/resource/interlink/136276> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/2572> .
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/filmid> "2572"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/director/9690> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2572> .

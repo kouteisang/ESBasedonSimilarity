@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/2000/01/rdf-schema#label> "Wernshausen"@en .
+<http://dbpedia.org/resource/Wernshausen> <http://www.georss.org/georss/point> "50.71666666666667 10.35" .

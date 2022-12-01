@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/elements/1.1/description> "Estonian artist" .
+<http://dbpedia.org/resource/Juhan_Muks> <http://dbpedia.org/ontology/birthYear> "1899"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_Estonian_painters> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1983_deaths> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Estonian_painters> .

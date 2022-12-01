@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/24033> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/12710> .
+<http://data.linkedmdb.org/resource/interlink/5500> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/12710> .
+<http://data.linkedmdb.org/resource/film/12710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/film_story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/255> .
+<http://data.linkedmdb.org/resource/film/12710> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Megaville> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/deathYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/givenName> "William Anthony"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/birthDate> "1921-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/birthYear> "1921"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_Roman_Catholic_bishops> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Saint_Mary_Seminary_and_Graduate_School_of_Theology_alumni> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2013_deaths> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_people_of_Irish_descent> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Youngstown,_Ohio> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/name> "Hughes, William Anthony"@en .

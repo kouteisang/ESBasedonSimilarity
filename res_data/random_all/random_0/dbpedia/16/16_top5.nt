@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Bregalnica> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Bulgaria> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/strength> "ca. 194,000 men, 235 guns (104 Infantry Battalions, 34 Cavalry Companies, 62 Artillery Batteries) *" .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MilitaryAction100952963> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Battle100953559> .

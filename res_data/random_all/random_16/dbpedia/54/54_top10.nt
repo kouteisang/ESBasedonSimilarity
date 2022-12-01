@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_soccer_players> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1987_births> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Southern_California_Seahorses_players> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://xmlns.com/foaf/0.1/name> "Fabrice Gautrat"@en .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Fabrice_Gautrat__4> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Diego_Toreros> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Atlanta_Silverbacks> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Southern_California_Seahorses> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Storme_Warren> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1970_births> .
+<http://dbpedia.org/resource/Storme_Warren> <http://dbpedia.org/ontology/birthYear> "1970"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Storme_Warren> <http://xmlns.com/foaf/0.1/name> "Warren, Storme"@en .
+<http://dbpedia.org/resource/Storme_Warren> <http://dbpedia.org/ontology/imdbId> "2153141" .
+<http://dbpedia.org/resource/Storme_Warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Storme_Warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Storme_Warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Storme_Warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Storme_Warren> <http://xmlns.com/foaf/0.1/givenName> "Storme"@en .
+<http://dbpedia.org/resource/Storme_Warren> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Broadcaster/Host> .

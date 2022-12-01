@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Reptile101661091> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://xmlns.com/foaf/0.1/name> "Gonyosoma hodgsoni"@en .

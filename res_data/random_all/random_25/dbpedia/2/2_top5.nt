@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MilwaukeeBucksAssistantCoaches> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Guard110150071> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ConnecticutPridePlayers> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Coach109931640> .

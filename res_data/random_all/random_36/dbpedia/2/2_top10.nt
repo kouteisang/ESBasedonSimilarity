@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Adrian_Griffin__3> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Adrian_Griffin__2> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Adrian_Griffin__1> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Adrian_Griffin__6> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BostonCelticsPlayers> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Orlando_Magic_assistant_coaches> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Seattle_SuperSonics_players> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/elements/1.1/description> "American basketball player-coach" .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Adrian_Griffin.jpg> .

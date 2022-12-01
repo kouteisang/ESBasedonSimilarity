@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Clark_University_alumni> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1942_deaths> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://dbpedia.org/ontology/birthYear> "1884"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/elements/1.1/description> "American psychologist" .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://www.w3.org/2000/01/rdf-schema#label> "Edmund Smith Conklin"@en .

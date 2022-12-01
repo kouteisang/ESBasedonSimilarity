@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/birthDate> "1820-06-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1895_deaths> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Members_of_the_Wisconsin_State_Assembly> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/deathDate> "1895-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Wisconsin> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Leader109623038> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MayorsOfPlacesInWisconsin> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/2000/01/rdf-schema#label> "A. Scott Sloan"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Adrien_Douady> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "6.7684"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/department> <http://dbpedia.org/resource/Var_(department)> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/maximumElevation> "560.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Stade_Louis_Hon> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Fired_Wife> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/elements/1.1/description> "American writer" .
+<http://dbpedia.org/resource/Carefree_(film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Red,_Hot_and_Blue_(film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://xmlns.com/foaf/0.1/givenName> "Hagar"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/deathYear> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1905_births> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_women_screenwriters> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Women_television_writers> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_television_writers> .

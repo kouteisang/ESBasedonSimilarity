@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2012_Slovak_Cup_Final> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Štadión_pod_Čebraťom> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Ružomberok> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/time> "16:00CEST" .

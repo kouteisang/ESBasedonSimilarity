@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/39492> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5089> .
+<http://data.linkedmdb.org/resource/interlink/62028> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5089> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2486> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/AU> .
+<http://data.linkedmdb.org/resource/director/2486> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5089> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Chordate101466257> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Reptile101661091> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .

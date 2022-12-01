@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Science_fiction> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PeopleFromAichiPrefecture> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Communicator109610660> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/The_Sky_Crawlers> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://xmlns.com/foaf/0.1/homepage> <http://www001.upp.so-net.ne.jp/mori/index.html> .

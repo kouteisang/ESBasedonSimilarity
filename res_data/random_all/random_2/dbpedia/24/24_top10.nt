@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Site108651247> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q532> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://xmlns.com/foaf/0.1/name> "Phong Thạnh Tây"@en .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/2000/01/rdf-schema#label> "Phong Thạnh Tây"@en .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/utcOffset> "+7" .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Communes_of_Bac_Lieu_Province> .

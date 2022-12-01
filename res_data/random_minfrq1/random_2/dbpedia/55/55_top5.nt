@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Science_fiction> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Ellery_Queen> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://xmlns.com/foaf/0.1/givenName> "Hiroshi"@en .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://purl.org/dc/elements/1.1/description> "Japanese writer"@en .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://xmlns.com/foaf/0.1/surname> "Mori"@en .

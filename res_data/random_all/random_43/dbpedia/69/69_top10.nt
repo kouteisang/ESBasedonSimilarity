@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Zeitz> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/combatant> "Holy Roman Emperor, Henry IV" .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesInvolvingBohemia> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Act100030358> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GroupAction101080366> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Abstraction100002137> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_the_Holy_Roman_Empire> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Middle_Ages> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/date> "1080-10-14"^^<http://www.w3.org/2001/XMLSchema#date> .

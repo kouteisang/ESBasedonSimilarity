@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/52869> <http://data.linkedmdb.org/resource/movie/actor_name> "Sara Berner" .
+<http://data.linkedmdb.org/resource/actor/52869> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/145337> .
+<http://data.linkedmdb.org/resource/actor/52869> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/145767> .
+<http://data.linkedmdb.org/resource/film/43693> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/52869> .
+<http://data.linkedmdb.org/resource/film/83088> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/52869> .

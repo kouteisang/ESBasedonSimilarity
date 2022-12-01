@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Foray100976953> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GroupAction101080366> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Conflict100958896> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/result> "British victory" .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Gresik_Regency> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://xmlns.com/foaf/0.1/name> "Raid on Griessie"@en .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/2000/01/rdf-schema#label> "Raid on Griessie"@en .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Java_blank_map.svg?width=300> .

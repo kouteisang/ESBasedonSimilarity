@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q737498> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/coden> "ICMED9" .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/issn> "0342-4642" .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Academic_journals_associated_with_learned_and_professional_societies> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Springer_Science+Business_Media_academic_journals> .

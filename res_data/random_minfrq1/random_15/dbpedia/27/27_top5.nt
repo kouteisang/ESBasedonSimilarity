@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Uelsby> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Municipalities_in_Schleswig-Holstein> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaTotal> "1.06E7"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaCode> "SL" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaCode> "04623" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/postalCode> "24860" .

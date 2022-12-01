@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Communes_of_Var_(department)> .
+<http://dbpedia.org/resource/Henry_Bérenger> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Louis_Hon> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Melchior_Treub> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Adrien_Douady> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Ralph_Paget> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/department> <http://dbpedia.org/resource/Var_(department)> .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.georss.org/georss/point> "43.4252 6.7684" .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://www.w3.org/2000/01/rdf-schema#label> "Saint-Raphaël, Var"@en .
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/minimumElevation> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .

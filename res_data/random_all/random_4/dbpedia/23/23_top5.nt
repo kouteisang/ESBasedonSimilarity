@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.georss.org/georss/point> "35.42472222222222 47.221666666666664" .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/utcOffset> "+3:30" .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q532> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://xmlns.com/foaf/0.1/name> "كوله بيان"@en .

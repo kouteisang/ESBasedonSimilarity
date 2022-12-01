@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/137895> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/4501> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/881> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/filmid> "4501"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/runtime> "50" .
+<http://data.linkedmdb.org/resource/film/4501> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000867897> .

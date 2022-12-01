@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://xmlns.com/foaf/0.1/name> "Terrorist Threats"@en .
+<http://dbpedia.org/resource/Gangsta_Nation> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Terrorist_Threats> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Gangsta_rap> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hertz> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mack_10_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AlbumsProducedByFredwreck> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/WestsideConnectionAlbums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Album106591815> .

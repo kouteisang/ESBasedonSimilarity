@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/background> "solo_singer" .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/2000/01/rdf-schema#label> "Lucy Ward (musician)"@en .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1989_births> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://xmlns.com/foaf/0.1/givenName> "Lucy"@en .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Concertina> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Navigator_Records> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://xmlns.com/foaf/0.1/name> "Ward, Lucy"@en .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://xmlns.com/foaf/0.1/homepage> <http://www.lucywardsings.com/> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/birthYear> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> .

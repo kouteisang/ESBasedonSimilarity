@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Anomalistic_psychology> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Clark_University_alumni> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://xmlns.com/foaf/0.1/name> "Conklin, Edmund Smith"@en .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://xmlns.com/foaf/0.1/surname> "Conklin"@en .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://dbpedia.org/ontology/deathYear> "1942"^^<http://www.w3.org/2001/XMLSchema#gYear> .

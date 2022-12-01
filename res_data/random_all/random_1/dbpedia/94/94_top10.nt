@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/issn> "0342-4642" .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/issn> "1432-1238" .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/2000/01/rdf-schema#label> "Intensive Care Medicine (journal)"@en .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://xmlns.com/foaf/0.1/homepage> <http://icmjournal.esicm.org/index.html> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Academic_journals_associated_with_learned_and_professional_societies> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English-language_journals> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Monthly_journals> .

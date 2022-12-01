@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/elements/1.1/description> "Sailor"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Medalist110305062> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SkilledWorker110605985> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/2000/01/rdf-schema#label> "Finn Schiander"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1898_births> .

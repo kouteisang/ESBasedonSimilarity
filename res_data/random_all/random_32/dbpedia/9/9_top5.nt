@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ludwigsburg_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+<http://dbpedia.org/resource/Ludwigsburg_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Ludwigsburg_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> .
+<http://dbpedia.org/resource/Ludwigsburg_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/UniversitiesAndCollegesInBaden-W%C3%BCrttemberg> .
+<http://dbpedia.org/resource/Ludwigsburg_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .

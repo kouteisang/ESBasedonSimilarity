@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/6468> <http://purl.org/dc/terms/title> "Magnum, P.I." .
+<http://data.linkedmdb.org/resource/film/6468> <http://www.w3.org/2000/01/rdf-schema#label> "Magnum, P.I." .
+<http://data.linkedmdb.org/resource/film/6468> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000b3087f> .
+<http://data.linkedmdb.org/resource/interlink/40061> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6468> .

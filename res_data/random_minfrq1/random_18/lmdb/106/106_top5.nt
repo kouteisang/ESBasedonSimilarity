@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2381> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004fd9b4> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/15178> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31973> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/375> .

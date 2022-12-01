@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://xmlns.com/foaf/0.1/name> "Terrorist Threats"@en .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Gangsta_rap> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Damizza> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Westside_Connection> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:WC_(rapper)_albums> .

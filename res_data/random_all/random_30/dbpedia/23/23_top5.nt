@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Central_District_(Dehgolan_County)> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/populationTotal> "36"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

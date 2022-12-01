@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/relatedBook> <http://www4.wiwiss.fu-berlin.de/bookmashup/books/0771008139> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/cinematographer> <http://data.linkedmdb.org/resource/cinematographer/1292> .
+<http://data.linkedmdb.org/resource/director/8982> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6213> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/runtime> "109" .
+<http://data.linkedmdb.org/resource/film/6213> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0099731> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PrintMedia106263609> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/2000/01/rdf-schema#label> "The Honolulu Advertiser"@en .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Black_Press> .

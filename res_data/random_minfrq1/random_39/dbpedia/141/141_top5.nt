@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/surname> "Sloan"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Wisconsin_Attorneys_General> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1895_deaths> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Wisconsin> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/elements/1.1/description> "American politician" .

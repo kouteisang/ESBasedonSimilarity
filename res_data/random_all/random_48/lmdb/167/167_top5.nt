@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/16986> <http://purl.org/dc/terms/title> "Anything Goes" .
+<http://data.linkedmdb.org/resource/interlink/7483> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/16986> .
+<http://data.linkedmdb.org/resource/film/16986> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0048954/> .
+<http://data.linkedmdb.org/resource/film/16986> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000056c9d19> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/3033> .

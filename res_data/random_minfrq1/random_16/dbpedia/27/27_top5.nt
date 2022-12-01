@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Uelsby> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Municipalities_in_Schleswig-Holstein> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/2000/01/rdf-schema#label> "Uelsby"@en .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "54.6"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaCode> "SL" .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "9.566667"^^<http://www.w3.org/2001/XMLSchema#float> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/conservationStatus> "LC" .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Mammal> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://xmlns.com/foaf/0.1/name> "Bornean Mountain Ground Squirrel"@en .

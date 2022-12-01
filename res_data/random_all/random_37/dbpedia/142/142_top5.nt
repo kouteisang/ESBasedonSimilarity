@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/2000/01/rdf-schema#label> "Juhan Muks"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Person100007846> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Artist109812338> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .

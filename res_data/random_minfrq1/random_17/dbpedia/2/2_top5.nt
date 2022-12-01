@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/activeYearsEndYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Adrian_Griffin__7> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Orlando_Magic_assistant_coaches> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Dallas_Mavericks_players> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Adrian_Griffin.jpg?width=300> .

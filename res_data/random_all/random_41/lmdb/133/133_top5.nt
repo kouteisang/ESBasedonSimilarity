@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/38875> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
+<http://data.linkedmdb.org/resource/actor/38875> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/108710> .
+<http://data.linkedmdb.org/resource/actor/38875> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/169477> .
+<http://data.linkedmdb.org/resource/film/3162> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38875> .
+<http://data.linkedmdb.org/resource/film/22495> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38875> .

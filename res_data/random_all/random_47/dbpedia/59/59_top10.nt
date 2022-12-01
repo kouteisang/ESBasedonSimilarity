@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://xmlns.com/foaf/0.1/givenName> "Svyatoslav"@en .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/birthYear> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://purl.org/dc/elements/1.1/description> "Russian footballer" .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Defender_(association_football)> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Player110439851> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .

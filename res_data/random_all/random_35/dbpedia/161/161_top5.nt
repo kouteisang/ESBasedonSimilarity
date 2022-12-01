@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Usher_(singer)> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Usher_(singer)> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q134556> .
+<http://dbpedia.org/resource/Think_of_You_(Usher_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Can_U_Get_wit_It> .

@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/2381> <http://purl.org/dc/terms/title> "What's New Pussycat?" .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/11663> .
+<http://data.linkedmdb.org/resource/film/2381> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0059903/> .
+<http://data.linkedmdb.org/resource/film/2381> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004fd9b4> .
+<http://data.linkedmdb.org/resource/film/2381> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0059903/> .
+<http://data.linkedmdb.org/resource/film/2381> <http://www.w3.org/2004/02/skos/core#subject> <http://data.linkedmdb.org/resource/film_subject/375> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/375> .
+<http://data.linkedmdb.org/resource/film/2381> <http://www.w3.org/2000/01/rdf-schema#label> "What's New Pussycat?" .
+<http://data.linkedmdb.org/resource/film/2381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/42558> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32287> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/1193> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/1351> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/14177> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/16678> .
+<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0329028> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/2275> .
+<http://data.linkedmdb.org/resource/director/2917> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2108> .
+<http://data.linkedmdb.org/resource/film/2108> <http://www.w3.org/2000/01/rdf-schema#label> "Dumb & Dumberer" .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CinepolyRecordsAlbums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/1994Albums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Please_Myself> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Sky_(Faye_Wong_album)> .

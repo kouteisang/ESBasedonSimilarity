@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/synonym> "*Galegeae sensu lato (sensu Polhill, 1981)" .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/synonym> "*Temperate herbaceous clade" .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://xmlns.com/foaf/0.1/name> "Inverted repeat-lacking clade"@en .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Fabaceae> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Galega_officinalis2UME.jpg?width=300> .

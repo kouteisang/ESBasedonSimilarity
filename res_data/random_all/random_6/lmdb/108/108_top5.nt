@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/526> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/FR> .
+<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0329706> .
+<http://data.linkedmdb.org/resource/interlink/20517> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/4053> .

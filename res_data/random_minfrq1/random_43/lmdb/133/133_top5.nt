@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/38875> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/47271> .
+<http://data.linkedmdb.org/resource/actor/38875> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/53338> .
+<http://data.linkedmdb.org/resource/actor/38875> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/103177> .
+<http://data.linkedmdb.org/resource/actor/38875> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/186592> .
+<http://data.linkedmdb.org/resource/actor/38875> <http://data.linkedmdb.org/resource/movie/actor_actorid> "38875"^^<http://www.w3.org/2001/XMLSchema#int> .

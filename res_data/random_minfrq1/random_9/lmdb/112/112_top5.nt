@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/42282> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40928> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35093> .
+<http://data.linkedmdb.org/resource/film/4501> <http://purl.org/dc/terms/title> "Super-Warrior Defeat!! I'm the One who'll Win" .

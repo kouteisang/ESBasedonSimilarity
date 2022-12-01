@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/nextEvent> <http://dbpedia.org/resource/Triathlon_at_the_2004_Summer_Olympics_–_Men's> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/bronzeMedalist> <http://dbpedia.org/resource/Jan_Řehula> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .

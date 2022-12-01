@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32287> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2003-06-13" .
+<http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/2108> .
+<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000048fea0> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/15304> .

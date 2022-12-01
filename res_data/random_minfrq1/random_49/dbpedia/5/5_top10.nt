@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/2000/01/rdf-schema#label> "Dallas Keuchel"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q10871364> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://xmlns.com/foaf/0.1/name> "Keuchel, Dallas"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://xmlns.com/foaf/0.1/givenName> "Dallas"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://dbpedia.org/ontology/debutTeam> <http://dbpedia.org/resource/Houston_Astros> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://xmlns.com/foaf/0.1/surname> "Keuchel"@en .

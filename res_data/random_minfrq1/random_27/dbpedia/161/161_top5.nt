@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/runtime> "296.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Compact_disc> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Usher_(singer)_songs> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Arista_Records_singles> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/DeVante_Swing> .

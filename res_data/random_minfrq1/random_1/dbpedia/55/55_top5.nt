@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Mephisto_Prize> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Japanese_people> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://xmlns.com/foaf/0.1/surname> "Mori"@en .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Nagoya_University_alumni> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Japanese_mystery_writers> .

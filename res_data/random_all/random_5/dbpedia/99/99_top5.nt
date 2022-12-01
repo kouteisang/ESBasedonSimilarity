@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Pop_rock> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/1986Albums> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q482994> .

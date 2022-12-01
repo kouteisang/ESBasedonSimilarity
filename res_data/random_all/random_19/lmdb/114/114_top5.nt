@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/14150> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/25385> .
+<http://data.linkedmdb.org/resource/film/6191> <http://purl.org/dc/terms/title> "Satomi Hakkenden" .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/44257> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36373> .

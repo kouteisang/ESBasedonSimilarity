@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/The_Black_Crowes> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/George_Drakoulias> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Blues_rock> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Southern_rock> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Instrumentality103575240> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/1992Singles> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Artifact100021939> .
+<http://dbpedia.org/resource/Sting_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:The_Black_Crowes_songs> .
+<http://dbpedia.org/resource/Sting_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1992_songs> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/2000/01/rdf-schema#label> "Sting Me"@en .

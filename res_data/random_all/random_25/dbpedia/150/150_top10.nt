@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/combatant> "22px|link=Kingdom of Holland" .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Abstraction100002137> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Event100029378> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Conflict100958896> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Battle100953559> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/causalties> "None" .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://xmlns.com/foaf/0.1/name> "Raid on Griessie"@en .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Edward_Pellew,_1st_Viscount_Exmouth> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Napoleonic_Wars> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Java_blank_map.svg?width=300> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesInvolvingBohemia> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GroupAction101080366> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesInvolvingSaxony> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Middle_Ages> .

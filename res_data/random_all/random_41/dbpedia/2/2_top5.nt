@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/2000/01/rdf-schema#label> "Adrian Griffin"@en .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Leader109623038> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SmallForwards> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://xmlns.com/foaf/0.1/surname> "Griffin"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Abstraction100002137> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesInvolvingTheHolyRomanEmpire> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1080_in_Europe> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_the_Holy_Roman_Empire> .

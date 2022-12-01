@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/sisterNewspaper> <http://dbpedia.org/resource/Jyllands-Posten> .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/JP/Politikens_Hus> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/2000/01/rdf-schema#label> "Politiken"@en .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1092563> .

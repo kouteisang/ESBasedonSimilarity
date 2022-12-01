@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/You_Better_Run> <http://www.w3.org/2000/01/rdf-schema#label> "You Better Run"@en .
+<http://dbpedia.org/resource/You_Better_Run> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1966_singles> .
+<http://dbpedia.org/resource/You_Better_Run> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1966_songs> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Chrysalis_Records> .
+<http://dbpedia.org/resource/You_Better_Run> <http://xmlns.com/foaf/0.1/name> "You Better Run"@en .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Tom_Dowd> .
+<http://dbpedia.org/resource/You_Better_Run> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://dbpedia.org/resource/You_Better_Run> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> .
+<http://dbpedia.org/resource/You_Better_Run> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/resource/You_Better_Run> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/SongsProducedByArifMardin> .

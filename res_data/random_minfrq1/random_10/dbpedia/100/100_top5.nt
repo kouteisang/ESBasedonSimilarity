@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2009_albums> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Indie_folk> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://www.w3.org/2000/01/rdf-schema#label> "Wide Awake Drunk"@en .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Fluke_EP> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Invisible_Tape> .

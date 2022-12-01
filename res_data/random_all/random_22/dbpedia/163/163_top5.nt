@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Medium106254669> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Artifact100021939> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Phil_Spector> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Silence_Is_Easy> .

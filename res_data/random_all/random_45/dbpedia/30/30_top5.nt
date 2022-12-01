@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/address> "5-2 Yayoidai"@en .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q719456> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q55488> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/operatedBy> <http://dbpedia.org/resource/Sagami_Railway> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://xmlns.com/foaf/0.1/name> "Yayoidai"@en .

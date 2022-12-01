@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/589> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/52344> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/71732> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/runtime> "95" .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/filmid> "12710"^^<http://www.w3.org/2001/XMLSchema#int> .

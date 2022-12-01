@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/Guilty_as_Charged> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sports_in_Manhattan> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://www.w3.org/2000/01/rdf-schema#label> "Massacre on 34th Street"@en .
+<http://dbpedia.org/resource/Holiday_Hell> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/Massacre_on_34th_Street> .
+<http://dbpedia.org/resource/Guilty_as_Charged> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/Massacre_on_34th_Street> .

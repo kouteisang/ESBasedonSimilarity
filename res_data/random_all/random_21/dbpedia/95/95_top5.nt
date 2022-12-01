@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://xmlns.com/foaf/0.1/name> "It's Still Rock and Roll to Me"@en .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Columbia_Records> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Columbia_Records_singles> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_about_music> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1980_songs> .

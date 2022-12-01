@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthDate> "1946-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/elements/1.1/description> "Indian politician"@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Members_of_the_Meghalaya_Legislative_Assembly> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1946_births> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://xmlns.com/foaf/0.1/name> "E.K. Mawlong"@en .

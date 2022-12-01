@@ -6,7 +6,7 @@ import os
 import torch
 from pykeen.triples import TriplesFactory
 from embedding.get_embedding import get_embedding_representation
-from greedy.remove_2_frequent import remove_top2_frequent
+from greedy.remove_2_frequent import remove_top2_frequent, remove_top2_frequent_may_not_k
 from greedy.variance_search import cluster_variance
 from greedy.wrong_experiment_search import wrong_cluster_entropy
 from soft_clustering.fuzzy_k_means import FCM
@@ -96,11 +96,18 @@ def get_wrong_complete_result(name, k, m, type):
         embedding_rep = get_embedding_representation(tf, model, key)
         t = FCM(embedding_rep, k, m, 0.001).forward()
         # res = wrong_cluster_entropy(t, key)  # entropy based method
-        res = remove_top2_frequent(t, key)
-        top_5 = res[:5]
+        # res = remove_top2_frequent(t, key) # remove the top2 frequent relation
+        count, res = remove_top2_frequent_may_not_k(t, key) # remove the top2 frequent relation, if the number is smaller than k, we just save the stasify one
+        if count >= 5:
+            top_5 = res[:5]
+        elif count < 5:
+            top_10 = res[:count]
         top_5.sort()
         store(top_5, "top", value, k, m, name)
-        top_10 = res[:10]
+        if count >= 10:
+            top_10 = res[:10]
+        elif count < 10:
+            top_10 = res[:count]
         top_10.sort()
         store(top_10, "top", value, k, m, name)
         store(res, "rank", value, k, m, name)

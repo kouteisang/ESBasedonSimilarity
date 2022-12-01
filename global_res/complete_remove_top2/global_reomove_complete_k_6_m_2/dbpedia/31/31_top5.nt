@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN3.1" .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://xmlns.com/foaf/0.1/depiction> <http://dbpedia.org/resource/Lake_Naivasha> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/conservationStatus> "LC" .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Carl_Linnaeus> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/abbreviation> "Intensive Care Med." .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/2000/01/rdf-schema#label> "Intensive Care Medicine (journal)"@en .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Emergency_medicine_journals> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English-language_journals> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Monthly_journals> .

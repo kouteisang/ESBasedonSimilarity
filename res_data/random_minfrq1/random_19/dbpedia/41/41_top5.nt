@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/MCMXCV_(album)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Foppt_den_Dämon!> .
+<http://dbpedia.org/resource/Bannkreis> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Foppt_den_Dämon!> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Medieval_metal> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Medieval_folk_rock> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Bannkreis> .

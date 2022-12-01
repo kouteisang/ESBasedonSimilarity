@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/165> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/filmid> "4053"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/FR> .
+<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000007afaba> .
+<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0329706> .

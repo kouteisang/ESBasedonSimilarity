@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/2381> <http://purl.org/dc/terms/date> "1965" .
+<http://data.linkedmdb.org/resource/film/2381> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004fd9b4> .
+<http://data.linkedmdb.org/resource/interlink/136102> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/2381> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30975> .
+<http://data.linkedmdb.org/resource/film/2381> <http://www.w3.org/2000/01/rdf-schema#label> "What's New Pussycat?" .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1965" .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/154> .
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/12908> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/2381> .
+<http://data.linkedmdb.org/resource/film/2381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/4357> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Hornbill> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Tockus> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Carl_Linnaeus> .

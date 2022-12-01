@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/conservationStatus> "EN" .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .

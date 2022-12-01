@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q152> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Actinopterygii> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://xmlns.com/foaf/0.1/name> "Schistura jarutanini"@en .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/conservationStatus> "VU" .

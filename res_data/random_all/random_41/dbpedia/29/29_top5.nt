@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Schmalkalden> .
+<http://dbpedia.org/resource/Wernshausen> <http://xmlns.com/foaf/0.1/homepage> <http://wernshausen.de/> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.georss.org/georss/point> "50.71666666666667 10.35" .
+<http://dbpedia.org/resource/Wernshausen> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Geography_of_Thuringia> .

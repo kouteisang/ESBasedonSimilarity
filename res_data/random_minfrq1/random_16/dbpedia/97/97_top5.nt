@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/runtime> "237.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Glam_metal_songs> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Hard_rock_songs> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_Andy_Biersack> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Glam_metal> .

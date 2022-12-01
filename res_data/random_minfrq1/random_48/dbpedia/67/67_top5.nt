@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Kozhikode> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/combatant> "Arab privateers" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/combatant> "Portuguese Empire" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/strength> "Hundreds of smaller ships" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/strength> "40 gun-mountedsambuks" .

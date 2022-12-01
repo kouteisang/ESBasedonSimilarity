@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Muławki> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Poland> .
+<http://dbpedia.org/resource/Muławki> <http://xmlns.com/foaf/0.1/name> "Muławki"@en .
+<http://dbpedia.org/resource/Muławki> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Gmina_Kętrzyn> .
+<http://dbpedia.org/resource/Muławki> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kętrzyn_County> .
+<http://dbpedia.org/resource/Muławki> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Warmian-Masurian_Voivodeship> .

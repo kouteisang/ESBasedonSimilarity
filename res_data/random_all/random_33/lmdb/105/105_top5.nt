@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/14177> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/2158> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/13754> .
+<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000048fea0> .
+<http://data.linkedmdb.org/resource/director/1193> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2108> .

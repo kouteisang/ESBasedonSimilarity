@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "50.566666"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Village> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .

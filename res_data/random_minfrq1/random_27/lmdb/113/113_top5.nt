@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2954> .
+<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0035096> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/5326> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/5226> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5155> .

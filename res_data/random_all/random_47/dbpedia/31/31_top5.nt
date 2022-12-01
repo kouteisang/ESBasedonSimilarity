@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN3.1" .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Birds_of_Equatorial_Guinea> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Tockus> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Birds_of_the_Republic_of_the_Congo> .

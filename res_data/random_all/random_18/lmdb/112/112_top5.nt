@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4501> <http://www.w3.org/2000/01/rdf-schema#label> "Super-Warrior Defeat!! I'm the One who'll Win" .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4410> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4408> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/3887> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1545> .

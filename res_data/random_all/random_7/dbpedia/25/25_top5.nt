@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/area> "4046.8564224"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Reamer_Barn.jpg?width=300> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/2000/01/rdf-schema#label> "Reamer Barn"@en .

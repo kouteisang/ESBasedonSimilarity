@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1996_albums> .

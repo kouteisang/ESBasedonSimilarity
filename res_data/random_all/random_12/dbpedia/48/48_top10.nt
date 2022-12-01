@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Blues_rock> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Southern_rock> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2188189> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Instrumentality103575240> .
+<http://dbpedia.org/resource/Sting_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Billboard_Mainstream_Rock_number-one_singles> .
+<http://dbpedia.org/resource/Sting_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_Rich_Robinson> .
+<http://dbpedia.org/resource/Sting_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1992_songs> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/2000/01/rdf-schema#label> "Sting Me"@en .

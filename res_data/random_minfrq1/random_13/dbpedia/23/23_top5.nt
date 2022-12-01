@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/utcOffset> "+3:30" .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kurdestan_Province> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Dehgolan_County> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Iran_Standard_Time> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://xmlns.com/foaf/0.1/name> "كوله بيان"@en .

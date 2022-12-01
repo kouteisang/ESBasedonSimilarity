@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0758789> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/37715> .
+<http://data.linkedmdb.org/resource/film/7963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/interlink/63652> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/7963> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/servingRailwayLine> <http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q55488> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Railway_stations_in_Yokohama> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://xmlns.com/foaf/0.1/name> "Yayoidai"@en .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/postalCode> "245-0008" .

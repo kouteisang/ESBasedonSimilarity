@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/70819> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/1338> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/4492> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/4491> .
+<http://data.linkedmdb.org/resource/film/1338> <http://purl.org/dc/terms/date> "1998-10-23" .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/filmid> "1338"^^<http://www.w3.org/2001/XMLSchema#int> .

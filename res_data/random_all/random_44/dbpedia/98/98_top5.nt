@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gangsta_Nation> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Terrorist_Threats> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Gangsta_rap> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hertz> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Westside_Connection> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:WC_(rapper)_albums> .

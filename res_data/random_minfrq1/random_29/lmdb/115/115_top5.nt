@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/relatedBook> <http://www4.wiwiss.fu-berlin.de/bookmashup/books/0771008139> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35239> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/52659> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47463> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .

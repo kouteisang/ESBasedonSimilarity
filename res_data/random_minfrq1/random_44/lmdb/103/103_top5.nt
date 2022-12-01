@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/14299> <http://purl.org/dc/terms/title> "Briana Loves Jenna" .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/filmid> "14299"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30040> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/39031> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32619> .

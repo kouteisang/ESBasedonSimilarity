@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Winner110782940> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Olympic_silver_medalists_for_Norway> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1898_births> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://xmlns.com/foaf/0.1/name> "Najmadin Shukr Rauf"@en .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Iraqi_Kurdish_people> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Guerrilla110150556> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/elements/1.1/description> "Kurdish guerilla"@en .

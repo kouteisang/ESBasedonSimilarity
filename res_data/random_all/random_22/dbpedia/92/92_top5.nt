@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Artifact100021939> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/2000/01/rdf-schema#label> "Drama City"@en .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ku_Hye-sun> .

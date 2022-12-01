@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31908> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/filmid> "7963"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/997> .
+<http://data.linkedmdb.org/resource/film/7963> <http://www.w3.org/2000/01/rdf-schema#label> "The Aftermath" .

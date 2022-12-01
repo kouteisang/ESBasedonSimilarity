@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/strength> "~20" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/strength> "14 (initially)" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/George_Oliver_Plunkett> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Dungarvan> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "(Déise Brigade)" .

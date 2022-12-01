@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaTotal> "1.06E7"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "54.6"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Uelsby> <http://xmlns.com/foaf/0.1/homepage> <http://www.amt-suedangeln.de/> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaCode> "04623" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/federalState> <http://dbpedia.org/resource/Schleswig-Holstein> .

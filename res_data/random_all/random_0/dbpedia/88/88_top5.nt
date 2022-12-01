@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Stemonoporus> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Endangered_plants> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/2000/01/rdf-schema#label> "Stemonoporus laevifolius"@en .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/EndangeredPlants> .

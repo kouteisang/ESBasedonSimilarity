@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/44800> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/10117> .
+<http://data.linkedmdb.org/resource/film/12710> <http://purl.org/dc/terms/title> "Megaville" .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/runtime> "95" .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Francisco_Ramírez_(governor)> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://xmlns.com/foaf/0.1/name> "Battle of Cepeda"@en .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Cepeda (1820)"@en .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/combatant> "24pxFederals" .

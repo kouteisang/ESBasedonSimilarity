@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Newspaper106267145> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Politiken> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Publications_established_in_1884> .
+<http://dbpedia.org/resource/Politiken> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Media_in_Copenhagen> .

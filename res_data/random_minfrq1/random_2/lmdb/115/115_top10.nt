@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/interlink/139299> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6213> .
+<http://data.linkedmdb.org/resource/interlink/72470> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6213> .
+<http://data.linkedmdb.org/resource/film/6213> <http://purl.org/dc/terms/title> "The Handmaid's Tale" .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/filmid> "6213"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30004> .
+<http://data.linkedmdb.org/resource/film/6213> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Handmaid's_Tale_(film)> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13441> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13572> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/281> .

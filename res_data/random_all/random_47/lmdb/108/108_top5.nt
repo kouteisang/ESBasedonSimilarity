@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://www.w3.org/2000/01/rdf-schema#label> "A Man, a Real One" .
+<http://data.linkedmdb.org/resource/film/4053> <http://purl.org/dc/terms/date> "2003-05-28" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/filmid> "4053"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0329706> .
+<http://data.linkedmdb.org/resource/interlink/39050> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/4053> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Kaalpurush> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Kaalpurush> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Rahul_Bose> .
+<http://dbpedia.org/resource/Kaalpurush> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Buddhadeb_Dasgupta> .

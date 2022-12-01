@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/conservationStatus> "EN" .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/2000/01/rdf-schema#label> "Lineatriton orchimelas"@en .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Lineatriton> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Amphibian> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Caudata> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Amphibian> .

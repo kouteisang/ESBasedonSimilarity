@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Bow_Down> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Sir_Jinx> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ice_Cube_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English-language_albums> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mack_10_albums> .

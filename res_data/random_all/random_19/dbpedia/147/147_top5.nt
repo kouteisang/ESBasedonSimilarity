@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MilitaryAction100952963> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/causalties> "33 killed (SLA claim)" .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Eastern_Theater_of_Eelam_War_IV> .

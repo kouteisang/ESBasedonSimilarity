@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4346> .
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/39434> .
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/371> .
+<http://data.linkedmdb.org/resource/film/2572> <http://www.w3.org/2000/01/rdf-schema#label> "Biggie & Tupac" .
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/runtime> "108" .

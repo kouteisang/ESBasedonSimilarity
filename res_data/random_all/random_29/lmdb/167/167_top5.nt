@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/44549> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/16986> .
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/5972> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/16986> .
+<http://data.linkedmdb.org/resource/film/16986> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000056c9d19> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/runtime> "92" .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/9794> .
